@@ -1,0 +1,52 @@
+[
+  {
+    "id": "aaa111222333",
+    "name": "svc-1",
+    "service": "alpha",
+    "ip": "172.18.0.2",
+    "port": 4000,
+    "status": "running",
+    "health": "healthy",
+    "weight": 5
+  },
+  {
+    "id": "bbb222333444",
+    "name": "svc-2",
+    "service": "alpha",
+    "ip": null,
+    "port": 4000,
+    "status": "running",
+    "health": "healthy",
+    "weight": 3
+  },
+  {
+    "id": "ccc333444555",
+    "name": "svc-3",
+    "service": "beta",
+    "ip": "172.18.0.4",
+    "port": null,
+    "status": "running",
+    "health": "healthy",
+    "weight": 7
+  },
+  {
+    "id": "ddd444555666",
+    "name": "svc-4",
+    "service": "beta",
+    "ip": "172.18.0.5",
+    "port": 5000,
+    "status": null,
+    "health": "healthy",
+    "weight": 6
+  },
+  {
+    "id": "eee555666777",
+    "name": null,
+    "service": "gamma",
+    "ip": "172.18.0.6",
+    "port": 6000,
+    "status": "running",
+    "health": "healthy",
+    "weight": 4
+  }
+]

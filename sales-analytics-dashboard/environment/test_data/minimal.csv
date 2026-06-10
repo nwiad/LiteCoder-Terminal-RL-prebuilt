@@ -1,0 +1,3 @@
+order_id,date,product_name,category,quantity,unit_price,customer_id
+ORD-501,2024-06-01,Widget,Gadgets,2,10.00,CUST-401
+ORD-502,2024-06-15,Widget,Gadgets,3,10.00,CUST-402

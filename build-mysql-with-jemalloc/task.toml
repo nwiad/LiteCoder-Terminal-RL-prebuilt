@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/build-mysql-with-jemalloc"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "hard"
+category = "system-administration"
+tags = [ "mysql", "jemalloc", "build-tools", "cmake", "performance-optimization",]
+expert_time_estimate_min = 90.0
+junior_time_estimate_min = 180.0
+
+[verifier]
+timeout_sec = 900.0
+
+[agent]
+timeout_sec = 5400.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--build-mysql-with-jemalloc:opencode-1.15.4-9f0a3f40427e"
+build_timeout_sec = 600.0
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "jdoe",
+      "full_name": "John Doe",
+      "project_start": "2024-01-15",
+      "project_end": "2024-06-30",
+      "role": "developer",
+      "disk_quota_mb": 5120,
+      "groups": ["developers", "project_alpha"]
+    },
+    {
+      "username": "asmith",
+      "full_name": "Alice Smith",
+      "project_start": "2024-02-01",
+      "project_end": "2024-12-31",
+      "role": "manager",
+      "disk_quota_mb": 10240,
+      "groups": ["managers", "project_alpha", "project_beta"]
+    },
+    {
+      "username": "bwilson",
+      "full_name": "Bob Wilson",
+      "project_start": "2023-11-01",
+      "project_end": "2024-01-10",
+      "role": "analyst",
+      "disk_quota_mb": 3072,
+      "groups": ["analysts", "project_gamma"]
+    },
+    {
+      "username": "cjones",
+      "full_name": "Carol Jones",
+      "project_start": "2024-03-01",
+      "project_end": "2024-09-30",
+      "role": "developer",
+      "disk_quota_mb": 5120,
+      "groups": ["developers", "project_beta"]
+    },
+    {
+      "username": "dlee",
+      "full_name": "David Lee",
+      "project_start": "2024-01-01",
+      "project_end": "2024-12-31",
+      "role": "admin",
+      "disk_quota_mb": 20480,
+      "groups": ["admins", "developers", "managers"]
+    }
+  ]
+}

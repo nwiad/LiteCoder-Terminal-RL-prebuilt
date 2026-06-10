@@ -1,0 +1,72 @@
+{
+  "traffic_log": [
+    {
+      "id": "pkt-001",
+      "timestamp": "2025-01-15T10:30:00Z",
+      "protocol": "HTTP",
+      "source_ip": "192.168.1.10",
+      "dest_ip": "10.0.0.5",
+      "headers": {
+        "Host": "api.example.com",
+        "User-Agent": "Mozilla/5.0",
+        "X-Request-Token": "eyJzZXEiOiAwLCAiZGF0YSI6ICJUaGUgIiwgImNoZWNrc3VtIjogIjAwMGI2MjViIn0="
+      }
+    },
+    {
+      "id": "pkt-002",
+      "timestamp": "2025-01-15T10:30:05Z",
+      "protocol": "DNS",
+      "source_ip": "192.168.1.12",
+      "dest_ip": "8.8.8.8",
+      "query": "7b22736571223a20312c202264617461223a20226e6574776f726b20222c2022636865636b73756d223a20223262646262343635227d.example.com"
+    },
+    {
+      "id": "pkt-003",
+      "timestamp": "2025-01-15T10:30:10Z",
+      "protocol": "SSH",
+      "source_ip": "192.168.1.15",
+      "dest_ip": "10.0.0.20",
+      "session_data": "eyJzZXEiOiAyLCAiZGF0YSI6ICJuZXZlciAiLCAiY2hlY2tzdW0iOiAiZjRjMWZhODMifQ=="
+    },
+    {
+      "id": "pkt-004",
+      "timestamp": "2025-01-15T10:30:15Z",
+      "protocol": "HTTP",
+      "source_ip": "192.168.1.10",
+      "dest_ip": "10.0.0.5",
+      "headers": {
+        "Host": "api.example.com",
+        "User-Agent": "curl/7.68.0",
+        "X-Request-Token": "eyJzZXEiOiAzLCAiZGF0YSI6ICJmb3JnZXRzIiwgImNoZWNrc3VtIjogIjY1MDhmMjg0In0="
+      }
+    },
+    {
+      "id": "pkt-005",
+      "timestamp": "2025-01-15T10:31:00Z",
+      "protocol": "DNS",
+      "source_ip": "192.168.1.20",
+      "dest_ip": "8.8.4.4",
+      "query": "7b22736571223a20312c202264617461223a202258585858585820222c2022636865636b73756d223a20223430663264396566227d.example.com"
+    },
+    {
+      "id": "pkt-006",
+      "timestamp": "2025-01-15T10:30:20Z",
+      "protocol": "SSH",
+      "source_ip": "192.168.1.30",
+      "dest_ip": "10.0.0.25",
+      "session_data": "eyJzZXEiOiA0LCAiZGF0YSI6ICJHQVJCQUdFIiwgImNoZWNrc3VtIjogIjAwMDAwMDAwIn0="
+    },
+    {
+      "id": "pkt-007",
+      "timestamp": "2025-01-15T10:30:25Z",
+      "protocol": "HTTP",
+      "source_ip": "192.168.1.35",
+      "dest_ip": "10.0.0.30",
+      "headers": {
+        "Host": "cdn.example.com",
+        "User-Agent": "Python/3.9",
+        "X-Request-Token": "eyJzZXEiOiA1LCAiZGF0YSI6ICJOT0lTRSIsICJjaGVja3N1bSI6ICJmZmZmZmZmZiJ9"
+      }
+    }
+  ]
+}

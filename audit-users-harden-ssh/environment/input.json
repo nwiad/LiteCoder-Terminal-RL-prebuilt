@@ -1,0 +1,17 @@
+{
+  "users": [
+    {"username": "root", "uid": 0, "gid": 0, "home": "/root", "shell": "/bin/bash", "comment": "root"},
+    {"username": "daemon", "uid": 1, "gid": 1, "home": "/usr/sbin", "shell": "/usr/sbin/nologin", "comment": "daemon"},
+    {"username": "bin", "uid": 2, "gid": 2, "home": "/bin", "shell": "/usr/sbin/nologin", "comment": "bin"},
+    {"username": "sys", "uid": 3, "gid": 3, "home": "/dev", "shell": "/usr/sbin/nologin", "comment": "sys"},
+    {"username": "nobody", "uid": 65534, "gid": 65534, "home": "/nonexistent", "shell": "/usr/sbin/nologin", "comment": "nobody"},
+    {"username": "nginx", "uid": 999, "gid": 999, "home": "/var/lib/nginx", "shell": "/usr/sbin/nologin", "comment": "nginx service"},
+    {"username": "postgres", "uid": 998, "gid": 998, "home": "/var/lib/postgresql", "shell": "/bin/false", "comment": "PostgreSQL administrator"},
+    {"username": "jdoe", "uid": 1001, "gid": 1001, "home": "/home/jdoe", "shell": "/bin/bash", "comment": "John Doe"},
+    {"username": "asmith", "uid": 1002, "gid": 1002, "home": "/home/asmith", "shell": "/bin/zsh", "comment": "Alice Smith"},
+    {"username": "bwong", "uid": 1003, "gid": 1003, "home": "/home/bwong", "shell": "/bin/bash", "comment": "Bob Wong"},
+    {"username": "cjones", "uid": 1004, "gid": 1004, "home": "/home/cjones", "shell": "/bin/sh", "comment": "Carol Jones"},
+    {"username": "deploy", "uid": 1005, "gid": 1005, "home": "/home/deploy", "shell": "/usr/sbin/nologin", "comment": "deployment service"}
+  ],
+  "sshd_config_original": "# OpenSSH Server Configuration\n\nPort 22\nListenAddress 0.0.0.0\nProtocol 1,2\n\n# Authentication\nPermitRootLogin yes\nStrictModes yes\nMaxAuthTries 6\nPubkeyAuthentication yes\n\nPasswordAuthentication yes\nPermitEmptyPasswords no\n\n# Logging\nSyslogFacility AUTH\nLogLevel INFO\n\nX11Forwarding no\nPrintMotd yes\nAcceptEnv LANG LC_*\nSubsystem sftp /usr/lib/openssh/sftp-server\n"
+}

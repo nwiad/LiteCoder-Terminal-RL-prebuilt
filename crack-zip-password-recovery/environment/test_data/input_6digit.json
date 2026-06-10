@@ -1,0 +1,5 @@
+{
+  "message": "Maximum length pin test",
+  "password_hint": "6-digit numeric PIN",
+  "password": "003141"
+}

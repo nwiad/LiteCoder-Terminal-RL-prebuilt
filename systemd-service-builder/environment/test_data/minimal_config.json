@@ -1,0 +1,5 @@
+{
+  "service_name": "testdaemon",
+  "description": "A test daemon service",
+  "source_file": "src/myapp.c"
+}

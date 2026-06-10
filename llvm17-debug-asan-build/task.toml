@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/llvm17-debug-asan-build"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "hard"
+category = "build-tools"
+tags = [ "llvm", "clang", "cmake", "address-sanitizer", "compiler-toolchain",]
+expert_time_estimate_min = 60.0
+junior_time_estimate_min = 150.0
+
+[verifier]
+timeout_sec = 600.0
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--llvm17-debug-asan-build:opencode-1.15.4-6d46fb7062b3"
+build_timeout_sec = 600.0
+cpus = 4
+memory_mb = 16384
+storage_mb = 51200
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

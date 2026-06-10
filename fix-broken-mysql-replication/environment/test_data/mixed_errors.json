@@ -1,0 +1,47 @@
+{
+  "master": {
+    "binlog_file": "mysql-bin.000100",
+    "binlog_position": 3000000000,
+    "executed_gtid_set": "1111-2222-3333:1-500000",
+    "server_id": 1,
+    "read_only": false
+  },
+  "slave1": {
+    "server_id": 2,
+    "master_host": "10.10.10.1",
+    "read_only": true,
+    "slave_io_running": "Yes",
+    "slave_sql_running": "No",
+    "master_log_file": "mysql-bin.000098",
+    "read_master_log_pos": 1500000000,
+    "relay_master_log_file": "mysql-bin.000095",
+    "exec_master_log_pos": 500000000,
+    "seconds_behind_master": null,
+    "last_sql_errno": 1236,
+    "last_sql_error": "Got fatal error 1236 from master when reading data from binary log: 'could not find next log'",
+    "last_io_errno": 0,
+    "last_io_error": "",
+    "retrieved_gtid_set": "1111-2222-3333:1-350000",
+    "executed_gtid_set": "1111-2222-3333:1-350000",
+    "auto_position": 1
+  },
+  "slave2": {
+    "server_id": 3,
+    "master_host": "10.10.10.1",
+    "read_only": true,
+    "slave_io_running": "Yes",
+    "slave_sql_running": "No",
+    "master_log_file": "mysql-bin.000099",
+    "read_master_log_pos": 2800000000,
+    "relay_master_log_file": "mysql-bin.000100",
+    "exec_master_log_pos": 2999999000,
+    "seconds_behind_master": null,
+    "last_sql_errno": 1062,
+    "last_sql_error": "Error 'Duplicate entry 77777 for key PRIMARY' on query. Default database: 'inventory'. Query: 'INSERT INTO products (id, name) VALUES (77777, \"Widget\")'",
+    "last_io_errno": 0,
+    "last_io_error": "",
+    "retrieved_gtid_set": "1111-2222-3333:1-499990",
+    "executed_gtid_set": "1111-2222-3333:1-499985",
+    "auto_position": 1
+  }
+}

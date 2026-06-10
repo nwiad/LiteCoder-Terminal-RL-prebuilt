@@ -1,0 +1,6 @@
+[
+  {"order_id": "ORD-2022-1234", "sku": "SKU-A100", "quantity": 8, "order_date": "2022-06-15", "revenue": 200.00},
+  {"order_id": "ORD-2022-1235", "sku": "SKU-B200", "quantity": 5, "order_date": "2022-06-15", "revenue": 149.95},
+  {"order_id": "ORD-2022-1236", "sku": "SKU-C300", "quantity": 12, "order_date": "2022-06-15", "revenue": 540.00},
+  {"order_id": "ORD-2022-1237", "sku": "SKU-D400", "quantity": 7, "order_date": "2022-06-15", "revenue": 315.00}
+]

@@ -1,0 +1,8 @@
+[
+  {"ProductID": 101, "Product_Name": "Wireless Mouse", "Category": "Electronics", "Price": 25.99},
+  {"ProductID": 102, "Product_Name": "USB Keyboard", "Category": "Electronics", "Price": null},
+  {"ProductID": 103, "Product_Name": "Desk Lamp", "Category": "Furniture", "Price": 45.00},
+  {"ProductID": 104, "Product_Name": "Notebook", "Category": "Stationery", "Price": 5.50},
+  {"ProductID": 104, "Product_Name": "Notebook", "Category": "Stationery", "Price": 5.50},
+  {"ProductID": 105, "Product_Name": "Monitor Stand", "Category": "Furniture", "Price": 75.00}
+]

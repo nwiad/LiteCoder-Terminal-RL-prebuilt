@@ -1,0 +1,7 @@
+[
+  {"order_id": "ORD-2023-9998", "sku": "SKU-A100", "quantity": 15, "order_date": "2023-12-31", "revenue": 375.00},
+  {"order_id": "ORD-2023-9999", "sku": "SKU-B200", "quantity": 9, "order_date": "2023-12-31", "revenue": 269.91},
+  {"order_id": "ORD-2023-0000", "sku": "SKU-C300", "quantity": 20, "order_date": "2023-12-31", "revenue": 900.00},
+  {"order_id": "ORD-2023-0001", "sku": "SKU-D400", "quantity": 11, "order_date": "2023-12-31", "revenue": 495.00},
+  {"order_id": "ORD-2023-0002", "sku": "SKU-E500", "quantity": 6, "order_date": "2023-12-31", "revenue": 180.00}
+]

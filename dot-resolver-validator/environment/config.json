@@ -1,0 +1,8 @@
+{
+  "upstream_servers": [
+    {"name": "cloudflare", "address": "1.1.1.1", "tls_port": 853, "hostname": "cloudflare-dns.com"},
+    {"name": "quad9", "address": "9.9.9.9", "tls_port": 853, "hostname": "dns.quad9.net"}
+  ],
+  "stubby_port": 53000,
+  "test_domains": ["example.com", "google.com", "github.com"]
+}

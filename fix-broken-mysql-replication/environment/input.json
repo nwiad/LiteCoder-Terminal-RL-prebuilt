@@ -1,0 +1,47 @@
+{
+  "master": {
+    "binlog_file": "mysql-bin.000042",
+    "binlog_position": 85432176,
+    "executed_gtid_set": "a1b2c3d4-e5f6-7890-abcd-ef1234567890:1-95000",
+    "server_id": 1,
+    "read_only": false
+  },
+  "slave1": {
+    "server_id": 2,
+    "master_host": "192.168.1.10",
+    "read_only": true,
+    "slave_io_running": "Yes",
+    "slave_sql_running": "No",
+    "master_log_file": "mysql-bin.000042",
+    "read_master_log_pos": 85432176,
+    "relay_master_log_file": "mysql-bin.000042",
+    "exec_master_log_pos": 85431000,
+    "seconds_behind_master": null,
+    "last_sql_errno": 1062,
+    "last_sql_error": "Error 'Duplicate entry 12345 for key PRIMARY' on query. Default database: 'ecommerce'. Query: 'INSERT INTO orders (id, customer_id, total) VALUES (12345, 678, 99.95)'",
+    "last_io_errno": 0,
+    "last_io_error": "",
+    "retrieved_gtid_set": "a1b2c3d4-e5f6-7890-abcd-ef1234567890:1-95000",
+    "executed_gtid_set": "a1b2c3d4-e5f6-7890-abcd-ef1234567890:1-94998",
+    "auto_position": 1
+  },
+  "slave2": {
+    "server_id": 3,
+    "master_host": "192.168.1.10",
+    "read_only": true,
+    "slave_io_running": "Yes",
+    "slave_sql_running": "No",
+    "master_log_file": "mysql-bin.000040",
+    "read_master_log_pos": 15728640,
+    "relay_master_log_file": "mysql-bin.000039",
+    "exec_master_log_pos": 10485760,
+    "seconds_behind_master": null,
+    "last_sql_errno": 1236,
+    "last_sql_error": "Got fatal error 1236 from master when reading data from binary log: 'Could not find first log file name in binary log index file'",
+    "last_io_errno": 0,
+    "last_io_error": "",
+    "retrieved_gtid_set": "a1b2c3d4-e5f6-7890-abcd-ef1234567890:1-82000",
+    "executed_gtid_set": "a1b2c3d4-e5f6-7890-abcd-ef1234567890:1-82000",
+    "auto_position": 1
+  }
+}

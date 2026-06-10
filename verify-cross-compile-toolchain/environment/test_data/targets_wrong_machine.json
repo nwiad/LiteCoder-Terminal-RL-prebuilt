@@ -1,0 +1,8 @@
+[
+  {
+    "name": "wrong-machine-type",
+    "compiler": "gcc",
+    "flags": "-march=x86-64 -O2",
+    "expected_machine": "ARM"
+  }
+]

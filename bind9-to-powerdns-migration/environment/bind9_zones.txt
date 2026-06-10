@@ -1,0 +1,42 @@
+; BIND9 Zone File - Corp Example
+; Primary zone for corp.example.com
+
+$ORIGIN corp.example.com.
+$TTL 3600
+@       IN  SOA   ns1.corp.example.com. admin.corp.example.com. (
+                    2024010101  ; Serial
+                    3600        ; Refresh
+                    900         ; Retry
+                    604800      ; Expire
+                    86400 )     ; Minimum TTL
+@       IN  NS    ns1.corp.example.com.
+@       IN  NS    ns2.corp.example.com.
+ns1     IN  A     192.168.1.1
+ns2     IN  A     192.168.1.2
+mail    IN  A     192.168.1.10
+@       IN  MX    10 mail.corp.example.com.
+www     IN  CNAME corp.example.com.
+app     IN  A     192.168.1.20
+db      IN  A     192.168.1.30
+
+; Secondary zone for dev.example.com
+
+$ORIGIN dev.example.com.
+$TTL 7200
+@       IN  SOA   ns1.dev.example.com. hostmaster.dev.example.com. (
+                    2024020201  ; Serial
+                    7200        ; Refresh
+                    1800        ; Retry
+                    1209600     ; Expire
+                    172800 )    ; Minimum TTL
+@       IN  NS    ns1.dev.example.com.
+@       IN  NS    ns2.dev.example.com.
+ns1     IN  A     10.0.0.1
+ns2     IN  A     10.0.0.2
+web     IN  A     10.0.0.10
+api     IN  A     10.0.0.20
+staging IN  CNAME web.dev.example.com.
+@       IN  MX    20 mail.dev.example.com.
+mail    IN  A     10.0.0.30
+ipv6host IN AAAA  2001:db8::1
+cache 1800 IN  A  10.0.0.40

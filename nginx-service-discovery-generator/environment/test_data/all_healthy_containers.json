@@ -1,0 +1,32 @@
+[
+  {
+    "id": "abc123def456",
+    "name": "app-1",
+    "service": "app",
+    "ip": "172.18.0.2",
+    "port": 5000,
+    "status": "running",
+    "health": "healthy",
+    "weight": 5
+  },
+  {
+    "id": "def456abc123",
+    "name": "app-2",
+    "service": "app",
+    "ip": "172.18.0.3",
+    "port": 5000,
+    "status": "running",
+    "health": "healthy",
+    "weight": 3
+  },
+  {
+    "id": "111222333aaa",
+    "name": "worker-1",
+    "service": "worker",
+    "ip": "172.18.0.4",
+    "port": 7000,
+    "status": "running",
+    "health": "healthy",
+    "weight": 8
+  }
+]

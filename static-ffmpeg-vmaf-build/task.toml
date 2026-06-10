@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/static-ffmpeg-vmaf-build"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "hard"
+category = "system-administration"
+tags = [ "ffmpeg", "static-linking", "compilation", "vmaf", "c-cpp",]
+expert_time_estimate_min = 60.0
+junior_time_estimate_min = 150.0
+
+[verifier]
+timeout_sec = 600.0
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--static-ffmpeg-vmaf-build:opencode-1.15.4-f09558e74918"
+build_timeout_sec = 600.0
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

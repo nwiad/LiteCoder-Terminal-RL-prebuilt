@@ -1,0 +1,44 @@
+[
+  {
+    "id": "h001",
+    "title": "Federal Reserve Raises Interest Rates by 0.5%",
+    "source": "Reuters",
+    "published_at": "2025-06-15T08:30:00Z"
+  },
+  {
+    "id": "h002",
+    "title": "Massive Earthquake Strikes Southern California",
+    "source": "AP News",
+    "published_at": "2025-06-15T09:00:00Z"
+  },
+  {
+    "id": "h003",
+    "title": "Tech Giants Report Record Profits in Q2 Earnings",
+    "source": "Bloomberg",
+    "published_at": "2025-06-15T10:15:00Z"
+  },
+  {
+    "id": "h004",
+    "title": "Hurricane Warning Issued for Gulf Coast as Storm Intensifies",
+    "source": "CNN",
+    "published_at": "2025-06-15T11:00:00Z"
+  },
+  {
+    "id": "h005",
+    "title": "United Nations Calls for Ceasefire in Ongoing Conflict in Sudan",
+    "source": "BBC",
+    "published_at": "2025-06-15T12:30:00Z"
+  },
+  {
+    "id": "h006",
+    "title": "NASA Successfully Launches New Mars Rover Mission",
+    "source": "Space.com",
+    "published_at": "2025-06-15T13:45:00Z"
+  },
+  {
+    "id": "h007",
+    "title": "Global Stock Markets Plunge Amid Recession Fears",
+    "source": "Financial Times",
+    "published_at": "2025-06-15T14:00:00Z"
+  }
+]

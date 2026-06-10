@@ -1,0 +1,9 @@
+{
+  "num_train_samples": 200,
+  "num_test_samples": 50,
+  "image_size": 64,
+  "num_epochs": 3,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "random_seed": 42
+}

@@ -1,0 +1,9 @@
+order_id,date,product_name,category,quantity,unit_price,customer_id
+,2024-05-01,No ID Item,Electronics,1,10.00,CUST-601
+ORD-601,,Missing Date,Electronics,2,20.00,CUST-602
+ORD-602,2024-05-03,,Electronics,1,15.00,CUST-603
+ORD-603,2024-05-04,Valid Item,Electronics,,25.00,CUST-604
+ORD-604,2024-05-05,Zero Qty,Electronics,0,30.00,CUST-605
+ORD-605,2024-05-06,Neg Price,Electronics,1,-10.00,CUST-606
+ORD-606,2024-05-07,Good Item,Electronics,2,50.00,CUST-607
+ORD-606,2024-05-08,Duplicate,Electronics,1,25.00,CUST-608

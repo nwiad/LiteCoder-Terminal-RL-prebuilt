@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "2.1.0",
+  "port": 8080,
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "appdb"
+  },
+  "logging": {
+    "level": "info",
+    "file": "/var/log/webapp.log"
+  }
+}

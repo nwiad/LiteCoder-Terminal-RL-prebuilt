@@ -1,0 +1,8 @@
+{
+  "users": ["alice", "bob", "charlie"],
+  "key_type": "ed25519",
+  "key_bits": 256,
+  "backup_dir": "/app/backups",
+  "log_file": "/app/rotation.log",
+  "cron_schedule": "0 3 1 * *"
+}

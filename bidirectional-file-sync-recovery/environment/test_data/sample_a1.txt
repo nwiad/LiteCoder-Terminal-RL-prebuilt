@@ -1,0 +1,3 @@
+This is a sample file in project_a.
+It contains some text for sync testing.
+Line 3 of sample_a1.

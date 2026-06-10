@@ -1,0 +1,12 @@
+{
+  "load_balancer": {
+    "host": "0.0.0.0",
+    "port": 8080
+  },
+  "health_check": {
+    "interval_seconds": 5,
+    "timeout_seconds": 2,
+    "unhealthy_threshold": 3
+  },
+  "registry_poll_interval_seconds": 3
+}

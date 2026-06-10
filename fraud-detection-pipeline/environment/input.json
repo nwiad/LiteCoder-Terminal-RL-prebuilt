@@ -1,0 +1,10 @@
+{
+  "amount": 250.75,
+  "num_txns_last_1h": 3,
+  "num_txns_last_24h": 12,
+  "avg_amount_last_24h": 85.50,
+  "is_foreign": 1,
+  "age": 35,
+  "account_age_days": 720,
+  "credit_score": 680
+}

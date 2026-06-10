@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/harden-ssh-2fa-key-auth"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "medium"
+category = "system-administration"
+tags = [ "ssh", "pam", "linux-security", "2fa", "user-management",]
+expert_time_estimate_min = 25.0
+junior_time_estimate_min = 55.0
+
+[verifier]
+timeout_sec = 360.0
+
+[agent]
+timeout_sec = 2700.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--harden-ssh-2fa-key-auth:opencode-1.15.4-de6b036987bf"
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

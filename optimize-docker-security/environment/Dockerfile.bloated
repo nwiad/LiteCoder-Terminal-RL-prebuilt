@@ -1,0 +1,31 @@
+FROM ubuntu:22.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+ENV SECRET_DB_PASSWORD=supersecret123
+ENV API_KEY=sk-fake-key-do-not-use
+
+RUN apt-get update && apt-get install -y \
+    python3 python3-pip python3-dev \
+    gcc g++ make cmake \
+    vim nano \
+    curl wget \
+    nmap tcpdump strace \
+    telnet net-tools \
+    openssh-server \
+    htop sysstat \
+    zip unzip \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip3 install --no-cache-dir -r requirements.txt
+RUN pip3 install --no-cache-dir numpy pandas scipy scikit-learn matplotlib pillow
+
+COPY app.py .
+
+EXPOSE 5000
+
+USER root
+CMD ["python3", "app.py"]

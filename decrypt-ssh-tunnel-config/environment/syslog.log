@@ -1,0 +1,10 @@
+Feb 10 08:12:01 appserver systemd[1]: Started Session 42 of user admin.
+Feb 10 08:12:03 appserver CRON[2841]: (root) CMD (/usr/bin/certbot renew)
+Feb 10 08:12:15 appserver kernel: [UFW BLOCK] IN=eth0 OUT= SRC=192.168.1.105
+Feb 10 08:13:22 appserver sshd[2901]: Accepted publickey for admin from 10.0.0.5
+Feb 10 08:14:00 appserver tunnel-manager[3010]: config fragment cached PASSPHRASE_PART3=Yw4nTj
+Feb 10 08:14:05 appserver tunnel-manager[3010]: tunnel health check passed
+Feb 10 08:15:30 appserver systemd[1]: Starting Daily apt download activities...
+Feb 10 08:15:32 appserver systemd[1]: Started Daily apt download activities.
+Feb 10 08:16:00 appserver CRON[3105]: (root) CMD (test -x /usr/sbin/anacron)
+Feb 10 08:17:45 appserver kernel: [UFW ALLOW] IN=eth0 OUT= SRC=10.0.0.5

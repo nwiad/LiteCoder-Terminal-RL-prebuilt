@@ -1,0 +1,187 @@
+{
+  "subnet": "192.168.1.0/24",
+  "scan_timestamp": "2025-06-15T10:30:00Z",
+  "hosts": [
+    {
+      "ip": "192.168.1.1",
+      "mac": "AA:BB:CC:DD:EE:01",
+      "hostname": "gateway.local",
+      "status": "up",
+      "ports": [
+        {
+          "port": 80,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "http",
+          "version": "nginx 1.14.0"
+        },
+        {
+          "port": 443,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "https",
+          "version": "nginx 1.14.0"
+        },
+        {
+          "port": 23,
+          "protocol": "tcp",
+          "state": "closed",
+          "service": "telnet",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "ip": "192.168.1.5",
+      "mac": "AA:BB:CC:DD:EE:05",
+      "hostname": "legacy-server.local",
+      "status": "up",
+      "ports": [
+        {
+          "port": 23,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "telnet",
+          "version": ""
+        },
+        {
+          "port": 21,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ftp",
+          "version": "vsftpd 2.3.4"
+        },
+        {
+          "port": 80,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "http",
+          "version": "Apache 2.4.29"
+        }
+      ]
+    },
+    {
+      "ip": "192.168.1.10",
+      "mac": "AA:BB:CC:DD:EE:10",
+      "hostname": "workstation1.local",
+      "status": "up",
+      "ports": [
+        {
+          "port": 22,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ssh",
+          "version": ""
+        },
+        {
+          "port": 8080,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "http-proxy",
+          "version": ""
+        },
+        {
+          "port": 3000,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "grafana",
+          "version": ""
+        },
+        {
+          "port": 9090,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "prometheus",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "ip": "192.168.1.20",
+      "mac": "AA:BB:CC:DD:EE:20",
+      "hostname": "printer.local",
+      "status": "down",
+      "ports": []
+    },
+    {
+      "ip": "192.168.1.25",
+      "mac": "AA:BB:CC:DD:EE:25",
+      "hostname": "desktop2.local",
+      "status": "up",
+      "ports": [
+        {
+          "port": 3389,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ms-wbt-server",
+          "version": ""
+        },
+        {
+          "port": 445,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "microsoft-ds",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "ip": "192.168.1.30",
+      "mac": "AA:BB:CC:DD:EE:30",
+      "hostname": "nas.local",
+      "status": "down",
+      "ports": []
+    },
+    {
+      "ip": "192.168.1.50",
+      "mac": "AA:BB:CC:DD:EE:50",
+      "hostname": "webserver.local",
+      "status": "up",
+      "ports": [
+        {
+          "port": 22,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ssh",
+          "version": "OpenSSH 8.9"
+        },
+        {
+          "port": 80,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "http",
+          "version": "Apache 2.4.52"
+        },
+        {
+          "port": 443,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "https",
+          "version": "Apache 2.4.52"
+        },
+        {
+          "port": 3306,
+          "protocol": "tcp",
+          "state": "filtered",
+          "service": "mysql",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "ip": "192.168.1.100",
+      "mac": "AA:BB:CC:DD:EE:AA",
+      "hostname": "laptop1.local",
+      "status": "up",
+      "ports": [
+        {
+          "port": 22,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ssh",
+          "version": ""
+        }
+      ]
+    }
+  ]
+}

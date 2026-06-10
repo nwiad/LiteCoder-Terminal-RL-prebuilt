@@ -1,0 +1,2421 @@
+# Dataset manifest for LiteCoder/LiteCoder-rl
+# Add tasks using: harbor add <org>/<name>
+# Publish using: harbor publish
+
+[dataset]
+name = "LiteCoder/LiteCoder-rl"
+description = "LiteCoder Terminal RL environments"
+keywords = []
+[[dataset.authors]]
+name = "LiteCoder"
+email = "LiteCoder@users.noreply.github.com"
+
+
+[[tasks]]
+name = "LiteCoder/aes-cbc-padding-oracle"
+digest = "sha256:5fbbb8c288cf8ade85b1b96f0ddb630ce365c96373e6cfc42ee16bd9158ccaa6"
+
+[[tasks]]
+name = "LiteCoder/aes-cbc-pdf-decrypt"
+digest = "sha256:a9867fd8b9567fd45e0e80758347858312a504009f317f5108fb05c8df8ace4f"
+
+[[tasks]]
+name = "LiteCoder/aes-cbc-png-stego-decrypt"
+digest = "sha256:0a6250d57b5d411586007467bf0b1693fb74f9b3d6435c3888ed64412d5da847"
+
+[[tasks]]
+name = "LiteCoder/aes-gcm-nonce-reuse-exploit"
+digest = "sha256:a38ada401c88d981a6d7c568b2b7326394ba4b577f6cee206de18b067fef6c88"
+
+[[tasks]]
+name = "LiteCoder/aes-known-plaintext-recovery"
+digest = "sha256:733a2199a87722fb0eb64fd1a3920d11bc7ccfa8ff371fbdb4be487083bf210b"
+
+[[tasks]]
+name = "LiteCoder/ag-news-topic-classifier"
+digest = "sha256:b3f841fd5bd31495e1a0a8ecf2c1fc59343b1dd8c297d20cdb97215fdd266e02"
+
+[[tasks]]
+name = "LiteCoder/alpine-static-binary-builder"
+digest = "sha256:91d59a96726fdadcb460bcc0e8d0902bc98ca892b120b40193fe0a9f3036be67"
+
+[[tasks]]
+name = "LiteCoder/als-matrix-factorization-recommender"
+digest = "sha256:e3d89070daf373f9dc4fe0f445a5eef9d0b2b04d850db45ac527141ae16183f9"
+
+[[tasks]]
+name = "LiteCoder/analyze-airport-performance"
+digest = "sha256:81565085c679d069a3fc8620aeea01384a2098c67d238444d674c3a02ac38ca7"
+
+[[tasks]]
+name = "LiteCoder/analyze-global-climate-data"
+digest = "sha256:02aa0d373fb0ea423810cd14d406afdcd95af32598eb4e6b0b9a69a5ec6a0aff"
+
+[[tasks]]
+name = "LiteCoder/analyze-nyc-citibike-trips"
+digest = "sha256:6eaf73c6c1d54bdc8118d2366cd8898f3f4a5d83ceaf41e83664d2afafd5415d"
+
+[[tasks]]
+name = "LiteCoder/analyze-nyc-taxi-efficiency"
+digest = "sha256:67dbc43dc0e39f9d106cdbff9085f9eded6dc22f1ebbf9eb25d2c570fa9e0e8c"
+
+[[tasks]]
+name = "LiteCoder/analyze-retail-sales-data"
+digest = "sha256:ef31770ce59e078c6130e5e75db2d5160bbeca9869fb5640b9e5890a97d697a3"
+
+[[tasks]]
+name = "LiteCoder/analyze-stock-data-visualize"
+digest = "sha256:0a79897c9b79c8a8c0f01ac3cfc72aca1d6d9aa2fba247ced59f440d7a7d133b"
+
+[[tasks]]
+name = "LiteCoder/apache-modsecurity-proxy"
+digest = "sha256:6d181867045415d6ce21c9bfa8fe98fc524fcf08df2a037876d3ab55e4c84893"
+
+[[tasks]]
+name = "LiteCoder/apache-ssl-vhosts-setup"
+digest = "sha256:39f7aedb5b9e53b19e18179dd87ee21eb2aba4dd7b4be13245b93b803de78dc1"
+
+[[tasks]]
+name = "LiteCoder/apache-virtual-hosts-setup"
+digest = "sha256:78f5e27765ba6ee7f4baddbc6bdc1e08ddfb3d45f1e065a563077f2710e407a9"
+
+[[tasks]]
+name = "LiteCoder/apache-websocket-reverse-proxy"
+digest = "sha256:10eb4f5943ea867e2ae11fd0f4ba9412531bd18a4645245d24a526f84f2b94e8"
+
+[[tasks]]
+name = "LiteCoder/arm-cortex-m4-cross-compile"
+digest = "sha256:30cedfcf8e22d4bb8fe712f6eaadeb0852d14457dd1c4f46c4b39eee545f1f10"
+
+[[tasks]]
+name = "LiteCoder/arm-cortex-m4-linker-script"
+digest = "sha256:8bb91507a107937717f44c4ca88e653dfbd6573ac99f657eff7af97556bb1351"
+
+[[tasks]]
+name = "LiteCoder/arm-cross-compiler-dockerfile"
+digest = "sha256:78e12d5dac5a50c5c6ac70cede54a80fb1c2df3ec139f85ce9906651bee128ee"
+
+[[tasks]]
+name = "LiteCoder/arm64-cross-compile-setup"
+digest = "sha256:c4813324fb51da902c5a1df2e27a7cc982c33d68a60e74130adc86a8e87e65a2"
+
+[[tasks]]
+name = "LiteCoder/arm64-cross-toolchain-builder"
+digest = "sha256:d45a305c3096780f2040430840738c5e23b39c265662b6b70dfa1f9e6ccabdd0"
+
+[[tasks]]
+name = "LiteCoder/arm64-rootfs-python-builder"
+digest = "sha256:27c6711d9c56ba3048eb7d1826a13b12e06415b05c3ba72050acf93303d3d9d4"
+
+[[tasks]]
+name = "LiteCoder/audio-genre-cnn-pytorch"
+digest = "sha256:5e436d5be7a4858e499d7a72f6e1a6931a48c844487ee16b51cdd51760950af8"
+
+[[tasks]]
+name = "LiteCoder/audit-release-branch-commits"
+digest = "sha256:2d9a3b9ccee87470d51aff86b437dca4dbe2a42cd0b3867a9d89ddd30642b0ff"
+
+[[tasks]]
+name = "LiteCoder/audit-users-harden-ssh"
+digest = "sha256:c151ec8f43aefc83228774e7c99e112cfef68d5c4d78454b4fd9e5814a0cc3d6"
+
+[[tasks]]
+name = "LiteCoder/automate-git-bisect-bug"
+digest = "sha256:ed998e56efcf954c22b4fc4fa65f5371dd849fa218a31ebc876302635fd7de9b"
+
+[[tasks]]
+name = "LiteCoder/automate-user-permission-setup"
+digest = "sha256:853425341c6c4d4008a285caf5ba09e14abb207d1421ec5175c15b02b940d541"
+
+[[tasks]]
+name = "LiteCoder/automated-offsite-backup-system"
+digest = "sha256:6d03ba5713db2aee231b529bb83ff5fd495620537faada5c24e63c1f81961258"
+
+[[tasks]]
+name = "LiteCoder/automated-rsync-sync-pipeline"
+digest = "sha256:c1d69f8fb3cf7536fe1621176f221f44cbcc52198c371cc981cbb07df098ff83"
+
+[[tasks]]
+name = "LiteCoder/autotools-libmini-conversion"
+digest = "sha256:f6dadc84776721c1b551a5b908cbf69065248976533abd66a184afaf1cf9b196"
+
+[[tasks]]
+name = "LiteCoder/autotools-migration-libxcalc"
+digest = "sha256:9691968ec913d100a3ebc1bf5deeb141c94ba84c1a66a446a00b8934bd97c15a"
+
+[[tasks]]
+name = "LiteCoder/bash-crypto-vault-script"
+digest = "sha256:b288514c67eb04366e69da0412ecb3092494c7124c5ce819fe269173272f9a96"
+
+[[tasks]]
+name = "LiteCoder/bert-news-classification-pipeline"
+digest = "sha256:81260f8beef8670780bcdf60b77dc596d4cdfcb2456673c16c22ef341fe251ff"
+
+[[tasks]]
+name = "LiteCoder/bidirectional-file-sync-recovery"
+digest = "sha256:e25409f10c87f6e9e6b0c60f777575f16383f409514628c23eb9ab0a8e087215"
+
+[[tasks]]
+name = "LiteCoder/bikeshare-demand-forecast"
+digest = "sha256:a60d73e8d6907f1c92ddbf85153d26f9a29dec685133881a28373451cf4cfcf1"
+
+[[tasks]]
+name = "LiteCoder/bind9-apache-vhost-setup"
+digest = "sha256:33896164d90f9429acfac99fa9f5b919f3331946e9dceca5e245e29620541857"
+
+[[tasks]]
+name = "LiteCoder/bind9-to-powerdns-migration"
+digest = "sha256:fe6327d83a6b13f9b692a838af9c9788e6c20bdbf24cdb05b9675024fbb3fc63"
+
+[[tasks]]
+name = "LiteCoder/bitcoin-price-moving-average"
+digest = "sha256:60ef075ebf2baa0958d497c2ef663060a57c87b82681be02572a7ff8b3bf5d3b"
+
+[[tasks]]
+name = "LiteCoder/bitcoin-sentiment-score-pipeline"
+digest = "sha256:5ebd8d67c94b52b18a7a31fd49c1f57262aa65ad7fca8622521aea68e11bbc0d"
+
+[[tasks]]
+name = "LiteCoder/bootstrap-arm-gcc-toolchain"
+digest = "sha256:ea3468494c8a534cd20dee4afa11723e9509557adc18731baf33ea63ec7ec045"
+
+[[tasks]]
+name = "LiteCoder/brute-force-des-key-recovery"
+digest = "sha256:5d4634218c48b5f2af8c9bb44d161946afd95acc75f330681b0b5ab906a81a9e"
+
+[[tasks]]
+name = "LiteCoder/brute-force-key-recovery"
+digest = "sha256:92076f7923e382fa1646cc21e1dd63ce91f712bbc169b8057d3c5225fedbc231"
+
+[[tasks]]
+name = "LiteCoder/budget-expense-analysis"
+digest = "sha256:dcc6921c8186a717a3b30cf442e4d55be63cbec59d1addee8265031e65ad11ad"
+
+[[tasks]]
+name = "LiteCoder/build-arm-cross-compiler"
+digest = "sha256:a0906723507ff44becd9c1bd278e8e8b984dac205cdcd27604445d4ba655e0ba"
+
+[[tasks]]
+name = "LiteCoder/build-arm64-cross-compiler"
+digest = "sha256:b9756e75c090e4913826cf8e05423446727d142c4050153a3bbe6fdf4b3f7821"
+
+[[tasks]]
+name = "LiteCoder/build-armv7-cross-toolchain"
+digest = "sha256:c727605a6a43441d165a3e2fc34fc2e03aecce51dd1f2bbd971b0dbd2ba1fca5"
+
+[[tasks]]
+name = "LiteCoder/build-c-static-library"
+digest = "sha256:123ed264f122468e0e1dd0081c4a3b65c4a4bd4649b7eb309f5c1bd48022eaed"
+
+[[tasks]]
+name = "LiteCoder/build-cpu-pytorch-mkl-wheel"
+digest = "sha256:c055210f5a89f4546f73f6a24f58d1eea26271b5669ef384470e41d43d3fb5bb"
+
+[[tasks]]
+name = "LiteCoder/build-debian-package-repo"
+digest = "sha256:02c08840cc3c8e424af36164612fd57eed8f8d5f101b1881cba9c8a30bb30101"
+
+[[tasks]]
+name = "LiteCoder/build-gcc-arm-cross-compiler"
+digest = "sha256:ba90a28b24b1ac2da9497b7f829bea65551746c40ab88dc93560d289fa142338"
+
+[[tasks]]
+name = "LiteCoder/build-git-from-source"
+digest = "sha256:36ef500366405597f04664052e19850fa9a6cf317311e1511ecaa467a44a642f"
+
+[[tasks]]
+name = "LiteCoder/build-git-from-source__sample_0572_c92cd76d"
+digest = "sha256:fe5ac8fc6a077b7506df52eeeb30cf36eae640bfc390993e9a8a75d44b04e64d"
+
+[[tasks]]
+name = "LiteCoder/build-glibc-from-source"
+digest = "sha256:9b51f5fc59a5283012828f9a7174deaa7d92039de4d08c6f5430e90c492172df"
+
+[[tasks]]
+name = "LiteCoder/build-go-hello-binary"
+digest = "sha256:f360d95f1bf4e75b1db5939e778505ce4925bfe1138eb512649f6d11500ac20f"
+
+[[tasks]]
+name = "LiteCoder/build-install-test-tcc"
+digest = "sha256:43c2d68537c0022893992903e1353b09facb5a3fe0a212605bda1a3ba72394ec"
+
+[[tasks]]
+name = "LiteCoder/build-lldb-python-scripts"
+digest = "sha256:913b796ff36dbd8456b85ff4a99bdb3e73e3b734bba4e9be99fc1111fe06ef17"
+
+[[tasks]]
+name = "LiteCoder/build-lua54-shared-library"
+digest = "sha256:25f92b547f5504516d602c9173a32bf9b5a98c541e8442ea336c21ef17cbb6eb"
+
+[[tasks]]
+name = "LiteCoder/build-minimal-linux-iso"
+digest = "sha256:33a66bd93877b916bf09e2367bad671906b3145e5feec2dae4b207009635b1df"
+
+[[tasks]]
+name = "LiteCoder/build-multiarch-static-gmp"
+digest = "sha256:8b0ce39b2d07f276af8b34698b106e816f7e77cf414da16ded2c93a1f6e8a8cb"
+
+[[tasks]]
+name = "LiteCoder/build-musl-static-hello"
+digest = "sha256:b5cbbc26ed854723811365d3a8b2f7e0278f558f15fda65b94a1604bae956609"
+
+[[tasks]]
+name = "LiteCoder/build-mysql-with-jemalloc"
+digest = "sha256:44411be6af3188e941bf03122683ace1c1ada06d62171b2a93ab72f277a86cff"
+
+[[tasks]]
+name = "LiteCoder/build-openssl-gost-engine"
+digest = "sha256:6546cf61e88c7cda9ac58e7fcf4014cee8a40ea2364c0d5735a2df735f42b9cc"
+
+[[tasks]]
+name = "LiteCoder/build-python-deb-package"
+digest = "sha256:91f3d51126d3cfb178124dcc2a696ce8c65ae573cfb490e29064381046f14093"
+
+[[tasks]]
+name = "LiteCoder/build-python312-from-source"
+digest = "sha256:873bf4b417283b902f02f4519fce9711b9ff44fe0a41a3a003930526e161f683"
+
+[[tasks]]
+name = "LiteCoder/build-python312-scientific-env"
+digest = "sha256:45ef83a55462a9e9a1f8eba2c164996467ebb98a5ec3e7931f525275b7c3f269"
+
+[[tasks]]
+name = "LiteCoder/build-qemu-from-source"
+digest = "sha256:d5c5579c2e2d64c737520c2e06a85e2096f52cb77db6db94db4d1aa4f840f660"
+
+[[tasks]]
+name = "LiteCoder/build-static-ffmpeg-binary"
+digest = "sha256:ba81928cfee30d41d654f630c7f8c60f283faeed98e53f07d30b0c1ec3ae88f5"
+
+[[tasks]]
+name = "LiteCoder/build-static-ffmpeg-fdk-aac"
+digest = "sha256:0403c1da17511a0b6c576669de8a393d41d1571bc245198d6649a6ca08e1eb05"
+
+[[tasks]]
+name = "LiteCoder/build-static-ffmpeg-h265"
+digest = "sha256:c5e112cd10c43e72ad7be8f1d44d37c69c0beef629a5a28f644fecfa93079df7"
+
+[[tasks]]
+name = "LiteCoder/build-static-ffmpeg-vmaf"
+digest = "sha256:751c3e0d63d1a1c0d2bf6496dc1e9f7257cf8ebc7ea474acfc3c9a11d74454e4"
+
+[[tasks]]
+name = "LiteCoder/build-static-qt-toolkit"
+digest = "sha256:9171199b85f9eec8c4260b6358831ab959bf109b5b52176869b4048d8146f6a6"
+
+[[tasks]]
+name = "LiteCoder/build-wasi-hello-wasm"
+digest = "sha256:aa9ebcc6c8966b6264361c2e03ed0e047a1099fdefed858c70710d6728495bac"
+
+[[tasks]]
+name = "LiteCoder/buildroot-arm64-kernel-module"
+digest = "sha256:13b8a704f52e92772cd506325a951ba1f9b9d8b516a0b53c1a37c71ad0980dcf"
+
+[[tasks]]
+name = "LiteCoder/buildroot-riscv-pipeline-setup"
+digest = "sha256:8dca5d1c27840e1e3c03eede85ec73bcb737e59ba37e4da3d970775f791dd0fb"
+
+[[tasks]]
+name = "LiteCoder/c-library-compile-link-analysis"
+digest = "sha256:089c8d5fc236093cc1d8bb1e9b12dafc88d6965da4f0795ca0bd8fc39a4aba31"
+
+[[tasks]]
+name = "LiteCoder/c-memory-tracking-library"
+digest = "sha256:71d49cfaa63f90088e775e3caa5eb107a162a7ef20f1f91f6c2eb2a3ea7d008c"
+
+[[tasks]]
+name = "LiteCoder/california-wildfire-psps-analysis"
+digest = "sha256:64e7afc43c94f6362a60143eacc2a5c648181dab4104f9c2d75e6c604b2de755"
+
+[[tasks]]
+name = "LiteCoder/cdn-docker-image-gallery"
+digest = "sha256:82e0cb4d83144ae4ecd86d73e42b1f7937f0b1d4b6647be2e2ad56074a5c6676"
+
+[[tasks]]
+name = "LiteCoder/cdn-failover-system"
+digest = "sha256:bfdb020bfe932deb20e81dcbfc01eb8720486a396b30605386cb6c2ff929b3a4"
+
+[[tasks]]
+name = "LiteCoder/chicago-salary-data-analysis"
+digest = "sha256:b04b3e864295c99b44835e93d9598fe8a9b89a1fff6b2270877759451ae60b82"
+
+[[tasks]]
+name = "LiteCoder/churn-prediction-imbalanced-data"
+digest = "sha256:0639b6e8022fb12c93f98a98c5f0fad898244f67653040bbc5ed156da5ea9720"
+
+[[tasks]]
+name = "LiteCoder/cifar10-cnn-visualizer"
+digest = "sha256:4e5f15cba4ad4d70ef48e7b67636be3d1f05bd7b3aa95bda36634eeeb16e9465"
+
+[[tasks]]
+name = "LiteCoder/cifar10-cpu-classification-pipeline"
+digest = "sha256:14b4dede22c210146056c8972520c441e0925a7f49f31dd444522947669507c8"
+
+[[tasks]]
+name = "LiteCoder/cifar10-custom-cnn"
+digest = "sha256:db0aca6a380fd8b0c530a58ff7dac9fb62b9b8493a1634787011ddfd147ea5d7"
+
+[[tasks]]
+name = "LiteCoder/cifar100-densenet-training"
+digest = "sha256:b67da91d53e96cc06b68e9626e5f395b5968b6db54503a8af3500663a4f2ba30"
+
+[[tasks]]
+name = "LiteCoder/clang-tidy-cmake-setup"
+digest = "sha256:a63627581424ad69a2017c181d66552dd389851e223398cb63bd2eb2f48e439d"
+
+[[tasks]]
+name = "LiteCoder/clean-git-history-surgery"
+digest = "sha256:dbc3754dd58807ec10c29599b808337496c24660e88aa6445de9379c0ba2211f"
+
+[[tasks]]
+name = "LiteCoder/cleanup-git-repo-history"
+digest = "sha256:7aad72c6233eb68635d19b596aff5919edbf64322b72966d48446cf95902418e"
+
+[[tasks]]
+name = "LiteCoder/cmake-c-math-library"
+digest = "sha256:5e453f45835b4250b87c3459029834e6736311d321df671eb4048a5c626ba058"
+
+[[tasks]]
+name = "LiteCoder/cmake-calculator-build"
+digest = "sha256:fac0f3478710241e18c26ea3728f71507a02d51e89e22b1ece86347466750756"
+
+[[tasks]]
+name = "LiteCoder/cmake-compiler-swap-presets"
+digest = "sha256:42c70905a3052f5f59466ff30269e9bcdb314a8efb0d6372cdc4fb6e15ce463f"
+
+[[tasks]]
+name = "LiteCoder/cmake-cpp-build-benchmark"
+digest = "sha256:8c385c90435373ee3b2e6e16c406136aade44cdd238a48d90cf58880d8f7fd98"
+
+[[tasks]]
+name = "LiteCoder/cmake-cpp-multi-library-build"
+digest = "sha256:fdf42bb8f90c5398b98cfc196238f234613097683615fd4492ee911c9c2683c0"
+
+[[tasks]]
+name = "LiteCoder/cmake-crossplatform-cpp-setup"
+digest = "sha256:4e84b1b858057475c3f58b2fe14b1d6295363202ecbfade89f6df9e1776b33c2"
+
+[[tasks]]
+name = "LiteCoder/cmake-crossplatform-gtest-setup"
+digest = "sha256:a5f02393b4b465fbd96217d6a4b9a7235084fb35627f6cbb1e9ba6ff7f3bd511"
+
+[[tasks]]
+name = "LiteCoder/cmake-static-lib-migration"
+digest = "sha256:2a2e37741daaefa1af046559ee75a15cd6d983b6de5390e93636d3aa1c40e5a5"
+
+[[tasks]]
+name = "LiteCoder/cmake-static-math-library"
+digest = "sha256:cb9238e78e54e795acc582da49d87c8d6da8289044fa83d66217bb758d0bf790"
+
+[[tasks]]
+name = "LiteCoder/compile-spdlog-with-benchmarks"
+digest = "sha256:d9eff10929f3ca185e12301df11880a7be547a84dc320640bacee9a6007d6142"
+
+[[tasks]]
+name = "LiteCoder/complex-perceptron-iris-benchmark"
+digest = "sha256:bfaf003a1d2a71fdf611fd362eba618864448de6c3ce655a2e94da48e5ad2ca7"
+
+[[tasks]]
+name = "LiteCoder/configure-unbound-dot-resolver"
+digest = "sha256:bf1507e5a952b11dfb6bb65328c1710edd23db1b1cf152e5bb36909eaebd4973"
+
+[[tasks]]
+name = "LiteCoder/consolidate-regional-sales-csv"
+digest = "sha256:1cb87f3b374f5579c13b12f296cc3394725580e1a05f6c487aa5fb8deed413e7"
+
+[[tasks]]
+name = "LiteCoder/container-image-backup-system"
+digest = "sha256:98bd908cf9fdcbb702ce3f36624323c8e9ade95fb6ef275515040d24ef8ca4e3"
+
+[[tasks]]
+name = "LiteCoder/containerize-legacy-php-lamp"
+digest = "sha256:5d8f17ef45992e8deab20cf4dc9f3c186c7befeffca11d1b7bc5fdee03d5c32a"
+
+[[tasks]]
+name = "LiteCoder/containerized-express-docker-stack"
+digest = "sha256:d38abb3c521ef52852f7c8e83aa3ebd5bb394ef10852cbd6e4df306e11ee4ee3"
+
+[[tasks]]
+name = "LiteCoder/containerized-load-balanced-cluster"
+digest = "sha256:9d6932a1fd505a6dc114c0d33aa94d6ec68bacf604bdbb5fd034e58392472bd4"
+
+[[tasks]]
+name = "LiteCoder/covid-arima-forecast-pipeline"
+digest = "sha256:781cba312b6e7e12b0ab93e626db1878d68488be0436887ceaa2986b8f41cee2"
+
+[[tasks]]
+name = "LiteCoder/covid-county-data-analysis"
+digest = "sha256:8a39afe957d2cf7f0985eab01c2b6852a54a3e7645164f6ae96ccdc130012ad7"
+
+[[tasks]]
+name = "LiteCoder/covid-tweet-sentiment-analysis"
+digest = "sha256:b9fa7488fc53f74f8e94c50c68bd8b5edff1ef8685c1b586b6f8f30b6591ad83"
+
+[[tasks]]
+name = "LiteCoder/covid19-data-pipeline"
+digest = "sha256:47d75d0bd720e4f5cdda4e45c395fd8249cf0b6b8ab10dadbdf5fbe3eb517ae2"
+
+[[tasks]]
+name = "LiteCoder/cpu-anomaly-detection-pipeline"
+digest = "sha256:ce16cac9f06b8502068cd022c4ef0768110b75314c23dc661f171abc7b0bf062"
+
+[[tasks]]
+name = "LiteCoder/cpu-bert-finetune-optimize"
+digest = "sha256:e6138623b29b7e933ec31804e0f9fcab1787998c66dec1c17e2383260abb890f"
+
+[[tasks]]
+name = "LiteCoder/cpu-bert-finetune-pipeline"
+digest = "sha256:37fb5e186d39d6ad629d0e55d797e1768290ddd61598106ca2ab68578c1a5895"
+
+[[tasks]]
+name = "LiteCoder/cpu-bert-finetune-sentiment"
+digest = "sha256:64080141b8838ad1e894edc60e06b52a5efc9c2f7b240e187f2686a59f9d7771"
+
+[[tasks]]
+name = "LiteCoder/cpu-bertopic-hdbscan-pipeline"
+digest = "sha256:e134c4652f6b79a095865bccd4deac81c6db19bdc80c7d3b2ef6a815e0bec700"
+
+[[tasks]]
+name = "LiteCoder/cpu-cnn-image-classification"
+digest = "sha256:cf5a4b8e156ca779e9e1fe53ea93168e6cd4f21274ccdeb5dc55cb59d1a39511"
+
+[[tasks]]
+name = "LiteCoder/cpu-cnn-training-pipeline"
+digest = "sha256:5b2016b8ca8061f0b8573898958827c4f8d8f355bcb6b77c4ed710c9ad91ea9c"
+
+[[tasks]]
+name = "LiteCoder/cpu-ddp-cifar10-training"
+digest = "sha256:58a059fa2b7c28a0d11d754070e2235847776aea8e59d6587513997dfa9f033f"
+
+[[tasks]]
+name = "LiteCoder/cpu-distilbert-sentiment-analysis"
+digest = "sha256:c204bd77985f6156e07d46590b0410b8dc61a355d3fcd3a42dda8b29c2eb82b2"
+
+[[tasks]]
+name = "LiteCoder/cpu-llm-finetune-customer-qa"
+digest = "sha256:dbf05fd02f28f9334c0d829dab5e7851295a56ead96219b048130f401d1cbdf2"
+
+[[tasks]]
+name = "LiteCoder/cpu-mnist-classification-pipeline"
+digest = "sha256:69304a6572ff0bbf13226682837a20627236a8fc8bb736b4b9a68d55b536536f"
+
+[[tasks]]
+name = "LiteCoder/cpu-mnist-gan-training"
+digest = "sha256:32f5aeaf8989eea97d323b13e4f084327f963945e5d4176e41eed37c08e7aa58"
+
+[[tasks]]
+name = "LiteCoder/cpu-mnist-gan-training__sample_0002_d315f143"
+digest = "sha256:b2d0390aa012c8323ea00716ba5f0dd56a0965b175e4327942c73c69ea62d359"
+
+[[tasks]]
+name = "LiteCoder/cpu-mnist-gan-training__sample_0445_5b89c6be"
+digest = "sha256:2c11e06bc997da26ea517cd34948368afdb1d435f52fbcb0f24830d29d4dfa29"
+
+[[tasks]]
+name = "LiteCoder/cpu-peft-poetry-finetuning"
+digest = "sha256:0db200b1c8089b0ef531532fbdbcc1c3b26c75ad9af946ce2fbe00bfef650bfd"
+
+[[tasks]]
+name = "LiteCoder/cpu-sentiment-movie-reviews"
+digest = "sha256:4bdd00cca4199c9663a036eeb6f63d503718233ef0f90ab865ecbbda58fd750d"
+
+[[tasks]]
+name = "LiteCoder/cpu-yolov5-detection-pipeline"
+digest = "sha256:e193a3adc852d2cfa671feaa632f762f504aea7d499025f9829e94c8e2fe034a"
+
+[[tasks]]
+name = "LiteCoder/cpython-debug-memory-tracing"
+digest = "sha256:c6599f43703bdb209db1772ca07316359a9e794f093342bf179f13e4a148a776"
+
+[[tasks]]
+name = "LiteCoder/crack-encrypted-zip-password"
+digest = "sha256:aeb74d1d4f6268ece5afbd96c54ebba2a309c4ddc71bbeecc1d4d0ec865bad45"
+
+[[tasks]]
+name = "LiteCoder/crack-flawed-encryption-vault"
+digest = "sha256:5fb741506f9bc43fe309a1822658ad957994e82ec7edbb47eb88a17e19f24dce"
+
+[[tasks]]
+name = "LiteCoder/crack-md5-hashes-report"
+digest = "sha256:53dd6512e20e3a97d044759a915b352c4fcfeed1ae422bfb55dc6ca83ae95da7"
+
+[[tasks]]
+name = "LiteCoder/crack-multilayer-cipher"
+digest = "sha256:869bf6c838473ef1e443c8c9730efb445c065a34d1e02da8aad15ef112ed326a"
+
+[[tasks]]
+name = "LiteCoder/crack-shadow-file-hashes"
+digest = "sha256:b2c5e53b29b63a66cea0c1f8aad872a7c7cf77180c0faea1e8d17f93e72de039"
+
+[[tasks]]
+name = "LiteCoder/crack-vault-encryption-flaw"
+digest = "sha256:3b015bfe120d38d59c99121719afe3edca5afedc795b7e9dfbf3fee776dec979"
+
+[[tasks]]
+name = "LiteCoder/crack-vigenere-cipher"
+digest = "sha256:bea646ddae2ce8ac9c91d7de6b873e1b7c76d2064012142f039f5362c01f5039"
+
+[[tasks]]
+name = "LiteCoder/crack-weak-cipher-analysis"
+digest = "sha256:8ec4ecb92ffed91747e7d48a3027dc0e78a91179e2e664db8fbaa7e96c86ad67"
+
+[[tasks]]
+name = "LiteCoder/crack-zip-brute-force"
+digest = "sha256:f30ecb9b94b309f3fb5f9c16440e4d6025cbe7d55442f600e14169c9a009628b"
+
+[[tasks]]
+name = "LiteCoder/crack-zip-decrypt-message"
+digest = "sha256:123f1a6ba9934dd040285f68798b50838616dfc0aa78d856e8f17527172000c7"
+
+[[tasks]]
+name = "LiteCoder/crack-zip-known-plaintext"
+digest = "sha256:1ed89058c320c615c46d0ee0d79fcf6c1ed1bd6f85e31d30a48be0f0f07e4e46"
+
+[[tasks]]
+name = "LiteCoder/crack-zip-password-recovery"
+digest = "sha256:0ab84468857ac44cf4e0cddd98a633f5aebc8bdc0eb9f95a329d0d12d3f1d389"
+
+[[tasks]]
+name = "LiteCoder/crack-zip-password-recovery__sample_0244_378c350c"
+digest = "sha256:dd9e6268d502e80a06dd0791b910f0e7da5760e9aadd303f9f71a3b3f2a9d038"
+
+[[tasks]]
+name = "LiteCoder/credit-card-fraud-detection"
+digest = "sha256:81d5ef68c27a48e8a8a2f8d834f66d60878e9f5515c76ed5d8a48a18f73fdd88"
+
+[[tasks]]
+name = "LiteCoder/credit-card-fraud-pipeline"
+digest = "sha256:122885d9968387089843d055cb47e13e5c59e8c3690f78a83b06ab9f6d53e96b"
+
+[[tasks]]
+name = "LiteCoder/crop-weather-analysis"
+digest = "sha256:23474f050019b0c11669f1b013bab620cb93c067e141e5582e5e0db656424075"
+
+[[tasks]]
+name = "LiteCoder/cross-compile-arm-busybox"
+digest = "sha256:a9b8a0f8de9f6a7f4218f460b86c34b46dd421729305740199a7a5d75a04f109"
+
+[[tasks]]
+name = "LiteCoder/cross-compile-openssl-arm64"
+digest = "sha256:9134d8038b54e165fe218fb8b2d5bb1d5770ac7463f6298b628da66e58c577e3"
+
+[[tasks]]
+name = "LiteCoder/cross-compile-static-ffmpeg-vulkan"
+digest = "sha256:c3f65e3f43a1bceb5639d86db5099f6536d040dcafcdbcc0545026b29227b220"
+
+[[tasks]]
+name = "LiteCoder/crosslingual-sentiment-classifier"
+digest = "sha256:f257a3dea3b8cf3e260b177f11f8e12c6a6f02d910a36e1753d3f3e63f2e74a8"
+
+[[tasks]]
+name = "LiteCoder/crypto-price-prediction-pipeline"
+digest = "sha256:42c455135d6abdda174d97a2067ce183a0b2fe8ca406c663fc5e7cc0e6479911"
+
+[[tasks]]
+name = "LiteCoder/crypto-sentiment-pipeline"
+digest = "sha256:de29423b8f397cb27e1fdcf59c9274a86a2c696a17cabc53ab79ce13d71e6107"
+
+[[tasks]]
+name = "LiteCoder/csv-data-quality-profiling"
+digest = "sha256:535917b70f61cd01c7cbba762fac4ea24861903d4b1df2834ae61f82a8d97136"
+
+[[tasks]]
+name = "LiteCoder/csv-etl-postgres-pipeline"
+digest = "sha256:a47fb350cf4a6f16e62096b9d91109f9db42b59a15bc6cce79fd1faec4a0d441"
+
+[[tasks]]
+name = "LiteCoder/csv-stats-outlier-detector"
+digest = "sha256:24fe602c0810789ae427a3dae946e683a76c1e7bf6ec643cd336c87150120107"
+
+[[tasks]]
+name = "LiteCoder/custom-kernel-boot-logo"
+digest = "sha256:c5dc858ae880334614c5b9c995397285c2f340964d75d58bf324865d7f3cecc1"
+
+[[tasks]]
+name = "LiteCoder/custom-shared-lib-dlopen"
+digest = "sha256:055b9474ec83e24473a9a5b452f9a4d2c1593015e7f3febed1ec704c3a836d36"
+
+[[tasks]]
+name = "LiteCoder/decrypt-aes-file-recovery"
+digest = "sha256:fd68772e82f90d8dc734c73e3daecb9dc7ea18f38536a99b8323eae6558c512b"
+
+[[tasks]]
+name = "LiteCoder/decrypt-encrypted-conversation"
+digest = "sha256:5dfd431a06f9ed4610c94ec4f3469a3c7316bce58f6ab969f0886c127d0b41f3"
+
+[[tasks]]
+name = "LiteCoder/decrypt-forensic-database-dump"
+digest = "sha256:0e61bd385165fe99cfb0114995fa182d7863fdf453e9b9b5bd0e92c71cda4b76"
+
+[[tasks]]
+name = "LiteCoder/decrypt-hidden-message"
+digest = "sha256:988dbaa53e3a9673e6e701fcd6ab0c2e3e86247a629947fcc04d3ae780acb0b1"
+
+[[tasks]]
+name = "LiteCoder/decrypt-predictable-seed-xor"
+digest = "sha256:43e3fb2507213a60913b5cf74300690d775c675498c8ea6f1b89ba07ad140f85"
+
+[[tasks]]
+name = "LiteCoder/decrypt-sqlcipher-database"
+digest = "sha256:dbda20b5465d521e385ccda62c8dd201ef4975cb50395ad92fca3a7fcbccc8f3"
+
+[[tasks]]
+name = "LiteCoder/decrypt-ssh-tunnel-config"
+digest = "sha256:d6cab752b413742bfba23fe07bae9f6196a2147e0249266fa85eccc40ee27baf"
+
+[[tasks]]
+name = "LiteCoder/decrypt-vault-analysis"
+digest = "sha256:636677df02291c20d2ac4f9d85579e3db7a083f3771425cdbac2837c998ed2a1"
+
+[[tasks]]
+name = "LiteCoder/decrypt-verify-symmetric-key"
+digest = "sha256:4ed0a545f7a21557ec9163b812a8dcb65ea0151d85723cf407471abafa2a9851"
+
+[[tasks]]
+name = "LiteCoder/deploy-cpp-websocket-server"
+digest = "sha256:e556da4108e8dd517a7ffd80ee59d6ba01c6658e264606bf5e8f5254bb560b6d"
+
+[[tasks]]
+name = "LiteCoder/deploy-fim-c-binary"
+digest = "sha256:3dd0a3ffe4b9f888755768d02fd067e9dc59921ac97ff0bc9c4807067b9a04ba"
+
+[[tasks]]
+name = "LiteCoder/deploy-lamp-stack-ubuntu"
+digest = "sha256:e06f26e6c99f88c3c057268def18b0663646ba1d172741cec3dd93b76cebc515"
+
+[[tasks]]
+name = "LiteCoder/deploy-pihole-dns-sinkhole"
+digest = "sha256:5c9cba6d3b493e088f83c2ac7be5c7e01e782824c584a6466c62d68d132a36b5"
+
+[[tasks]]
+name = "LiteCoder/deploy-secure-lemp-stack"
+digest = "sha256:d28a3d114d641d17bc79f6972fc46ecb6ab8be971a1d1b87a6e2aafe1ebd5eb1"
+
+[[tasks]]
+name = "LiteCoder/deploy-secure-nginx-tls"
+digest = "sha256:93d0343406c4def6ff8dda8c621bdec623e4e2094bcdb6b4627f975e981b85d3"
+
+[[tasks]]
+name = "LiteCoder/deploy-wordpress-docker-ssl"
+digest = "sha256:844f789dec6b76a47ed9ce430423eb0df973d1b4d4d6e2c199d1cd80b5699a08"
+
+[[tasks]]
+name = "LiteCoder/deploy-wordpress-nginx-ssl"
+digest = "sha256:a88b26fbb2aa1eeafe0e950b043e80a2c29a80d5067f66da9fe2d5bc44831d7e"
+
+[[tasks]]
+name = "LiteCoder/deploy-zabbix-docker-stack"
+digest = "sha256:3d9f53862133da238cca6572af12827fdb16db6f391e34c4e476ed87d2873522"
+
+[[tasks]]
+name = "LiteCoder/detect-filesystem-steganography"
+digest = "sha256:d96b0e3829fa1a0423f90330545e1c84f650d1920633dbfbf88c1486e27c43e4"
+
+[[tasks]]
+name = "LiteCoder/detect-portscan-block-attacker"
+digest = "sha256:0928e82a2fbbe625b4f7793ffcfd65e190b3b3731253f68aca90c87cb7cdb3d8"
+
+[[tasks]]
+name = "LiteCoder/distributed-web-crawler"
+digest = "sha256:f66104c4522ab5ce5d971f9e1cf6101a1a9dc0520f8bf2eed07cfbb1a75e93fc"
+
+[[tasks]]
+name = "LiteCoder/django-api-rate-limiting"
+digest = "sha256:a3fe38b6c444e6d88b8d4b63a32c12bd80cd93e32decdfe065157c8a618e73aa"
+
+[[tasks]]
+name = "LiteCoder/dns-load-balance-cluster"
+digest = "sha256:c0fe2d271add003e52f43d1557b1e2c796eff439d159909b15b53380a3ef99bb"
+
+[[tasks]]
+name = "LiteCoder/dns-resolver-web-dashboard"
+digest = "sha256:0829aeffcc6f41f8d50d2ca85ab422d4cec0a39a27c2226026ffe91c2197680e"
+
+[[tasks]]
+name = "LiteCoder/dns-sd-load-balancer"
+digest = "sha256:9076688ba574da9737e40f12f193b76622ef14123bc61caaf39939d6f014159d"
+
+[[tasks]]
+name = "LiteCoder/dns-server-flask-dashboard"
+digest = "sha256:714d83d3dbacc8b2007b4243e159810e446766d3345acb2b76e00c5e76cc8e10"
+
+[[tasks]]
+name = "LiteCoder/dns-srv-reverse-proxy"
+digest = "sha256:138c6fd9090d603fc92c142bae4675ff65b3a99fd0e9a2cf6460230bdf0a52d5"
+
+[[tasks]]
+name = "LiteCoder/dnsmasq-local-reverse-proxy"
+digest = "sha256:ed866d303b0e53c6cc1e5ea82280199b58dc55c6eee40ddd227651f384c478ad"
+
+[[tasks]]
+name = "LiteCoder/docker-compose-health-dashboard"
+digest = "sha256:14dd8588c1e19b3a23af670a6bd6e299102df550e04c3039181c138c1df7b0a4"
+
+[[tasks]]
+name = "LiteCoder/docker-compose-multi-service-app"
+digest = "sha256:913add597c0685b372a783a725a7f8a413acdea4e23a2b95332d0c76a6bd8be5"
+
+[[tasks]]
+name = "LiteCoder/docker-flask-postgres-app"
+digest = "sha256:8e6f69fe91442410400a7aeaad7a19a7ce0281c2ddc2c223921191e986b68a46"
+
+[[tasks]]
+name = "LiteCoder/docker-lemp-stack-setup"
+digest = "sha256:ae91bbf751be021a9ae76348025e208c9d112fa91f85def28a96e26265deb66a"
+
+[[tasks]]
+name = "LiteCoder/docker-memory-upgrade-sim"
+digest = "sha256:d7b1b827f0181fceec21d7667ec3bbb3e7f60c126d07980edc03fb00600db085"
+
+[[tasks]]
+name = "LiteCoder/docker-monitoring-stack"
+digest = "sha256:8cc893f42a4c00b01eae3d8dd2f0dfd0570a762b8028322b806f7e5bfbeaf563"
+
+[[tasks]]
+name = "LiteCoder/docker-multilang-sdk-build"
+digest = "sha256:40710b5795477ab8bce79c803daa753d83c1484788621dc8c19ea42085d69a24"
+
+[[tasks]]
+name = "LiteCoder/docker-nginx-ssl-proxy"
+digest = "sha256:783e6962797b485380fc7547c1ef85807c9d6fec0d2e6874e3d1b69c55678519"
+
+[[tasks]]
+name = "LiteCoder/docker-syslog-logging-setup"
+digest = "sha256:639da71543119978b880f655b05d1a2f85d26bea542667c1dd989c0ae4ee411c"
+
+[[tasks]]
+name = "LiteCoder/docker-task-tracker-stack"
+digest = "sha256:a5e924ee6e98124948c00efd9d16ed00e6e802637a16fd1d3fa65960099cfbfc"
+
+[[tasks]]
+name = "LiteCoder/dot-resolver-validator"
+digest = "sha256:179f49e959470f23c34fcc94ef27f995306a701b935246e0c55754009ed56b86"
+
+[[tasks]]
+name = "LiteCoder/dpa-aes-key-recovery"
+digest = "sha256:c48998f817ff6ff4774dda3e18983704b852a1029c4e08e18ef05ceab830de9f"
+
+[[tasks]]
+name = "LiteCoder/dsa-lattice-nonce-recovery"
+digest = "sha256:cbca614c2c6ad0d34b34d327d3eeeacbf727813c5a189809e5bad47f7e25f571"
+
+[[tasks]]
+name = "LiteCoder/ecommerce-etl-star-schema"
+digest = "sha256:be9070ce2a65f484744172bbb7d45b783ccf8543a47550370c06e5e19bf2818f"
+
+[[tasks]]
+name = "LiteCoder/ecommerce-sales-analytics"
+digest = "sha256:472d91b24b214b6370abfb5b3103ea12908a2d4614d48170a2aad06a5a7ed9fd"
+
+[[tasks]]
+name = "LiteCoder/ecommerce-sales-dashboard"
+digest = "sha256:5483d0a76c9b4dfd77fc8e64446574dfe56665d6cf0e256e9bffbbd7ae030118"
+
+[[tasks]]
+name = "LiteCoder/ecommerce-sales-data-analysis"
+digest = "sha256:24f0f65965c91c4642ba89e8b2c06c98de8c4448b05abde8b9262d1a1b32e71a"
+
+[[tasks]]
+name = "LiteCoder/efficientnet-focal-loss-cifar10"
+digest = "sha256:6060a6a808109f76f512ff6a0b2f1f51b43792faff558431a99d43331c71b75f"
+
+[[tasks]]
+name = "LiteCoder/embedded-rust-build-setup"
+digest = "sha256:11e597cc56e6009ae4063a4128d097607cb723dcd1278de185bdc4160724da27"
+
+[[tasks]]
+name = "LiteCoder/emscripten-wasm-primes-build"
+digest = "sha256:40bc59520c3d45e71d19792ee8f12c3008ca3ff6004c5ed827346752eff24deb"
+
+[[tasks]]
+name = "LiteCoder/encrypt-steg-file-vault"
+digest = "sha256:14128831f8f31efa168553f27b063c18f3436c4bc1a84ce4967e017a0faef54a"
+
+[[tasks]]
+name = "LiteCoder/encrypted-disk-image-forensics"
+digest = "sha256:a9fe69384d54657e9b33d4bb349dff374e4a0af8e05a0ff1e8e032bb39973abd"
+
+[[tasks]]
+name = "LiteCoder/encrypted-time-capsule-system"
+digest = "sha256:9e2cdb424217e9ec69de4e781bbc0c8d2f5d64425aabf7f46242375ae12f2e92"
+
+[[tasks]]
+name = "LiteCoder/energy-consumption-forecast"
+digest = "sha256:1f781f24cd6f76756309c9eff041853560d2721c6e6a8339bc5a1d7afc21ea36"
+
+[[tasks]]
+name = "LiteCoder/eval-summarization-rouge-bench"
+digest = "sha256:c9d48e07d651a26d0e29bbb60058ae26b3ce73f7f4687d85b72519fcdafde3a5"
+
+[[tasks]]
+name = "LiteCoder/extract-elf-hidden-secrets"
+digest = "sha256:52c66fb1e96afee700c83eea74bb3e32d5a654f61fca9cdc898891205d2b4194"
+
+[[tasks]]
+name = "LiteCoder/extract-hidden-pdf-text"
+digest = "sha256:d9efb7097cd2b3bf2d43f35976f7c5c7900a50525bd3e90e98bb756c76cad511"
+
+[[tasks]]
+name = "LiteCoder/extract-image-color-palette"
+digest = "sha256:0eec1efc6004d818189a29010def6d501792697279d72873d8823cfc7e9ba70d"
+
+[[tasks]]
+name = "LiteCoder/extract-png-lsb-steganography"
+digest = "sha256:0a4ba0dc936f52fef8bcb5280b8af74d4e730ac75caffe60d6add87bf29a6725"
+
+[[tasks]]
+name = "LiteCoder/extract-ssh-key-message"
+digest = "sha256:d09337a6513a65bdd0415b89887607b7f09c3ff59212ef187cd0890300a88584"
+
+[[tasks]]
+name = "LiteCoder/fashion-mnist-cnn-pipeline"
+digest = "sha256:eec62c1bc2854d114983158bf0ea6849c74e3d8ee2378c2fbe7aa8556c0e0f6c"
+
+[[tasks]]
+name = "LiteCoder/fashion-mnist-cnn-training"
+digest = "sha256:ed981aa7b95316b416b880074b40dc32c618cd78e838115d255ddffd8f618b1b"
+
+[[tasks]]
+name = "LiteCoder/file-type-analyzer-cli"
+digest = "sha256:33526f8e45aa5ac26f688780f6621d9c8587bf9c366ee3851f22050201862fe9"
+
+[[tasks]]
+name = "LiteCoder/financial-headline-sentiment-api"
+digest = "sha256:7094580fefad73d8148138059e8f5cb506efebe1f5b47e5cd2fca950ca6f4a1f"
+
+[[tasks]]
+name = "LiteCoder/find-encrypted-pdf-file"
+digest = "sha256:4de6797aa234b56cfc4099bd156131341a730d40821fcef557490ffdc4c3d98b"
+
+[[tasks]]
+name = "LiteCoder/find-hidden-ssh-keys"
+digest = "sha256:7192c6e23c7ca3de561693a2ba5cc3dc6ff14f383ad1c09324112533d80d8a65"
+
+[[tasks]]
+name = "LiteCoder/finetune-gpt2-legal-corpus"
+digest = "sha256:1aec99ccbc0d1c732fa81885f02a8f3690936a7f21721f0c44f8a6f1791e520b"
+
+[[tasks]]
+name = "LiteCoder/finetune-llm-sql-pipeline"
+digest = "sha256:45640e36f2973968f5456e1a13c7f3ea532697bc540ef34c015a710440789c49"
+
+[[tasks]]
+name = "LiteCoder/fix-autotools-cross-compile"
+digest = "sha256:981bd59a8b5d376cb525d3e720d2dabd530410c03816d388dadbc1256087456c"
+
+[[tasks]]
+name = "LiteCoder/fix-broken-build-system"
+digest = "sha256:20782ff654b462ea43c383c3f907be0ed3c6bc90aa2c6b31d18ae97914695d27"
+
+[[tasks]]
+name = "LiteCoder/fix-broken-mysql-replication"
+digest = "sha256:9004ea2363334d94b7cd94ece13075af198192b033ce5547d1dcfc27899fc5c5"
+
+[[tasks]]
+name = "LiteCoder/fix-broken-python3-env"
+digest = "sha256:ee8173b65864546a155d4dfb0f35e1cca9e3579d6fc9f932bce887a4bb6dc36d"
+
+[[tasks]]
+name = "LiteCoder/fix-cmake-arm-crosscompile"
+digest = "sha256:9e8697c0f3388239158682175a9b8f299507807d14bfaa0def7599799471c95f"
+
+[[tasks]]
+name = "LiteCoder/fix-cmake-gcc-clang-compat"
+digest = "sha256:80d71bfcc95f1f19c7b4eee6998adaff7a2ef7073d0ec65b183ec19802a1215b"
+
+[[tasks]]
+name = "LiteCoder/fix-corrupt-git-repo"
+digest = "sha256:0c1db57ebac9b7ef679e8f478bca313b694612b780b1ef8b72b04b6e4f7e821d"
+
+[[tasks]]
+name = "LiteCoder/fix-docker-reboot-failure"
+digest = "sha256:85d9c60ae00efc25892be8b4205a6a51191984d27cf55b08f266a6f4f957fee1"
+
+[[tasks]]
+name = "LiteCoder/fix-git-lfs-upload"
+digest = "sha256:26758f70980d58bba2f312ab8b055ee94167b366b33ddc4ba1e170fb4c632043"
+
+[[tasks]]
+name = "LiteCoder/fix-nginx-config-recovery"
+digest = "sha256:047797476bfb1810a935ca6b7d35e769fd75a0de9c8b6928f5b2bbdc7a143b73"
+
+[[tasks]]
+name = "LiteCoder/fix-recursive-make-build"
+digest = "sha256:7af9570a139bbc1b9e95671961ca9fada3430510dfeb7937507a54f1792095ed"
+
+[[tasks]]
+name = "LiteCoder/flask-crypto-market-dashboard"
+digest = "sha256:715ae21fdb90bd7154ffe7c0ed2e040315b3e258a9596c8789a87c80e7817e0f"
+
+[[tasks]]
+name = "LiteCoder/flask-docker-nginx-ssl"
+digest = "sha256:40a54b6742c71219f8d8c520337fd62bb87d5b9cd5e647d5e161a903d6cdf45d"
+
+[[tasks]]
+name = "LiteCoder/flask-nginx-gunicorn-setup"
+digest = "sha256:09e11cc88e1d1c2f13d5ab7ed9b9859156f89df9ab51cc80185378623d9c04b3"
+
+[[tasks]]
+name = "LiteCoder/flask-nginx-postgres-deploy"
+digest = "sha256:1855539b64eb45a87d9d3a64dfbf5677b0b48672d59ea768820cea6cddecba92"
+
+[[tasks]]
+name = "LiteCoder/flask-nginx-ssl-deploy"
+digest = "sha256:b7bd0824c8ef1465fd4e1eb6ec3477d87eec7ba6805c4c90b3e2b64fe4c6ed17"
+
+[[tasks]]
+name = "LiteCoder/fraud-detection-pipeline"
+digest = "sha256:df8720ff18c17abe444555b63f96f47b4cba227d180c6604cc743e6a770e4d25"
+
+[[tasks]]
+name = "LiteCoder/gcc-aarch64-cross-toolchain"
+digest = "sha256:eb774e40d82ddfbc6fccc22f819918dd414d022b98206119524666eea10496eb"
+
+[[tasks]]
+name = "LiteCoder/gdb-reverse-debug-memory-bug"
+digest = "sha256:55c4f621995ccd4d7d8b7eb2d5fda89a670053782716812a6d132ea55d49df37"
+
+[[tasks]]
+name = "LiteCoder/generate-pki-openssl-script"
+digest = "sha256:8bf43492c7dfcb07dc1353f785ca248ee82c5b37191515d8229f7e8eaf316370"
+
+[[tasks]]
+name = "LiteCoder/git-audit-malicious-recovery"
+digest = "sha256:7defaad48b19e794572d2bfb7d82e7515813361e293af3239f90ff83eb437977"
+
+[[tasks]]
+name = "LiteCoder/git-bisect-automation-script"
+digest = "sha256:b8c18950e79505ff077d41f3d4d03ff7aee62a41d4306a8fefd0d22aed1ceacc"
+
+[[tasks]]
+name = "LiteCoder/git-bisect-bug-hunt"
+digest = "sha256:8a3e95997704a7fc3d6705060d07da7c0a073a723ebcceb406291eeb72a4764e"
+
+[[tasks]]
+name = "LiteCoder/git-bisect-python-regression"
+digest = "sha256:22ffe9e1349996acd441cc1695be321febed26077edcd5d009f90c0720ad97aa"
+
+[[tasks]]
+name = "LiteCoder/git-bisect-webserver-crash"
+digest = "sha256:caee360d513798586c81d687321ac5b0f95ee5e8ca7aff1b186d72ff158d3356"
+
+[[tasks]]
+name = "LiteCoder/git-branch-cleanup-history"
+digest = "sha256:a244e2351104d7a58c95e6cc1445b0b09ac4a968cdf4b43b0458a7d079fc59d5"
+
+[[tasks]]
+name = "LiteCoder/git-branch-tag-cleanup"
+digest = "sha256:e47210ca4f616d2860a08b208975e48c5b8a5101903b6fc1fa774a21aba357b5"
+
+[[tasks]]
+name = "LiteCoder/git-calculator-workflow"
+digest = "sha256:b615d2e7ca4da31b29a897dad4fe7c6173805e89ad71e20c25fcd7cfac8dcda9"
+
+[[tasks]]
+name = "LiteCoder/git-cherrypick-conflict-resolution"
+digest = "sha256:5c2da62829c3cdfc26c7f19cc14ac19f67745285e3c08701273779d3e58266e4"
+
+[[tasks]]
+name = "LiteCoder/git-commit-history-export"
+digest = "sha256:f188f3d3cee6a2e3d41a8e8a4ac586de7512309ae6708e4cdf2402f7cb817b13"
+
+[[tasks]]
+name = "LiteCoder/git-disaster-recovery-sim"
+digest = "sha256:b5e6f31fc9ca93a4330322ab2d59e31cba0620cb34fcfabc9aac1ba9e37e8cbf"
+
+[[tasks]]
+name = "LiteCoder/git-fork-conflict-resolution"
+digest = "sha256:900fdfd90685c23b1d60592a1b48a637dc7a8656c9b6a774af6add977d3b7c0a"
+
+[[tasks]]
+name = "LiteCoder/git-history-clean-recover"
+digest = "sha256:09aeb367c56fdb8b606ed09cd1778eaa7850122e01284ad098c721abcc104827"
+
+[[tasks]]
+name = "LiteCoder/git-history-rewrite-migration"
+digest = "sha256:ca01127eaa9d5e766f1bc974fb8d05c515c0f71a4aa94cfdc3a52526929153bc"
+
+[[tasks]]
+name = "LiteCoder/git-history-rewrite-recovery"
+digest = "sha256:815efaf9368bd00e7629f9a5b62be968c57deab06771ed46bce2c32ca223ed68"
+
+[[tasks]]
+name = "LiteCoder/git-history-rewrite-recovery__sample_0510_b08a6872"
+digest = "sha256:5036ee8787c74f846cfbd9e1603d91d07c1b5679467755ad17bb2e9545accf3d"
+
+[[tasks]]
+name = "LiteCoder/git-interactive-rebase-autosquash"
+digest = "sha256:c1629cf79e3cf25b185491c297c84ded6e1ea5d195c59acfac6ee3b589d7639b"
+
+[[tasks]]
+name = "LiteCoder/git-interactive-rebase-edit"
+digest = "sha256:64283de9c6d2b253fe5cffbeeae6b77b72f84771899a8c40d955d63462ac2556"
+
+[[tasks]]
+name = "LiteCoder/git-interactive-rebase-patches"
+digest = "sha256:b58eff40f3a9235119a98db95526e0158a23498ffa0bbc306c44d2bc7647aafa"
+
+[[tasks]]
+name = "LiteCoder/git-merge-conflict-resolution"
+digest = "sha256:6d8cfc1e8481e2ab506ecc287e37d4b4f0f9ce7cefae6afd97cb0d6349e58640"
+
+[[tasks]]
+name = "LiteCoder/git-merge-conflict-resolution__sample_0014_d71da215"
+digest = "sha256:589f15e389bc63b7a577526bc3e5886a8947a825fa6e0ad4d287cc2d8191c075"
+
+[[tasks]]
+name = "LiteCoder/git-merge-strategy-demo"
+digest = "sha256:eb11a164659ba822e2724f6c71c3e2ccf5462da4888c353df4016cc20369f2ab"
+
+[[tasks]]
+name = "LiteCoder/git-post-receive-deploy"
+digest = "sha256:ffc3f0b125998c823d5d36fbb92aa3a8d7f09e3a6a233a789d92ceb747447937"
+
+[[tasks]]
+name = "LiteCoder/git-rebase-reflog-recovery"
+digest = "sha256:8bc576bf996fa4b1ccb472bb746c5f6a96ab47f2296a6e455645db9ff3852aaa"
+
+[[tasks]]
+name = "LiteCoder/git-rebase-squash-exercise"
+digest = "sha256:cf3dc2c8db493225ef59fa877e1552fdbfda439a11e8b228c14091ac28e94291"
+
+[[tasks]]
+name = "LiteCoder/git-recovery-workflow"
+digest = "sha256:ea426c8cf7595900b0eba410b15a8fa6279063274ece4cf3f7cec8b1a28a6939"
+
+[[tasks]]
+name = "LiteCoder/git-reflog-commit-recovery"
+digest = "sha256:16a74102ff00bf0154a606a14a03633387f5fb9743dfce4025395ba548d2367e"
+
+[[tasks]]
+name = "LiteCoder/git-reflog-disaster-recovery"
+digest = "sha256:0b70db47cb993edb44ea86500315cdf7ae7a8b82756e6de3c0b3b76494d5ce51"
+
+[[tasks]]
+name = "LiteCoder/git-repo-analysis-cleanup"
+digest = "sha256:f99eb039d16f61bd3f083344878e05ffd6712bd889b69806afdc77ae62fa0366"
+
+[[tasks]]
+name = "LiteCoder/git-repo-audit-cleanup"
+digest = "sha256:132453c3c9de97c6f46967223527f26e80b56b3f1c30049734b5f40c319b7915"
+
+[[tasks]]
+name = "LiteCoder/git-repo-cleanup-docs"
+digest = "sha256:015e20b51d5b66e312b2af253b65a982aee3bd3267aad7452217dc2676250efc"
+
+[[tasks]]
+name = "LiteCoder/git-repo-recovery-cleanup"
+digest = "sha256:4a1b329b729ace466b535538a33a6a830ff38945d2b0c212c8e52b3a9944863b"
+
+[[tasks]]
+name = "LiteCoder/git-repo-recovery-manipulation"
+digest = "sha256:09a34f1911b49a20e662a3f683d76b16a41131311475253a89225f4a454b9b18"
+
+[[tasks]]
+name = "LiteCoder/git-restore-deleted-file"
+digest = "sha256:e0fc485934c9913bf1503d0299d48c2f04a6d0fab6291e30f54b9dca16febb6f"
+
+[[tasks]]
+name = "LiteCoder/git-rewrite-history-cleanup"
+digest = "sha256:deefea39cf34860d1a00d11ea647567a05b732a2f0fb821ac805309ce3e08d93"
+
+[[tasks]]
+name = "LiteCoder/git-rollback-stable-commit"
+digest = "sha256:548f17aac74eb3365b0d40a48a37b4b89b5b359665d9c46ccc17f5b8e59d042d"
+
+[[tasks]]
+name = "LiteCoder/git-staged-group-commits"
+digest = "sha256:38e80b14325e72909680ecf4c29bc7aa1de053fd3556f976a8e1f47042f69280"
+
+[[tasks]]
+name = "LiteCoder/git-stash-merge-conflict"
+digest = "sha256:9321b10f8146ac13ae6c73a0d06c8a38a8418cd40d1d6196a5d61235ffa84fbd"
+
+[[tasks]]
+name = "LiteCoder/git-stash-workflow-recovery"
+digest = "sha256:18669ff156841992f185900a5d9d8d9a8719f504599206137f41e7cbb4c4f5a8"
+
+[[tasks]]
+name = "LiteCoder/git-stash-workshop-setup"
+digest = "sha256:09e3265b8bf7e126dd41a6f235ca6e56a74aabede7f6c9de5a1e597b557e13d3"
+
+[[tasks]]
+name = "LiteCoder/git-tree-conflict-resolution"
+digest = "sha256:0ee5625b0c06aa0f02500b2ea46f04643dff73953977b827339605171742607b"
+
+[[tasks]]
+name = "LiteCoder/git-workflow-conflict-sim"
+digest = "sha256:826c079600a2fa89e35128230de1d5059b99a93e934e3905aef740cc098d6dbc"
+
+[[tasks]]
+name = "LiteCoder/gitflow-branching-audit-script"
+digest = "sha256:b7a68d4247226867b609932c4d5531742d39e21da126e7d64e7316738e7ef663"
+
+[[tasks]]
+name = "LiteCoder/github-collaboration-network"
+digest = "sha256:c529c93aee0bbc9e6ae9c230c7b0a8df67354aa8b7f133ef3763ccc10e6b31e0"
+
+[[tasks]]
+name = "LiteCoder/github-issue-resolution-trends"
+digest = "sha256:1958c48a91c79041b2fee5659f65bab3eef21b95207678759b92ea7d3c09002b"
+
+[[tasks]]
+name = "LiteCoder/github-trending-repo-analysis"
+digest = "sha256:f6a57f23d6cc2a997dca1d01e2fe3a3535342aa956a686ba5ab8f298e1a47f24"
+
+[[tasks]]
+name = "LiteCoder/go-gin-static-site-deploy"
+digest = "sha256:60b588e4810a0f884d5ec359d4c90831019fe123dd31283ce34ea9ae06a52514"
+
+[[tasks]]
+name = "LiteCoder/go-rest-api-rate-limiting"
+digest = "sha256:f895d189d8cb5ffd16c43729744d33f24c177973f8d2ca26a113479ecf5bbc56"
+
+[[tasks]]
+name = "LiteCoder/gpg-decrypt-key-analysis"
+digest = "sha256:dd426507052a7b10c4623ae806ff2b676715a8b9a5bf17108a556cdc006e1d49"
+
+[[tasks]]
+name = "LiteCoder/gpg-key-compromise-recovery"
+digest = "sha256:8705d4800e26514055840cdadaa7eb34affe97ebaa45436948610c4085da6d18"
+
+[[tasks]]
+name = "LiteCoder/gpg-secure-file-transfer"
+digest = "sha256:c129e76771f0f08095d2411f50c5c9705ea36516286f23de057c1e9d749dd06a"
+
+[[tasks]]
+name = "LiteCoder/ha-wordpress-glusterfs-cluster"
+digest = "sha256:3e4b4283e164c8e7edaee663cf8c56724ddf46e15ef0ff9cef5df304797556c8"
+
+[[tasks]]
+name = "LiteCoder/haproxy-docker-load-balancer"
+digest = "sha256:b45a24dc426caf7144eee364be8cacde00e36c1f1853d7cbcb3f5fba9f9e436d"
+
+[[tasks]]
+name = "LiteCoder/haproxy-keepalived-failover-stack"
+digest = "sha256:22bd26f737712c4234823ab2e5540192fdd33a613c641383087be0560bd11a62"
+
+[[tasks]]
+name = "LiteCoder/haproxy-load-balancer-setup"
+digest = "sha256:ca8f9ebaa33bef022cd94824d6edb750eb71288dda29dddc286fa380cbfe723b"
+
+[[tasks]]
+name = "LiteCoder/haproxy-load-balancer-setup__sample_0020_914465e1"
+digest = "sha256:73aa318485f1a93060f41052a0182261742fcf72322b142312c2103d199fca3a"
+
+[[tasks]]
+name = "LiteCoder/harden-apache2-secure-headers"
+digest = "sha256:a630e5536e56302868fdc0f146b4f23466ede8b8d2319dd4e6f56009b05a2a6f"
+
+[[tasks]]
+name = "LiteCoder/harden-ssh-2fa-key-auth"
+digest = "sha256:18f654f5a830944052ca63955fb70b8ef2225a519b061423d2ac64667002984e"
+
+[[tasks]]
+name = "LiteCoder/harden-ssh-audit-config"
+digest = "sha256:1a9204ca89ea9ef076e64290c57ac34da0516653d3247a5468af51e80b2e4850"
+
+[[tasks]]
+name = "LiteCoder/harden-ssh-server-config"
+digest = "sha256:412134929fe917e94e14427a731fcd09f7c1bc0df1c0df5bfd2322b4e800ccf0"
+
+[[tasks]]
+name = "LiteCoder/hash-length-extension-attack"
+digest = "sha256:e3f9edd6911fd9a5f7bf6d7081dccf0089150bcf1ef5feac9d11019f6fe04898"
+
+[[tasks]]
+name = "LiteCoder/higgs-boson-classifier"
+digest = "sha256:801f54b54356bcce48988dd4083919cfb322e633fc0374f2f54713a10be7d974"
+
+[[tasks]]
+name = "LiteCoder/hls-streaming-server"
+digest = "sha256:340027806b7d44c18a8d425fdaf9c023439b3665ddcce56865be2e8d4d976d68"
+
+[[tasks]]
+name = "LiteCoder/hmac-sha256-verify-tool"
+digest = "sha256:4124999281cf753aa04080697031f1ffea6c78a81b4c5940c18c6374e2b181c2"
+
+[[tasks]]
+name = "LiteCoder/honeypot-log-web-dashboard"
+digest = "sha256:a25386916969387c7ae9b1698f90bd9a3a16944e81ec1e0a543a8a6c0aa05215"
+
+[[tasks]]
+name = "LiteCoder/housing-price-grid-search"
+digest = "sha256:4edccbe7adf9deab5c2f3c726b2a261cf0b3f75c181a6e7d14153a88c6472ac6"
+
+[[tasks]]
+name = "LiteCoder/http-load-balancer-discovery"
+digest = "sha256:848993e2f5e4461f4f81bb199c9104f42e1b885846f25150895c847608906f9e"
+
+[[tasks]]
+name = "LiteCoder/http-load-balancer-health"
+digest = "sha256:72f876834969c97352208fc144d0a4dd0486530f5cea41c8978c0248b32f17b8"
+
+[[tasks]]
+name = "LiteCoder/http-replay-response-proxy"
+digest = "sha256:4bafaa57c9102baefaa24bdb79b06a53c698645968b04b0dc54e9328bcb9a36d"
+
+[[tasks]]
+name = "LiteCoder/image-captioning-flickr8k"
+digest = "sha256:297c6c33f71800eb3797e2c6d8bc35b9bcd55800e7915cd76694e9c66c7f5226"
+
+[[tasks]]
+name = "LiteCoder/imdb-sentiment-classifier"
+digest = "sha256:d7edd4d190e88108014252a53437b253041fc7b80a361752c01a1f33a2082db9"
+
+[[tasks]]
+name = "LiteCoder/imdb-sentiment-classifier__sample_0136_165380c5"
+digest = "sha256:3fa2113ceb64970df83dc26c0a3cfdbdf41586303c3b2d278a1a1c6b1e3ea225"
+
+[[tasks]]
+name = "LiteCoder/imdb-sentiment-ml-comparison"
+digest = "sha256:d068eb0b8b7065421ccbd948501210a594589ea45c4caeec2bcc62b93fb5c9e7"
+
+[[tasks]]
+name = "LiteCoder/insider-trading-email-detection"
+digest = "sha256:4be75456fbe17f28c516c1b47696fc9000ddd3b052e52aefa1acaa4d9cab0d33"
+
+[[tasks]]
+name = "LiteCoder/iot-anomaly-clustering"
+digest = "sha256:dd9d804fbab8cfbe6706ef74866e8ad4eed296281d8df693cb712a87188b526e"
+
+[[tasks]]
+name = "LiteCoder/job-skills-demand-analysis"
+digest = "sha256:5cffcb0c9dc232d8b038c19f6d2ef4a4867c12815310d1d9e0ee37efa851857a"
+
+[[tasks]]
+name = "LiteCoder/k8s-control-plane-diagnosis"
+digest = "sha256:9dd25aecf0b0f35cc01c8e392ff67002da8b22beb660fcc19c7771eed21281c2"
+
+[[tasks]]
+name = "LiteCoder/k8s-network-policy-setup"
+digest = "sha256:908762971185fc5b98fca61076217459f21bea55c8937a173612b1bfda2b887a"
+
+[[tasks]]
+name = "LiteCoder/k8s-security-hardening-test"
+digest = "sha256:cd600de6ed7fe0d65d02e21e68091873ca7b6d050eaf6511397fb0840eb14cb8"
+
+[[tasks]]
+name = "LiteCoder/kafka-sentiment-pipeline"
+digest = "sha256:805056eb92a9a211d62db803ec303c451b6164b574e21767e3f5fcdfc0e40f10"
+
+[[tasks]]
+name = "LiteCoder/kernel-module-build-env"
+digest = "sha256:380844e4fbcd4ef24dfc9051665a69d0446b67232ed1f17c61857cdeafe32cee"
+
+[[tasks]]
+name = "LiteCoder/kmeans-clustering-from-scratch"
+digest = "sha256:a768717e564c1be075c1be63af0ac6c8f504118571e07ccc50db3b43e1551bfc"
+
+[[tasks]]
+name = "LiteCoder/lamp-multi-vhost-setup"
+digest = "sha256:110a2799df5d9c7612f91b08cfae39d5163b4e59f8141744c21d831807f4936e"
+
+[[tasks]]
+name = "LiteCoder/lamp-stack-automated-backup"
+digest = "sha256:85ab015cd6286798f1da8de4f1a9f1cb25304632a6a5ae8d4ffc2ca32fbae661"
+
+[[tasks]]
+name = "LiteCoder/lemp-monitoring-dashboard-ssl"
+digest = "sha256:d76357ac41c2a2f45711666e09553982ce36ae8518014754654e915884b47312"
+
+[[tasks]]
+name = "LiteCoder/lemp-ssl-ubuntu-setup"
+digest = "sha256:933cd15f42dc0b361699eab41df22936e8e9acc79b926f42f48646c791cc1754"
+
+[[tasks]]
+name = "LiteCoder/lemp-stack-tls13-setup"
+digest = "sha256:06cd097f5ceac1d0b258594f2a31992891799675ac43d0de6298159a6a243920"
+
+[[tasks]]
+name = "LiteCoder/lemp-wordpress-ubuntu-setup"
+digest = "sha256:f7fc6d5c869cccb35af7a0409c9d0d12fb5e2c95a177958875cd9ce0a59522e3"
+
+[[tasks]]
+name = "LiteCoder/llvm17-debug-asan-build"
+digest = "sha256:2664416fce7b1014008ff7626713f00d0dda2346c31425144f5c0d5b89ea4de9"
+
+[[tasks]]
+name = "LiteCoder/loan-risk-ml-pipeline"
+digest = "sha256:e8789773c147bf7e74d530c6d1b3ed12b320f51740e513cb65465ff10613566b"
+
+[[tasks]]
+name = "LiteCoder/local-dns-docker-nginx"
+digest = "sha256:56af4d144d9b8d557013b76c33a3d13b238cb030d918686e5d62480e86061781"
+
+[[tasks]]
+name = "LiteCoder/local-dns-hijack-dev-test"
+digest = "sha256:51f3d1b18ce86f8c0a75f4e36239cef5b358279903874849921626ca73bcc3a6"
+
+[[tasks]]
+name = "LiteCoder/local-https-nginx-setup"
+digest = "sha256:27253894599dd7ca3d2633e19fec9dfb1564a72e3bfa9f440181bd34ee529819"
+
+[[tasks]]
+name = "LiteCoder/lsb-steganography-decoder"
+digest = "sha256:7716b4d085965ecb3ec2dd3c671f7a1948104f4078b18a27103cd96fcde5e7e2"
+
+[[tasks]]
+name = "LiteCoder/lsb-stego-aes-encrypt"
+digest = "sha256:e2929c73b8fb961732817dad9a942f700cc2a21b430539913f0bb0a71d13057a"
+
+[[tasks]]
+name = "LiteCoder/lstm-sp500-direction-predict"
+digest = "sha256:c3cacc01f8cfa14689aee056fb233aa66a1d231570b79678ad1512b8160c5704"
+
+[[tasks]]
+name = "LiteCoder/lstm-stock-price-forecast"
+digest = "sha256:f00676f7e4b9786634aae6f733ffe8fd145bf5c8e7c292e7060e9cb2923583ff"
+
+[[tasks]]
+name = "LiteCoder/lvm-storage-expansion-script"
+digest = "sha256:af01f6854d9ce989e1143585b0164f220af8b66fe9ccd5ca727112055afbc924"
+
+[[tasks]]
+name = "LiteCoder/lynis-security-hardening__sample_0163_75e884f8"
+digest = "sha256:6421d1b14907fdb2df8011c71ed000872b14d70d6622df436d3aa8a28836277e"
+
+[[tasks]]
+name = "LiteCoder/merge-docs-branches"
+digest = "sha256:b1b2074efb6a9f93c18ae7953a13665bcfc72447369b43e631e28d313c31c069"
+
+[[tasks]]
+name = "LiteCoder/merge-inventory-csv-json"
+digest = "sha256:efcae37f261cd58382552e01abb690bb83a06d36cf108bf8c2dca038fe165a05"
+
+[[tasks]]
+name = "LiteCoder/ml-insurance-cross-sell-pipeline"
+digest = "sha256:9aeb0dc5ce7d90ccbf5a1d9c2b2be5791ad12c0d7d5c1e5639cadcd24c6f66a5"
+
+[[tasks]]
+name = "LiteCoder/ml-text-classifier-shap"
+digest = "sha256:9ec1c18155817a9afac1b476002a8464fbb56409f574208507f257ee127675fe"
+
+[[tasks]]
+name = "LiteCoder/ml-vs-dl-census-benchmark"
+digest = "sha256:27a0c52571ee06453bfadd9d6c86d35d7f7fddff407c629b464f4f290291b365"
+
+[[tasks]]
+name = "LiteCoder/mnist-cnn-digit-recognition"
+digest = "sha256:11351dd7ce658dd18db8fb66afc55a58380633872ba39db06e4d44d59c96ac94"
+
+[[tasks]]
+name = "LiteCoder/mnist-cnn-hyperparameter-tuning"
+digest = "sha256:9aa5f4dea4dd4530da312ba16826ee7e61709ae88334bb228e7693e8cc985fe0"
+
+[[tasks]]
+name = "LiteCoder/mnist-cnn-mlp-classifier"
+digest = "sha256:e04865c2bea4658b0d853dc3719f7cf7b1caaa5677ec9dde3c4c3db288224934"
+
+[[tasks]]
+name = "LiteCoder/mnist-cnn-training-report"
+digest = "sha256:9de0c1ddc6391ed0d577c2bcdfb51c10f18df8fe768e45bc597d4bb0e6530371"
+
+[[tasks]]
+name = "LiteCoder/mnist-denoising-autoencoder"
+digest = "sha256:d5f02c7f64b47fda387d3409470a592d1074c63153b3bda98561924b87de7a37"
+
+[[tasks]]
+name = "LiteCoder/movie-recommendation-engine"
+digest = "sha256:65efd4d60e85a731739a6a2db29197d6bb99ce9fe80cf32b2e757872e2f4f9e0"
+
+[[tasks]]
+name = "LiteCoder/movie-recommender-matrix-factor"
+digest = "sha256:8d9ea07bce997cf09643250dbc77e1ef49174b2313de6248af61d439cf099fd1"
+
+[[tasks]]
+name = "LiteCoder/multi-arch-docker-go-build"
+digest = "sha256:0f44efac7145b8cca215250d97dcf6f7cff0d6e0710d288384eadb70e79f97c6"
+
+[[tasks]]
+name = "LiteCoder/multi-branch-git-integration"
+digest = "sha256:a8d3e4991fe1037442fb4bb7382f425f0bd1f178aabe350c1404628dc7040838"
+
+[[tasks]]
+name = "LiteCoder/multi-branch-git-reconciliation"
+digest = "sha256:0cf4d7c01e2984077943c34802d8c966eca596e6bf22529c2936430ac4711935"
+
+[[tasks]]
+name = "LiteCoder/multi-cipher-payload-decryption"
+digest = "sha256:56e1832bcda33b3824c9593b98e84801b8d8699961785d13007fa4397418cd12"
+
+[[tasks]]
+name = "LiteCoder/multi-container-https-compose"
+digest = "sha256:fb8a536d491c8993eba5bc06b10f01f535712b4d87705a89bc6562454a90d463"
+
+[[tasks]]
+name = "LiteCoder/multi-lang-dev-env-setup"
+digest = "sha256:bd6618f78e1734def412d4982f92a6422d028e126a632c45051e812673c9ee2b"
+
+[[tasks]]
+name = "LiteCoder/multi-protocol-traffic-analysis"
+digest = "sha256:a4c2ad558c371e43ca2f6a01c45bd1bc9ea253bc381aa48ce4d3b902aceea649"
+
+[[tasks]]
+name = "LiteCoder/multi-repo-git-ci-simulator"
+digest = "sha256:a7962597b1045371ea80332d8d0005e9aef5a4cf2ea7c427cdf6473e96c2b11f"
+
+[[tasks]]
+name = "LiteCoder/multi-service-docker-compose-setup"
+digest = "sha256:7228b51c770de74c7be99d5e98f51ba188221f24bd60e9a852182cb979ceaa08"
+
+[[tasks]]
+name = "LiteCoder/multi-site-wordpress-docker"
+digest = "sha256:be203288130415cb599bf244d25ec37d871546754f6f50e8f308e7ad7de4ce58"
+
+[[tasks]]
+name = "LiteCoder/multilingual-hate-speech-pipeline"
+digest = "sha256:17cf8b491fb02d2ccb36109333104df11debd95ef419a21ba2fe84d310423750"
+
+[[tasks]]
+name = "LiteCoder/multisite-wordpress-docker-cdn"
+digest = "sha256:31aa5512e823a6f51688b8ffe5080db69e346d8c3e7a78f801417869143bd759"
+
+[[tasks]]
+name = "LiteCoder/musl-static-cross-arch-hello"
+digest = "sha256:600f79f2a57365fbfe0f4fa36178b7d6142bee92912871c4d9fad5a62334be4f"
+
+[[tasks]]
+name = "LiteCoder/mysql-replication-setup"
+digest = "sha256:28be4c1647d73ce2232880da3fe6e75d253b26241c3ae9e06c8a1cf5f460f166"
+
+[[tasks]]
+name = "LiteCoder/naive-bayes-text-classifier"
+digest = "sha256:dbe5ff726b3aa7b361511a32d7897a9fd9ab0087226569ab330d09f23e1825b5"
+
+[[tasks]]
+name = "LiteCoder/network-namespace-isolation-setup"
+digest = "sha256:5eff2fc41d313d7059728001c3df1e4da36254d222334dfdfa3ea57d02ddea63"
+
+[[tasks]]
+name = "LiteCoder/network-scan-report-generator"
+digest = "sha256:c9d58fa4c9e322a8e960be01a53586b8b664874ca3931beff6eb5b1fc1497a30"
+
+[[tasks]]
+name = "LiteCoder/network-topology-scanner"
+digest = "sha256:1284487162c3441f829b9532bc56fb448ef21b73ad124cedd6ba012fa801eab6"
+
+[[tasks]]
+name = "LiteCoder/network-traffic-analysis-dashboard"
+digest = "sha256:60a3b8af0a064aed28b1cc51cf333984094491e452e49a1283a2c171d95340e1"
+
+[[tasks]]
+name = "LiteCoder/network-traffic-attack-detector"
+digest = "sha256:2f44ca7154479b7604fc4b6f723ae179b0f5d3222b861fdd9dd3f0e951c33d8e"
+
+[[tasks]]
+name = "LiteCoder/news-headline-analyzer"
+digest = "sha256:9d048560294a92f96662a20c1a1ddda8b82a12b37e336b9ae4662da1a14043d8"
+
+[[tasks]]
+name = "LiteCoder/news-headline-topic-classifier__sample_0058_6498eda5"
+digest = "sha256:780b1ff45625b21112558afab035e1d3ea0d975fcfb8370a1424ab7a69b8823c"
+
+[[tasks]]
+name = "LiteCoder/news-text-classification-pipeline"
+digest = "sha256:218acc8258fc1a6636dd200451a315a604c588d0b45d4fe384dcab847438ec48"
+
+[[tasks]]
+name = "LiteCoder/news-topic-classification-sklearn"
+digest = "sha256:33fedc9a7ad31bab31c8bf934d11f300b4bdf90eec3645f6419ab00a6f0849b8"
+
+[[tasks]]
+name = "LiteCoder/news-topic-classifier"
+digest = "sha256:5096ade9ddf1981252124152457c763d3a82d20ed3fd0ed02cbf09a23cf2dc77"
+
+[[tasks]]
+name = "LiteCoder/nfs-kerberos-server-setup"
+digest = "sha256:b762fa8d7d90228a367941ac13b6b421fa56eaa5ad89e57a1d7ba6ddbd565d54"
+
+[[tasks]]
+name = "LiteCoder/nginx-api-gateway-docker"
+digest = "sha256:4d17f0d557f1fc6b240f87e75db4abf0f04ca173d9ac200e657a8ee71e8e6cbf"
+
+[[tasks]]
+name = "LiteCoder/nginx-consul-service-discovery"
+digest = "sha256:55c67c18694287171bb43e100afe94f3079694872244c3d529fca139626f9d90"
+
+[[tasks]]
+name = "LiteCoder/nginx-custom-error-pages"
+digest = "sha256:4c797c8331aa4f1e17dcd814ae55c3d5b6132202f62ecc784b4f0c886ec6d39b"
+
+[[tasks]]
+name = "LiteCoder/nginx-docker-load-balancer"
+digest = "sha256:4e11e17fc5c14effabe3fc4d20ff323fdfc9f0b8403cced03c9162841ab57b84"
+
+[[tasks]]
+name = "LiteCoder/nginx-docker-load-balancer__sample_0085_a281c734"
+digest = "sha256:48263f0a89bc895f5208d62da0f382b58f47e5c3e52e022b35d5cdd71f15b946"
+
+[[tasks]]
+name = "LiteCoder/nginx-docker-load-balancer__sample_0196_af84f729"
+digest = "sha256:8d6c8717d4e8f118d3e9ad5fdcd8658c20e8b0a5bed30853290ff2c929acdb24"
+
+[[tasks]]
+name = "LiteCoder/nginx-docker-reverse-proxy"
+digest = "sha256:12afd5502a28dea0fc2f2a289111338d759d3f90c32fb20d314ae771b7bcb1e0"
+
+[[tasks]]
+name = "LiteCoder/nginx-docker-ssl-setup"
+digest = "sha256:5404f913e4100d691f4b3c8474a7f858641631eb7b06a72febea0767b16943ab"
+
+[[tasks]]
+name = "LiteCoder/nginx-hardening-deploy-script"
+digest = "sha256:bf5a97d6fe2457311dcd98b0429e4d1adc09a48118df6f2214ee2f98d7cbac88"
+
+[[tasks]]
+name = "LiteCoder/nginx-https-flask-reverse-proxy"
+digest = "sha256:21832255fe836a746ad8b9481568ac56c07824dd097f2fde6089cc860f30cec6"
+
+[[tasks]]
+name = "LiteCoder/nginx-letsencrypt-ssl-setup"
+digest = "sha256:c308057935b6c06a3cde2841ab53960c8711c1dc71ba24b791f144dc649f57a7"
+
+[[tasks]]
+name = "LiteCoder/nginx-multi-backend-proxy"
+digest = "sha256:380f256b99aacca94f43d2842a4ab84c97702a6dff7a8bfc5e06f68ffc7b4c67"
+
+[[tasks]]
+name = "LiteCoder/nginx-multi-site-hosting"
+digest = "sha256:9c9724f3ce9013a95e5ae37c0733d6d2bfc37b33efcf56ad101991fef8a128bd"
+
+[[tasks]]
+name = "LiteCoder/nginx-multi-vhost-node-proxy"
+digest = "sha256:e846ef5241a9f1962badabf289a3ebb58efaea36399edbe2d26dc3e26ddab18a"
+
+[[tasks]]
+name = "LiteCoder/nginx-multiservice-docker-compose"
+digest = "sha256:5cd44f3bc3b776e2892482afe35a45ed5078ece43024f1d4d595e6a0d3ac2957"
+
+[[tasks]]
+name = "LiteCoder/nginx-node-mariadb-compose"
+digest = "sha256:f501fca8fba4a13cd6222cf1745e79fedfd1cc5c132a487153b03414d8dd0d9e"
+
+[[tasks]]
+name = "LiteCoder/nginx-proxy-multi-service-docker"
+digest = "sha256:6552e01cd6078f64424dc96c30bb05574ff2ac15467dd1b6c7bc397440d312c0"
+
+[[tasks]]
+name = "LiteCoder/nginx-rate-limited-web-server"
+digest = "sha256:6fbdd686e98b61992099948a859aeea0ae5678a01d586c82a9ab30ea5f885622"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-error-pages"
+digest = "sha256:dcd53c3363b778839d660848cb2633d9d0ed036fea8b490aa0654a6d089eb63a"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-from-source"
+digest = "sha256:013938564360311e5e6f31b8975169f72db524258020eaa4e128c92dd388c2b8"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-health-check"
+digest = "sha256:f9deedb4725b364ae0d170eb9d7e59ff6e83faadccf5b5ce3a3124cee138f7f7"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-node-apis"
+digest = "sha256:f1bf63d6d59aff3827ccef444a2e2eb2c86d70a5b2a19d4ab5cd525b15ebee10"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-setup"
+digest = "sha256:aec5446cdfa6d39f3dac819582bec845152ebc718c64519b7367cb001b77d84d"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-setup__sample_0014_0f1deff9"
+digest = "sha256:a474df81abf8edac45eefc39c5bd741efbfa9232bc212bbc8dc462b6062b7fdd"
+
+[[tasks]]
+name = "LiteCoder/nginx-reverse-proxy-setup__sample_0649_43f02d40"
+digest = "sha256:630878da1a7533638beed3d1312801a588ec1f05486e6aba0940e214f12b9edd"
+
+[[tasks]]
+name = "LiteCoder/nginx-service-discovery-generator"
+digest = "sha256:044be806370ba18f95d9a793e5fcbe3909b30bbadaf110ad5163e01c8772bb96"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-auto-renewal-setup"
+digest = "sha256:e19724ac670dc19ec3d89c7cca74e8f1f1023381cbb55d8987cefd4739da08e9"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-deploy-config"
+digest = "sha256:38b849f96610ffa7d545281d8e68ee578f40c56843e7e5fb0f3144436f3ecc29"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-load-balancer"
+digest = "sha256:e5fbfa9520e6551bc7552f159cb4c412638def3fd75b35a78834d334fc502afd"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-load-balancer-setup"
+digest = "sha256:66fbfe073e234a9a3171d12f871f547ad26d2a51989df084f06bdb6d39df2c41"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-reverse-proxy"
+digest = "sha256:017d2cbba79828e80e8e5e4ba9e52ddd749bdeb6f646e208470724cc6ca22e5e"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-reverse-proxy-setup"
+digest = "sha256:8fd8aca163055c61ca50f9b2f3e1d1ab078f09288ca6028fd4d5bdeeff0c7df3"
+
+[[tasks]]
+name = "LiteCoder/nginx-ssl-reverse-proxy-setup__sample_0111_0f370961"
+digest = "sha256:3c8319459fe5a0111dae5da37bf15c5a026caf2cbf17c3d532c3ed9d89865adb"
+
+[[tasks]]
+name = "LiteCoder/nginx-static-reverse-proxy"
+digest = "sha256:0be26db3d206b88a2f99656528928ed939f3f24ac60df726972409cc8ae428be"
+
+[[tasks]]
+name = "LiteCoder/nginx-tls-config-generator"
+digest = "sha256:a25fb8b4400a08b1564473450ce8385615e4374601d74cd35edcd39e85bfdc5b"
+
+[[tasks]]
+name = "LiteCoder/nginx-webdav-server-setup"
+digest = "sha256:d9e84f926449cab825c838aff05c7102019bd4369908e78c7ea613a9cd8cc7aa"
+
+[[tasks]]
+name = "LiteCoder/nginx-websocket-reverse-proxy"
+digest = "sha256:8528810888f0388551c79205848091c984b393f78b871b54b5d5ed842bc16e3d"
+
+[[tasks]]
+name = "LiteCoder/nodejs-cluster-load-balancer"
+digest = "sha256:e5c992402e0e640c8685d744d49f8bf8a21a63ffab9e69a5201020849c44e781"
+
+[[tasks]]
+name = "LiteCoder/numpy-svm-dry-bean-classifier"
+digest = "sha256:733ee50846685e59e9596bec735fa6067821602a4c73ffe00e18db31668906f1"
+
+[[tasks]]
+name = "LiteCoder/nyc-airbnb-analysis-pipeline"
+digest = "sha256:58f44a4c4aefb25e48b51907f2611046c128c7679115122da8f25c5d96e65b47"
+
+[[tasks]]
+name = "LiteCoder/nyc-green-taxi-analysis"
+digest = "sha256:790dc34c04dd24d7826aff118f7e81521279ac18627f6647d8e6ee93cff10d94"
+
+[[tasks]]
+name = "LiteCoder/nyc-sat-demographic-analysis"
+digest = "sha256:839ceecd1907eac6b8d4f814a6d93fdb16d095a12a7dd77841d4def20f653e89"
+
+[[tasks]]
+name = "LiteCoder/nyc-taxi-lakehouse-pipeline"
+digest = "sha256:e7f1515e8e0034fd5021e0a6dc6b88f7d18dc01b25c943add28c99f225da0ef5"
+
+[[tasks]]
+name = "LiteCoder/nyc-taxi-ml-pipeline"
+digest = "sha256:13dc40dbff23d9dbb1f31fecccb540a29ff47b5839e262dd10ef40092ef37768"
+
+[[tasks]]
+name = "LiteCoder/nyc-taxi-revenue-trends"
+digest = "sha256:574f5f3df37d5a81c7531c64a0053e61d2193e81a9dda30a993e74ca086edb98"
+
+[[tasks]]
+name = "LiteCoder/olympic-medal-analytics"
+digest = "sha256:6ed00d3cf6488742b04bbca51cc1caadadcbc40706422ed1be229c67a2355c4d"
+
+[[tasks]]
+name = "LiteCoder/openblas-dgemm-benchmark"
+digest = "sha256:172d816ce18b9dbe61e5c573d653e8f0473ff2437d2af1745dec89c68c602433"
+
+[[tasks]]
+name = "LiteCoder/opencv-hog-human-detection"
+digest = "sha256:a20da28865896a369343899d3476f4a00bdbb97326a9927cf1c4cfd7a4eaa06f"
+
+[[tasks]]
+name = "LiteCoder/optimize-docker-security"
+digest = "sha256:c181f4a89fedd740eac907106f28049271261c77da9a31efae097d18bee77186"
+
+[[tasks]]
+name = "LiteCoder/optimize-sklearn-cpu-pipeline"
+digest = "sha256:de23c7f7c6061496fd2bc8354019684a9cd8acec382195b9d5458566b79aade2"
+
+[[tasks]]
+name = "LiteCoder/optimize-static-lib-linking"
+digest = "sha256:d09209bcbc0d29ae093fc8ac5c51016ea04ad8b619f04a9ce55d3642d064ffc7"
+
+[[tasks]]
+name = "LiteCoder/palantir-financial-report-analysis"
+digest = "sha256:287aa28cd444c190eb5b79889b7c3da1ffadc79ce966859c4f56a1cbfa0f9f2c"
+
+[[tasks]]
+name = "LiteCoder/pam-auth-flask-docker-secrets"
+digest = "sha256:a24783cfea431b846b9c8d0537b7a83d900af5ac0b278b7b33f12d2434eeb800"
+
+[[tasks]]
+name = "LiteCoder/pg-replication-config-generator"
+digest = "sha256:da6cc1afe878801689467d4c08c2e23ab1a7f5b95bfffb446380e701076ca2f2"
+
+[[tasks]]
+name = "LiteCoder/post-incident-server-hardening"
+digest = "sha256:95bdec3df4b8589be2cb6fe79a0f4cc92aa41a86f12118cbd574d4eb12b5a88c"
+
+[[tasks]]
+name = "LiteCoder/postgres-wal-archiving-setup"
+digest = "sha256:d27959bd228ac85685d6aef61221dfd9828e29cd2288b8d87897df3c77b24d19"
+
+[[tasks]]
+name = "LiteCoder/predict-customer-churn-pipeline"
+digest = "sha256:b50920eb11bd7f7236e05aae4fc9cdaeb395a08a2da40fc7b02681682d50c90f"
+
+[[tasks]]
+name = "LiteCoder/predict-equipment-failure"
+digest = "sha256:7cde762df879972110bbda1c38d7538ec7b7657da4c1e8e73dcb5c20221b8542"
+
+[[tasks]]
+name = "LiteCoder/profile-ml-model-performance"
+digest = "sha256:4703bf4d2c9b6a606469ff61c9d3aa3609ef31541a719075734e99bf664ed03f"
+
+[[tasks]]
+name = "LiteCoder/purge-config-from-history"
+digest = "sha256:49f1b0701dc30821bcd18315a4376427e146ada7ffcdd8f5e3454a998fcd33c8"
+
+[[tasks]]
+name = "LiteCoder/pyspark-movie-recommender"
+digest = "sha256:c3787d35403adcc41cbe50d5c51293dcc82ab292f4959e417ece454492e1a333"
+
+[[tasks]]
+name = "LiteCoder/pyspark-movie-recommender-als"
+digest = "sha256:0ad0c1737b7edba28f3b1b5afd6f856948581717707dabc81e7f066cf9687c4c"
+
+[[tasks]]
+name = "LiteCoder/python-auth-proxy-server"
+digest = "sha256:40a92cb8ea7fe7c6b9e49c47aef63d8cf561d1c736438840aed5bbaf54b74949"
+
+[[tasks]]
+name = "LiteCoder/pytorch-california-housing-regression"
+digest = "sha256:a17ed7822f0ded77f339344025ab8a67e1cc43d9500148c369f697e22305f34a"
+
+[[tasks]]
+name = "LiteCoder/pytorch-cpu-inference-tuning"
+digest = "sha256:719b64d5f618de720e2852ff909a15fc9919914caf11f9dc6bc9721bcdb4bfe4"
+
+[[tasks]]
+name = "LiteCoder/pytorch-cpu-optimize-benchmark"
+digest = "sha256:2027f67589850cf20dbe6571f1f9c1fea484583fba3f6cda973845a82c723d14"
+
+[[tasks]]
+name = "LiteCoder/pytorch-mnist-autoencoder"
+digest = "sha256:ea1769cb86c79b494c7527cf818bc577c91cdaefcb7ca9680863e9ca7e32d633"
+
+[[tasks]]
+name = "LiteCoder/pytorch-mnist-cnn-classifier"
+digest = "sha256:424bf73af302687cf566462dd1e61c880444508c043f04eb32a8d7bba2a25824"
+
+[[tasks]]
+name = "LiteCoder/pytorch-resnet-pruning-cifar"
+digest = "sha256:0b7594fd1b7c4a659c489ede90a3da0a83605364b3f8b4ed2992910735fc431a"
+
+[[tasks]]
+name = "LiteCoder/pytorch-rnn-stock-prediction"
+digest = "sha256:e43e5e186b9276ab0ba43ad97a9b56798b3524d8a443e935c70a3a6d2ef875ae"
+
+[[tasks]]
+name = "LiteCoder/qt5-multi-version-build-matrix"
+digest = "sha256:e2a9f7c18e8dbb1f3609ce1bb26611419f6ee12f3acc48b286b1f6d3da6e7647"
+
+[[tasks]]
+name = "LiteCoder/quantum-inspired-autoencoder"
+digest = "sha256:c00cc8a197875822a1640c7c9d298211f1afff7a29f8c49f89dd6f911ded5780"
+
+[[tasks]]
+name = "LiteCoder/rag-chatbot-ollama-langchain"
+digest = "sha256:f5282d70f83764b190712b5330aa7ebd94dd326ad8a371a60e41d71819a4d1d4"
+
+[[tasks]]
+name = "LiteCoder/rate-limited-flask-service"
+digest = "sha256:6996dd8d1a1b3e909e8812ca7f62c31e1e901a09cd59efadc6165f652f44b95d"
+
+[[tasks]]
+name = "LiteCoder/rebase-clean-auth-commits"
+digest = "sha256:018e5675fd46ed402b474e1edca0965eebd8992b97d6b5d3c0c9e16d33afb96f"
+
+[[tasks]]
+name = "LiteCoder/reconstruct-ssh-key"
+digest = "sha256:8a7369236e89c9dd5dc67052dce3235012f5e2060b46afbc7f5395c8e474fba9"
+
+[[tasks]]
+name = "LiteCoder/recover-corrupted-png-flag"
+digest = "sha256:7cdca41d7462a98484fd4f5e9688f7d2011b12da26c286635a5b6246ca37c568"
+
+[[tasks]]
+name = "LiteCoder/recover-deleted-branch-merge"
+digest = "sha256:f8f9fc18de015cf3e9a5d59bb4635570303d513939c48c4125d1a0d3032b0bc9"
+
+[[tasks]]
+name = "LiteCoder/recover-feature-branch-git"
+digest = "sha256:f25dfdf6818b307abe64c7a40b57f2fa03b102b89f7304d93ecc4e388ffccfb7"
+
+[[tasks]]
+name = "LiteCoder/recover-git-branch-reflog"
+digest = "sha256:1aa505933089493d3257bbc90e97d5faebfafbca172ef5c8d657b86f420371bb"
+
+[[tasks]]
+name = "LiteCoder/recover-hidden-symmetric-key"
+digest = "sha256:a907172bb899139bbad2e852379537d783ff670069c5f9c14e67ca81571ca9d3"
+
+[[tasks]]
+name = "LiteCoder/recover-lost-commits-reflog"
+digest = "sha256:c9060c9c8507d8c381eaa9df4f2f4e780622105bfe6969181ac01bfe019e4d12"
+
+[[tasks]]
+name = "LiteCoder/recover-lost-git-commit"
+digest = "sha256:e99330d5ea875383d93e34e5912459feba60948c055e6651a73823431923f307"
+
+[[tasks]]
+name = "LiteCoder/recover-lost-git-commits"
+digest = "sha256:06f2131a59def8f9fbf215439d52d18972b9b1d443e1a08ab7766c9e7b3a67ec"
+
+[[tasks]]
+name = "LiteCoder/reddit-basket-analysis"
+digest = "sha256:961628ab3c38fca99dfc3035b236d36f29ce35248ab9d416d3c6281606cc2867"
+
+[[tasks]]
+name = "LiteCoder/reddit-toxicity-classifier"
+digest = "sha256:8e4c2efd04ce09e9b261b4f83b27adcb8b53d0387e28e154b5fda8582379597c"
+
+[[tasks]]
+name = "LiteCoder/redis-session-express-app"
+digest = "sha256:24771d045e7d3242a215064d31f10f358121b6fe323490e414ea3177bba881dd"
+
+[[tasks]]
+name = "LiteCoder/refactor-git-commit-history"
+digest = "sha256:5af445187a1a07cb24ec2e7a042da75052a853dbf0dfc8fcf51dde99497280b8"
+
+[[tasks]]
+name = "LiteCoder/remove-git-secrets-history"
+digest = "sha256:7846d76813bf62e2d145eb99dbc8632c0556409393a3b02aecd107ffe0ae2baf"
+
+[[tasks]]
+name = "LiteCoder/reorder-git-commit-history"
+digest = "sha256:b0481af5e111536ab5f6d29c91afef370cfd116bcfff22d11cf7ad66c57dd5c7"
+
+[[tasks]]
+name = "LiteCoder/resnet-distillation-cifar10"
+digest = "sha256:514a7bb8888483bffa85b97aba1f4b59416ff8c1b834f8c9d1b722c3e768915c"
+
+[[tasks]]
+name = "LiteCoder/resnet50-bird-classifier-api"
+digest = "sha256:c154a8da32c1b054883b51e3b8b4c4539dc5e4eb053f881782aa1142787ab191"
+
+[[tasks]]
+name = "LiteCoder/resolve-git-merge-conflict"
+digest = "sha256:256469378c7feba65c622deecb8bb169c6e8f111046409b1a1fe5215c4a3fa3f"
+
+[[tasks]]
+name = "LiteCoder/resolve-git-merge-conflicts"
+digest = "sha256:71f159fdab3554eb2ebe222398c05f1a5235722e424a9b0367d606bea88279f9"
+
+[[tasks]]
+name = "LiteCoder/restore-corrupted-git-repo"
+digest = "sha256:cb90de562f99e135fda0afe2203478ba24e1727ca5dea2e954c7f893fdd31287"
+
+[[tasks]]
+name = "LiteCoder/restore-git-repo-backup"
+digest = "sha256:b2f18ec48b675ddfdae5e66a445aec996dcf373cd0163d2345a7003eec963aaa"
+
+[[tasks]]
+name = "LiteCoder/retail-clustering-profit-pipeline"
+digest = "sha256:8ec1725b28d3fc6ca91c270418fef1680aec6c48c6552ea06ca4f22581c01fc3"
+
+[[tasks]]
+name = "LiteCoder/retail-customer-segmentation"
+digest = "sha256:169531d8023e1e6c8304f21196e3e865d6d4acdb23ad9cd1506078e512de2a94"
+
+[[tasks]]
+name = "LiteCoder/reverse-engineer-hash-binary"
+digest = "sha256:5c8073d63e23760153f29d810b610d8b228b2f358f8559dbd540b6f4cb8e32a2"
+
+[[tasks]]
+name = "LiteCoder/reverse-enigma-cipher"
+digest = "sha256:6588605cf818a798fdcc643c2486e102e1c6fffc864111300e7a0a5d94fb93c4"
+
+[[tasks]]
+name = "LiteCoder/review-sentiment-analysis-pipeline"
+digest = "sha256:ec5edc2b4cb2c03d729010be2903ad28f54d1947cbef8048ae1e06d9e5f469a2"
+
+[[tasks]]
+name = "LiteCoder/rewrite-git-author-history"
+digest = "sha256:588401fe4c28da85120ef2d8605250ce4aee8527587b5b6eddae2952113b87af"
+
+[[tasks]]
+name = "LiteCoder/rewrite-git-history-branches"
+digest = "sha256:096286d68b241deccd6038fefc2016f2ce883da66d5ae051b2a6847d16be9929"
+
+[[tasks]]
+name = "LiteCoder/rewrite-git-history-cleanup"
+digest = "sha256:db99f45859b922e524874a5427def440aecf9e8a2751a057d12851d6e98323e8"
+
+[[tasks]]
+name = "LiteCoder/rewrite-multiroot-git-history"
+digest = "sha256:cbfcebed3700b97299d2a4e419dd7e872ecc60ebf26e3cb4cc8692c20e182761"
+
+[[tasks]]
+name = "LiteCoder/rfm-clv-analysis-pipeline"
+digest = "sha256:2f68c94f06d77c98432cf04bf1c6caff2f96d9405e13e0390280778688e206f1"
+
+[[tasks]]
+name = "LiteCoder/riscv-cross-toolchain-build"
+digest = "sha256:ebf08493ff61a28f5054830f9268e3016a5ddd2f1bc7fa709d908040796720a3"
+
+[[tasks]]
+name = "LiteCoder/rsa-encrypt-decrypt-demo"
+digest = "sha256:4ccea05621a0606e7edc2a5e479a7b5505e8648cdde2b3f9f291d95ffd22129a"
+
+[[tasks]]
+name = "LiteCoder/rsa-encrypt-decrypt-pipeline"
+digest = "sha256:7d5df33ad6df2d8b3ccc185db94d0bd3affd79585d01ba9e785ba62a555cd5b7"
+
+[[tasks]]
+name = "LiteCoder/rsa-encryption-tool"
+digest = "sha256:de1e07f4475efe9c993684301494211ff401b79c042fa3c7e87bfd4382577cfa"
+
+[[tasks]]
+name = "LiteCoder/rsa-fermat-factorization-decrypt"
+digest = "sha256:154ebe9fc73e0af358dc88f731b8ce678f2191bee3ad82eafb0bf25c84045946"
+
+[[tasks]]
+name = "LiteCoder/rsa-key-reconstruct-decrypt"
+digest = "sha256:9f793436d07a4570f208362865fd850815f6f937515dfb063ce020d777eb72b9"
+
+[[tasks]]
+name = "LiteCoder/rsa-key-reconstruct-decrypt__sample_0090_4784c0d7"
+digest = "sha256:911fa9a340f22eeb5b3d597bcc030fd8e833866090331e13c0a3c65586a436a5"
+
+[[tasks]]
+name = "LiteCoder/rsa-key-recovery-faulty-oracle"
+digest = "sha256:6f6b5c7ccb8261c7f1a0c698f1d78ee1e7f6ff441db73e09eee5075db803f84c"
+
+[[tasks]]
+name = "LiteCoder/rsa-openssl-workflow-demo"
+digest = "sha256:5277ef9c65b4ab70c4282901cbef55a0c529d3012dd33e7d264204abaa47fe8d"
+
+[[tasks]]
+name = "LiteCoder/rsa-signature-forgery-detector"
+digest = "sha256:07d412c2be930b92fd9e2f7ed633261b87fa5a39f2c82755b76c17aef4fd5c2c"
+
+[[tasks]]
+name = "LiteCoder/sales-analytics-dashboard"
+digest = "sha256:8bc61f924a68ca86a2ecfa6a01de24471a128ab6dae3537ccf63320ab08ab4f4"
+
+[[tasks]]
+name = "LiteCoder/sales-funnel-conversion-analysis"
+digest = "sha256:30da4142078793e4b85718a7b6be6c4ad2cbb4b000fc7dc496720433b1ebf25e"
+
+[[tasks]]
+name = "LiteCoder/sales-performance-dashboard"
+digest = "sha256:18f97c95f1c747063dbbca3ff6ac5087a7d5199a917657dc22307df6c4d48a20"
+
+[[tasks]]
+name = "LiteCoder/sales-stream-data-pipeline"
+digest = "sha256:c71fe162fc4e033fa91521147dc8513a9ed979653d275777681bccd79d39f718"
+
+[[tasks]]
+name = "LiteCoder/sample_0001_254510e4"
+digest = "sha256:4920a05a6cd693d39dc1a9d2d96a63d299b179ca619afec928f7330183b5fcb8"
+
+[[tasks]]
+name = "LiteCoder/sample_0042_2bb7e390"
+digest = "sha256:07ef6dbf31062c8a30ae2e9eb3012b65784ea6b1fa0f110b7c82958e718598da"
+
+[[tasks]]
+name = "LiteCoder/sample_0106_10731802"
+digest = "sha256:299d78f410ec6b251bfeb23e1a9b142e1a02722a71858a81fb147cb47795db8b"
+
+[[tasks]]
+name = "LiteCoder/sample_0541_789cacea"
+digest = "sha256:befc9b21b554fc6a485f911f8a12e6394042a47a9966df31e44232aa3891b559"
+
+[[tasks]]
+name = "LiteCoder/sample_0824_27948585"
+digest = "sha256:a515929b9d1f562cb9556790a54e318c5bface98c76095349138543764f94e7b"
+
+[[tasks]]
+name = "LiteCoder/sci-article-summarization-pipeline"
+digest = "sha256:c7842513cf26a42a0f6d8f866422a6be12edebfebdb6b055dc698843e0f754d9"
+
+[[tasks]]
+name = "LiteCoder/secure-docker-host-hardening"
+digest = "sha256:6fd2238fbe015f71c9d85624fa4759215e2e79eacf819a4d04c0f239835db8cc"
+
+[[tasks]]
+name = "LiteCoder/secure-file-sharing-setup"
+digest = "sha256:0021a4b945de7b0d67d681e0353b1117f352360e8fd6ecc8d8b9dd4ed398ef8b"
+
+[[tasks]]
+name = "LiteCoder/secure-password-gen-verify"
+digest = "sha256:125c887e8bef8d6c3fe74dadda13265db520344b15a6d587db2cb49111ee523b"
+
+[[tasks]]
+name = "LiteCoder/secure-postgres-tls-setup"
+digest = "sha256:59388fb4201928028632fb8155e29e6e16250b98f8d60eea9104229cba223526"
+
+[[tasks]]
+name = "LiteCoder/secure-ssh-key-auth-setup"
+digest = "sha256:10f3ddf095df1da06a46f3853281b1528393779b4e3bc042544b5274d0ce7fe0"
+
+[[tasks]]
+name = "LiteCoder/secure-wordpress-nginx-docker"
+digest = "sha256:6a81dec415d836f4f5aa650ae77d1493f743ae7675140116220c968b2c6f57b6"
+
+[[tasks]]
+name = "LiteCoder/sensor-anomaly-detection-pipeline"
+digest = "sha256:6bf42dcbca14588e5410e4046853ea6eb0a8ea9993e8fac03e09d698a9e46f6a"
+
+[[tasks]]
+name = "LiteCoder/sensor-data-pipeline-api"
+digest = "sha256:4379c99eccc58b30e033854cc813ea9dc6dea63077f1f81e487e990a230a9ded"
+
+[[tasks]]
+name = "LiteCoder/sentiment-analysis-pipeline"
+digest = "sha256:0e3b7620f878ba8f8c46cca991f7c7f748e964ce09bd5db8e6243b2f476ee932"
+
+[[tasks]]
+name = "LiteCoder/sentiment-backtest-faang"
+digest = "sha256:a4825447616b1b1c8847f20ffed88e4a973441905d2859df81c9d78ff192be68"
+
+[[tasks]]
+name = "LiteCoder/sentiment-classification-cli"
+digest = "sha256:b4d331dccaaa7e5ee0db5f5d9b8ba3333488c8d0d6fb85cffbebedb36aacdce4"
+
+[[tasks]]
+name = "LiteCoder/sentiment-classifier-eval-deploy"
+digest = "sha256:38389bc780a4d84bf19be58ae8eadb8d6687712369618ba3793db79c9e704f3f"
+
+[[tasks]]
+name = "LiteCoder/sentiment-portfolio-simulation"
+digest = "sha256:b636d2bf6eb7f91e7a8de90c53f3eb8db465fdef2391f0c8c25e853a278466fb"
+
+[[tasks]]
+name = "LiteCoder/sentiment-random-forest-pipeline"
+digest = "sha256:1f481ea8671f8d9bc28110a7024bb37de5fab5c48a760359b8c6a7f011a82fbc"
+
+[[tasks]]
+name = "LiteCoder/server-log-anomaly-detection"
+digest = "sha256:08f26950580082a83e26d6567977c18ac1eaafa767270b35420fbe5d0b6e4140"
+
+[[tasks]]
+name = "LiteCoder/setup-bind9-local-dns"
+digest = "sha256:0ee6ec7f40a0668475ffb1c22686695e1e412c0df0f3f612cfbd2cac0c98de6e"
+
+[[tasks]]
+name = "LiteCoder/setup-chrooted-sftp-server"
+digest = "sha256:0133c64c2db2283748eb1278306388d6bdace69ec763e1265a8e04ebbd1362af"
+
+[[tasks]]
+name = "LiteCoder/setup-cicd-build-environment"
+digest = "sha256:d753db45c9ff0795613f31cb7bb877991c9b4bb33c08dde1e4a7af2baccfa48d"
+
+[[tasks]]
+name = "LiteCoder/setup-clang-static-analysis"
+digest = "sha256:ba9824827edf47276197d41d710c52fc2bb52ba85ceb928b1d20e4a27ab73f8c"
+
+[[tasks]]
+name = "LiteCoder/setup-cmake-cross-platform"
+digest = "sha256:8ef0e0664298161cd7b34658243aefc3a28d9af03676e572357ab7b964b000d9"
+
+[[tasks]]
+name = "LiteCoder/setup-git-ssh-auth"
+digest = "sha256:c8b9a704f10a00932094ef819650ed98d05f4a15c4586a4003ddc369260bfe4d"
+
+[[tasks]]
+name = "LiteCoder/setup-git-webdav-server"
+digest = "sha256:242fe285e243c311fdcb44de401ed68f35abb13dbdd2512bbb69315bc02322a3"
+
+[[tasks]]
+name = "LiteCoder/setup-git-workshop-repo"
+digest = "sha256:9e649ce45ef185db73d4ea129cdf9a5e6716aa2d01d015350658c33968ccbddb"
+
+[[tasks]]
+name = "LiteCoder/setup-lamp-stack-ubuntu"
+digest = "sha256:f37a68915a9a587bbe582a3d17a33ba49479c518e4df6dd5e4dc0bfce15d3457"
+
+[[tasks]]
+name = "LiteCoder/setup-lamp-stack-ubuntu__sample_0443_fd4e2f9f"
+digest = "sha256:7c1217ca17c296b7dae08d306ef7463e5add037552a4c832394f9dea0350bef5"
+
+[[tasks]]
+name = "LiteCoder/setup-lemp-stack-ssl"
+digest = "sha256:00b7fd8648ddb03ccaa4a0ce7790c9850849bbe603419c250d19031654d79156"
+
+[[tasks]]
+name = "LiteCoder/setup-lemp-stack-ubuntu"
+digest = "sha256:844ca56d5208d9262d7400b0dfdc8e385cae4038581c023d9c4084b6babe75e1"
+
+[[tasks]]
+name = "LiteCoder/setup-multi-lang-build-env"
+digest = "sha256:7bbf6348b7352541de72ed1763f281f9d8040b02082df50bcaa418be2f8f0f89"
+
+[[tasks]]
+name = "LiteCoder/setup-postfix-dovecot-mail"
+digest = "sha256:eacc92f4c762e66d84de55f4c1b86eb41f832d4d9bcd6ab8018c1fdbd208b137"
+
+[[tasks]]
+name = "LiteCoder/setup-postfix-dovecot-tls"
+digest = "sha256:ee1959639ab46c83b3a8dd2c8c2c21384cf60cf4d16d2cf30f67dd74a5ffab5e"
+
+[[tasks]]
+name = "LiteCoder/setup-python39-ubuntu"
+digest = "sha256:f22cc12b441816f51e3ae4f6d0d71e212081f83f9fa2557a9e69c918a7c76568"
+
+[[tasks]]
+name = "LiteCoder/setup-samba-marketing-share"
+digest = "sha256:a726f308851bc68571b49e510e83123f30fc3f69aa3b1f6f45e66bdcb472edfb"
+
+[[tasks]]
+name = "LiteCoder/setup-squid-proxy-restrictions"
+digest = "sha256:e03147ae8901478e89ea2735638c72ebb08769538909e8da00162132c6ef2a15"
+
+[[tasks]]
+name = "LiteCoder/setup-ubuntu-apt-mirror"
+digest = "sha256:d1eaeecd97e274fdddae62b2dc639f4e932ae71736ac3ec13a5cbba6fe43302c"
+
+[[tasks]]
+name = "LiteCoder/sha256-length-extension-attack"
+digest = "sha256:8e70b2e236798fdf7de0e33aa9acb7deef9e10ea1f46110debe0fa5df0e4c62c"
+
+[[tasks]]
+name = "LiteCoder/shakespeare-ngram-frequency-pipeline"
+digest = "sha256:16cffe0708d3a53c45591f589a18320910cc54b892c3009061cf5351f22a7b30"
+
+[[tasks]]
+name = "LiteCoder/shallow-clone-deepen-git"
+digest = "sha256:1c2e7655abc7da4019747ad0a16491f0e231f26e19c96cb7a264303d775d5375"
+
+[[tasks]]
+name = "LiteCoder/shamir-aes-treasure-decrypt"
+digest = "sha256:7da56e4f6849280a54b2f6b3aae36e690d0a8314e25d7b76d06b63b0680132cd"
+
+[[tasks]]
+name = "LiteCoder/shell-backup-rotation-system"
+digest = "sha256:9b8b3f583c784e092c34a0393bb1b2cfc57f6ed38b3170fc4d8a7aff4132f3b1"
+
+[[tasks]]
+name = "LiteCoder/shell-injection-audit-harden"
+digest = "sha256:1a18ee9373ff2888adc3d13d99d30517f49205e0994392934570657dc681721b"
+
+[[tasks]]
+name = "LiteCoder/sku-inventory-forecast-pipeline"
+digest = "sha256:96612630bc53d7f6aac15959c8259469c0d7626c4adc8cab64b71d0c9f26921e"
+
+[[tasks]]
+name = "LiteCoder/sqlite-stats-extension"
+digest = "sha256:fb6f3fe4a91e8fc7ad1a8a3539ac60c6efd21750fb53a75fd180132d7c09af15"
+
+[[tasks]]
+name = "LiteCoder/ssh-bastion-host-setup"
+digest = "sha256:d7e4fe112ad20228e66adda280575befba1b0cc1014a1b051be24d8e25b4e8a3"
+
+[[tasks]]
+name = "LiteCoder/ssh-bastion-key-auth-setup"
+digest = "sha256:6f9e99ea0bc6d8246833a235dc5716d0389f89adbec0c87ca9033a1cfbf5935e"
+
+[[tasks]]
+name = "LiteCoder/ssh-encrypted-remote-backup"
+digest = "sha256:f40a1997f381be1d40e64d0cf34a12bc01a402fd1ce6d66392a08bcfd5eda3a7"
+
+[[tasks]]
+name = "LiteCoder/ssh-jump-host-setup"
+digest = "sha256:77dc752fb696cd57030d11e3a495a1af763cced9253c6d9f807840b6e797c85f"
+
+[[tasks]]
+name = "LiteCoder/ssh-key-rotation-automation"
+digest = "sha256:b503bba2001b7729263627cfa8c4dc76329a9af69b69a2c0bef3c24c4874606a"
+
+[[tasks]]
+name = "LiteCoder/ssh-keys-gpg-backup-setup"
+digest = "sha256:b4ad863e5f11b9b344e20d93dfdd0f9c2dda1cd2de571d6e610685780cf269f3"
+
+[[tasks]]
+name = "LiteCoder/ssh-mfa-google-authenticator"
+digest = "sha256:48ba6b04b55a7ec6732be1447a173f53f8353364856bcb4425ddf3f8226dda22"
+
+[[tasks]]
+name = "LiteCoder/ssh-port-knock-setup"
+digest = "sha256:0ab10e72fb591df73e9df507fb271c6ca5fd49ebe557a52c0fdecab68fddf484"
+
+[[tasks]]
+name = "LiteCoder/ssh-ufw-subnet-config"
+digest = "sha256:4f7a5975625916cb0dfc2714498b2ded6eb4c7978ae7457ed34aa5934e418243"
+
+[[tasks]]
+name = "LiteCoder/ssl-flask-postgres-docker"
+digest = "sha256:a497a7dc15a81b4f14933d868e864701371d5752e9a04892e4748c3dcaa3e2aa"
+
+[[tasks]]
+name = "LiteCoder/static-c-tcp-echo-server"
+digest = "sha256:2eff49bdea93974fcff1503fea9021e0eae4bfa9394d18a5b719635f6617f7b4"
+
+[[tasks]]
+name = "LiteCoder/static-ffmpeg-vmaf-build"
+digest = "sha256:3ad04c9624dde9faaf5ef02d3fce59b425470127622131364cfeacc8f3e979c0"
+
+[[tasks]]
+name = "LiteCoder/static-site-git-nginx"
+digest = "sha256:6f81e757237d84ef3b426a876416c774e988d9f5f09566862e9b629af291b522"
+
+[[tasks]]
+name = "LiteCoder/stegseek-image-extraction"
+digest = "sha256:b2b38f0b48b0a2a5e6b84d215b650dce9c4e5ae6f093fb2886b1b5bbe133ff5f"
+
+[[tasks]]
+name = "LiteCoder/stickynotes-k8s-three-tier"
+digest = "sha256:2f8e70a84780786a9a26c51d8f221203538f1331282bc96f91ec9e820894bc89"
+
+[[tasks]]
+name = "LiteCoder/stock-data-analysis-csv-merger"
+digest = "sha256:f04f2e9b10c3e234e8c47fcab8d89f58ca8018f32ec82641fd73527304013b84"
+
+[[tasks]]
+name = "LiteCoder/stock-market-dash-plotly"
+digest = "sha256:1eef3afe5e1608777c690bac2045811278927120e2eb5f18e5c57ee47b979ed7"
+
+[[tasks]]
+name = "LiteCoder/stock-ohlcv-pdf-report"
+digest = "sha256:1b149d42366e0c31e59e912e28228e47b04a8a3edc04941c20a1f829b9c20c68"
+
+[[tasks]]
+name = "LiteCoder/stock-price-volatility-analysis"
+digest = "sha256:4ce98f51e38dfed2e7b15a5045ee86c9566995a12936e476b07deaf4bef7d684"
+
+[[tasks]]
+name = "LiteCoder/student-performance-dashboard"
+digest = "sha256:6e0866787bfc14578c0c4e7a2ebf596ade72eaa7a9e6aadb669a1702ca45e5c7"
+
+[[tasks]]
+name = "LiteCoder/svn-to-git-monorepo-migration"
+digest = "sha256:2bce220c8f988488756f1c0603ceffebaf1f8eea66385174d34e8c0bbc225fa7"
+
+[[tasks]]
+name = "LiteCoder/synthetic-dataset-profiler"
+digest = "sha256:99816bc695631c5ed83f7c888e0e1d47f7adc70cc190415829962ab5d0937f8b"
+
+[[tasks]]
+name = "LiteCoder/systemd-service-builder"
+digest = "sha256:268cf3d3df63c10fad32a82dcec1266c4dff4dd4802b7e25ecf7937e74a7d230"
+
+[[tasks]]
+name = "LiteCoder/text-classification-pipeline"
+digest = "sha256:4b47244676b02da4b5996a34c6c828a38655310ab931fd78594bf72451adc255"
+
+[[tasks]]
+name = "LiteCoder/textrank-extractive-summarizer"
+digest = "sha256:45de26b2b17f93631ecc299a00b50ca7c5e287e9c02c056556d66a33ff26e583"
+
+[[tasks]]
+name = "LiteCoder/tfidf-product-recommendation-baseline"
+digest = "sha256:ec7afba9d95ce418e2ba85c6d6c9473eaa6b4f142b11295f101191ee4a495bf7"
+
+[[tasks]]
+name = "LiteCoder/tfidf-svm-newsgroups-classifier"
+digest = "sha256:24811aae423e10d8fd707e9cb12162528a37ec91016fd801933cfee56dba0e0d"
+
+[[tasks]]
+name = "LiteCoder/tflite-int8-optimization"
+digest = "sha256:52b69491ec90ce83184ce5dddb1a63cdf0277d628c7db922b3e4ea785148ae6c"
+
+[[tasks]]
+name = "LiteCoder/tig-network-monitoring"
+digest = "sha256:173e770b8753c2da692dc3e29d3cf35dbfc2cee69ad916d1f11ab6e78c403aa6"
+
+[[tasks]]
+name = "LiteCoder/titanic-ml-vs-deep-learning"
+digest = "sha256:909b5c2316696a7085435cd62094ff795b8492ed809b6add1e6f0495bcd2f1d3"
+
+[[tasks]]
+name = "LiteCoder/titanic-survival-ml-pipeline"
+digest = "sha256:885af7cbfcfb1bedc8afe3202d3bc00749d7d83f146e3bd2d3ef1304d8e1f0c7"
+
+[[tasks]]
+name = "LiteCoder/tls-cert-chain-verify"
+digest = "sha256:9c1c8389d5ed9db6c7813c53a8f81b6559987675c16783b841d9ef5b23c00040"
+
+[[tasks]]
+name = "LiteCoder/train-sentiment-classifier"
+digest = "sha256:2d1480b8398a5af12f7ab45ed8253e49ca0ad1922a337a7575a54624334537ba"
+
+[[tasks]]
+name = "LiteCoder/train-sentiment-classifier__sample_0608_d7de05fe"
+digest = "sha256:09c8e9ef996a0b0e86137e3596207e1451177dcbf42399912cc3d1118fe41a02"
+
+[[tasks]]
+name = "LiteCoder/trim-kernel-config"
+digest = "sha256:7832b3fefb35dbd2951c93595fc6a23ac89be52cf40839886019a7fc7f63e2e4"
+
+[[tasks]]
+name = "LiteCoder/tsv-sqlite-data-pipeline"
+digest = "sha256:7d121ef414d36dbb80f7724c9e2000dc83f3f3740351568a92aa0ef3d7c8f0a4"
+
+[[tasks]]
+name = "LiteCoder/tune-postgresql-performance"
+digest = "sha256:ea42f1dbb467ca797f86e28914aa139311abe177e96b70a418d28e832bfbf925"
+
+[[tasks]]
+name = "LiteCoder/tweet-sentiment-analysis-pipeline"
+digest = "sha256:52ebf32e5914127bb883fb6a377a4e999f2dacca699c7f995f1fa05cd52e0183"
+
+[[tasks]]
+name = "LiteCoder/ubuntu-network-troubleshoot"
+digest = "sha256:bc9246e8815ac926778dd452c5182c46e6f6c27c148d4455dd58716889551f79"
+
+[[tasks]]
+name = "LiteCoder/user-lifecycle-automation"
+digest = "sha256:e0c37acfb7a33bc2b2c77188cb9b4922512b24402f448263a2ac291615a294bb"
+
+[[tasks]]
+name = "LiteCoder/verify-aes-openssl-crypto"
+digest = "sha256:79b6168785fc69f7e2bbba92b382b7c8efd565bc2ad3564e1827c151b3a9f001"
+
+[[tasks]]
+name = "LiteCoder/verify-cross-compile-toolchain"
+digest = "sha256:e4547d51834f5316cf3d9956095257cb365967f599ff3aaae0eb713016f6e5da"
+
+[[tasks]]
+name = "LiteCoder/verify-reproducible-builds"
+digest = "sha256:90cd6236c6fe3e4e92af401f33f20470ae8860f72b7f6a3334684aca9e6725d6"
+
+[[tasks]]
+name = "LiteCoder/vit-cifar10-classifier"
+digest = "sha256:6a3a1ff1a2ed2d9d85bca6ee26fbaf0a10b5a1648b6c546b1d285c5a2e63faaa"
+
+[[tasks]]
+name = "LiteCoder/weather-crime-analysis-model"
+digest = "sha256:a32d73d06d0788f6dc17cd743a3d052e0c5d9e3e8220308444c55b7235cc8eaa"
+
+[[tasks]]
+name = "LiteCoder/weather-etl-sqlite-pipeline"
+digest = "sha256:07674a76c1ac9a9f4ad4a0135424e5ea68ac9baec17815709b039af43824c904"
+
+[[tasks]]
+name = "LiteCoder/wine-quality-logistic-regression"
+digest = "sha256:3072f82244079575e6155b719a1255a08122f229e9e9fcb9c0f6dc865962ae32"
+
+[[tasks]]
+name = "LiteCoder/wine-quality-prediction-model"
+digest = "sha256:af9b79c69ba317cafee0a13019c1346d5bd5b3380cc45e5f51be0d68c38d41e8"
+
+[[tasks]]
+name = "LiteCoder/wordpress-config-validator"
+digest = "sha256:1b63f8c87f8d5af9f12547c1c641d8fcf0795f01624f1e7e59e212eda56f142b"
+
+[[tasks]]
+name = "LiteCoder/wordpress-docker-compose-ssl"
+digest = "sha256:f85be80af7aca7998dfefc8a3618b49e0254f84972305043cd42c6d177646d89"
+
+[[tasks]]
+name = "LiteCoder/wordpress-docker-reverse-proxy"
+digest = "sha256:86c2de1fb92d2c1c81aab77c463de712ea7019c3be7628f28f52af73bfa64c07"
+
+[[tasks]]
+name = "LiteCoder/wordpress-multisite-docker-setup"
+digest = "sha256:78a1a0fe609539d384a2a12da40c54345d0b43019d0d503f4795f30063b526ee"
+
+[[tasks]]
+name = "LiteCoder/xor-cipher-key-recovery"
+digest = "sha256:d3fc95121f08a924eb8f584a8a21832157b459d94b9da28b46337e5864d85416"
+
+[[tasks]]
+name = "LiteCoder/yelp-business-insights"
+digest = "sha256:dd47b2139f93a25b67df8e3f0028849a829797d8bae02275ff320c37efcf5152"
+
+[[tasks]]
+name = "LiteCoder/zeroshot-bertopic-news-modeling"
+digest = "sha256:a621480f859cfc946e605fbf53dfa2b59c332f43784b10d3c2f01ccdad894028"
+

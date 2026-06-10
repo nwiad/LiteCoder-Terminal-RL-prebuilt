@@ -1,0 +1,59 @@
+[
+  {
+    "rows": 1000,
+    "columns": [
+      {
+        "name": "id",
+        "type": "numeric",
+        "null_rate": 0.0
+      },
+      {
+        "name": "category",
+        "type": "categorical",
+        "null_rate": 0.1
+      },
+      {
+        "name": "value",
+        "type": "numeric",
+        "null_rate": 0.15
+      },
+      {
+        "name": "timestamp",
+        "type": "date",
+        "null_rate": 0.05
+      }
+    ],
+    "output_name": "small_dataset"
+  },
+  {
+    "rows": 5000,
+    "columns": [
+      {
+        "name": "user_id",
+        "type": "numeric",
+        "null_rate": 0.0
+      },
+      {
+        "name": "region",
+        "type": "categorical",
+        "null_rate": 0.2
+      },
+      {
+        "name": "score",
+        "type": "numeric",
+        "null_rate": 0.25
+      },
+      {
+        "name": "status",
+        "type": "categorical",
+        "null_rate": 0.1
+      },
+      {
+        "name": "created_date",
+        "type": "date",
+        "null_rate": 0.0
+      }
+    ],
+    "output_name": "medium_dataset"
+  }
+]

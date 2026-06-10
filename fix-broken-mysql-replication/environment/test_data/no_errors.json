@@ -1,0 +1,47 @@
+{
+  "master": {
+    "binlog_file": "mysql-bin.000010",
+    "binlog_position": 1024,
+    "executed_gtid_set": "aaaa-bbbb-cccc:1-500",
+    "server_id": 1,
+    "read_only": false
+  },
+  "slave1": {
+    "server_id": 2,
+    "master_host": "10.0.0.1",
+    "read_only": true,
+    "slave_io_running": "Yes",
+    "slave_sql_running": "Yes",
+    "master_log_file": "mysql-bin.000010",
+    "read_master_log_pos": 1024,
+    "relay_master_log_file": "mysql-bin.000010",
+    "exec_master_log_pos": 1024,
+    "seconds_behind_master": 0,
+    "last_sql_errno": 0,
+    "last_sql_error": "",
+    "last_io_errno": 0,
+    "last_io_error": "",
+    "retrieved_gtid_set": "aaaa-bbbb-cccc:1-500",
+    "executed_gtid_set": "aaaa-bbbb-cccc:1-500",
+    "auto_position": 1
+  },
+  "slave2": {
+    "server_id": 3,
+    "master_host": "10.0.0.1",
+    "read_only": true,
+    "slave_io_running": "Yes",
+    "slave_sql_running": "Yes",
+    "master_log_file": "mysql-bin.000010",
+    "read_master_log_pos": 1024,
+    "relay_master_log_file": "mysql-bin.000010",
+    "exec_master_log_pos": 1024,
+    "seconds_behind_master": 0,
+    "last_sql_errno": 0,
+    "last_sql_error": "",
+    "last_io_errno": 0,
+    "last_io_error": "",
+    "retrieved_gtid_set": "aaaa-bbbb-cccc:1-500",
+    "executed_gtid_set": "aaaa-bbbb-cccc:1-500",
+    "auto_position": 1
+  }
+}

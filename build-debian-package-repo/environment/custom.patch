@@ -1,0 +1,10 @@
+--- a/htop.c
++++ b/htop.c
+@@ -1,6 +1,7 @@
+ /*
+ htop - htop.c
+ (C) 2004-2011 Hisham H. Muhammad
++Custom build for enterprise deployment
+ Released under the GNU GPLv2+, see the COPYING file
+ in the source distribution for its full text.
+ */

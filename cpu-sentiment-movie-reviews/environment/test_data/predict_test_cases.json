@@ -1,0 +1,8 @@
+[
+  {"review": "This movie was absolutely wonderful and moving", "expected_sentiment": "positive"},
+  {"review": "Terrible movie with no redeeming qualities", "expected_sentiment": "negative"},
+  {"review": "A truly masterful piece of cinema with brilliant performances", "expected_sentiment": "positive"},
+  {"review": "Absolutely dreadful film avoid at all costs", "expected_sentiment": "negative"},
+  {"review": "I loved every minute of this fantastic movie", "expected_sentiment": "positive"},
+  {"review": "A boring and pointless film from start to finish", "expected_sentiment": "negative"}
+]

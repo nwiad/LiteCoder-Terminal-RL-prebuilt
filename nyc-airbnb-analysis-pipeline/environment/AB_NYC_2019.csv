@@ -1,0 +1,51 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+2539,Clean & quiet apt home by the park,2787,John,Brooklyn,Kensington,40.64749,-73.97237,Private room,149,1,9,2018-10-19,0.21,6,365
+2595,Skylit Midtown Castle,2845,Jennifer,Manhattan,Midtown,40.75362,-73.98377,Entire home/apt,225,1,45,2019-05-21,0.38,2,355
+3647,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Manhattan,Harlem,40.80902,-73.9419,Private room,150,3,0,,,1,365
+3831,Cozy Entire Floor of Brownstone,4869,LisaRoxanne,Brooklyn,Clinton Hill,40.68514,-73.95976,Entire home/apt,89,1,270,2019-07-05,4.64,1,194
+5022,Entire Apt: Spacious Studio/Loft by central park,7192,Laura,Manhattan,East Harlem,40.79851,-73.94399,Entire home/apt,80,10,9,2018-11-19,0.1,1,0
+5099,Large Cozy 1 BR Apartment In Midtown East,7322,Chris,Manhattan,Murray Hill,40.74767,-73.975,Entire home/apt,200,3,74,2019-06-22,0.59,1,129
+5121,BlissArtsSpace!,7356,Garon,Brooklyn,Bedford-Stuyvesant,40.68688,-73.95596,Private room,60,45,49,2017-10-05,0.4,1,0
+5178,Large Furnished Room Near B'way,8967,Shunichi,Manhattan,Hell's Kitchen,40.76489,-73.98493,Private room,79,2,430,2019-06-24,3.47,1,220
+5203,Cozy Clean Guest Room - Family Apt,7490,MaryEllen,Manhattan,Upper West Side,40.80178,-73.96723,Private room,79,2,118,2017-07-21,0.99,1,0
+5238,Cute & Cozy Lower East Side 1 bdrm,7549,Ben,Manhattan,Chinatown,40.71344,-73.99037,Entire home/apt,150,1,160,2019-06-09,1.33,4,188
+5295,Beautiful 1br on Upper West Side,7702,Lena,Manhattan,Upper West Side,40.80316,-73.96545,Entire home/apt,135,5,53,2019-06-22,0.65,3,6
+5441,Central Manhattan/near Broadway,7989,Kate,Manhattan,Hell's Kitchen,40.76076,-73.98867,Private room,85,2,188,2019-06-23,2.14,1,39
+5803,Lovely Room 1, Garden, Best Area, Legal rental,9744,Claudio,Queens,Sunnyside,40.74767,-73.92097,Private room,89,10,1,2019-01-02,5.0,2,149
+6021,Wonderful Guest Bedroom in Manhattan for SINGLES,11528,Danielle,Manhattan,Upper West Side,40.79502,-73.96485,Private room,85,14,23,2017-12-05,0.28,1,0
+6090,West Village Nest,12002,Sabrina,Manhattan,West Village,40.73417,-74.00149,Entire home/apt,150,2,7,2018-12-16,2.0,1,301
+6127,Charming one bedroom - newly renovated rowhouse,12048,Liz,Brooklyn,Park Slope,40.66827,-73.98492,Entire home/apt,125,30,47,2017-04-21,0.24,2,275
+6176,Designer's Beautiful 2BR Apartment,12422,Erin,Brooklyn,Park Slope,40.67514,-73.97982,Entire home/apt,150,29,1,2016-02-14,0.01,1,0
+6232,Affordable room in Bushwick/East Williamsburg,12749,Marisol,Brooklyn,Bushwick,40.70184,-73.93317,Private room,40,4,270,2019-05-25,4.45,2,152
+6359,Bright room in 2BR apt in Nolita!,13044,Laurie,Manhattan,Nolita,40.72013,-73.99623,Private room,115,4,118,2018-10-05,1.4,1,0
+6490,Spacious Brooklyn Duplex, Patio + Garden,13682,Rebecca,Brooklyn,Sunset Park,40.65514,-74.00027,Entire home/apt,98,4,65,2017-05-06,0.71,1,0
+6628,Charming Bright Room in Bed Stuy,14537,Shawn,Brooklyn,Bedford-Stuyvesant,40.68149,-73.94013,Private room,70,2,23,2019-04-24,0.5,1,188
+6695,Comfortable & Convenient Studio,14749,Jenna,Manhattan,Midtown,40.75751,-73.96625,Entire home/apt,129,2,14,2019-05-06,1.17,1,289
+6848,Charming Garden Apartment,15270,Olson,Brooklyn,Williamsburg,40.71344,-73.95976,Entire home/apt,150,7,2,2015-11-03,0.03,1,0
+7090,Charming 1BD in the heart of Brooklyn Heights,16098,Lena,Brooklyn,Brooklyn Heights,40.69426,-73.99184,Entire home/apt,175,2,23,2019-05-12,0.86,1,188
+7122,Spacious Williamsburg 1 Bedroom!,16218,Jared,Brooklyn,Williamsburg,40.71533,-73.95595,Entire home/apt,89,3,1,2019-06-11,1.0,1,23
+7211,Cozy bedroom in fantastic location,16559,Jennifer,Manhattan,Upper East Side,40.76404,-73.96295,Private room,100,1,74,2019-06-09,1.5,1,289
+7238,Sunny Studio at Historical Neighborhood,16616,Ilgar,Manhattan,Harlem,40.81475,-73.94867,Entire home/apt,115,10,9,2018-07-07,0.1,1,0
+7356,Charming studio in heart of Manhattan,17159,Taz,Manhattan,Chelsea,40.74767,-73.99709,Entire home/apt,90,30,45,2019-05-29,0.41,1,27
+7378,Charming Bedroom in Gramercy,17190,Donna,Manhattan,Gramercy,40.73705,-73.98456,Private room,79,2,114,2019-06-22,1.5,1,274
+7490,Comfortable Cozy Room,17796,Arlene,Manhattan,Harlem,40.80902,-73.94190,Private room,79,2,8,2017-07-20,0.15,1,0
+7549,Spacious Sunny Brooklyn Bedroom,17989,Madaline,Brooklyn,Clinton Hill,40.68688,-73.96596,Private room,59,1,28,2019-05-11,0.48,1,127
+7702,Charming Private Room Near Prospect Park,18316,Gabrielle,Brooklyn,Park Slope,40.66514,-73.97982,Private room,89,1,32,2019-06-05,0.58,1,306
+7989,Bright Spacious Room in Williamsburg Loft,19245,Sherry,Brooklyn,Williamsburg,40.71344,-73.95976,Private room,65,1,20,2019-05-25,0.83,1,128
+8967,Charming Room in Williamsburg,23026,Jill,Brooklyn,Williamsburg,40.71533,-73.95595,Private room,60,29,45,2019-05-21,0.56,1,6
+9744,Spacious Cozy Room,25232,Taz,Queens,Astoria,40.76404,-73.92295,Private room,55,1,12,2019-05-05,0.86,2,129
+11528,Sunny Room in Spacious Apartment,30283,Jack,Brooklyn,Williamsburg,40.71344,-73.95976,Private room,70,3,270,2019-06-23,4.64,1,152
+12002,Charming Light Spacious Room,31482,Claudio,Manhattan,Harlem,40.80902,-73.94190,Private room,60,1,49,2019-05-12,0.82,1,188
+12048,Spacious Sunny Room in Williamsburg,31626,Kate,Brooklyn,Williamsburg,40.71533,-73.95595,Private room,79,2,430,2019-06-24,3.58,1,220
+12422,Charming Room in Bushwick,33517,Lena,Brooklyn,Bushwick,40.70184,-73.93317,Private room,50,4,118,2019-06-09,1.97,2,188
+12749,Bright Spacious Private Room,34560,Ben,Queens,Astoria,40.76404,-73.92295,Private room,65,1,160,2019-06-22,2.67,1,6
+13044,Cozy Room in Williamsburg,35254,Laura,Brooklyn,Williamsburg,40.71344,-73.95976,Private room,89,1,53,2019-05-21,0.88,1,39
+13682,Spacious Room in Bushwick,36455,Chris,Brooklyn,Bushwick,40.70184,-73.93317,Private room,45,7,188,2019-06-23,3.13,2,149
+14537,Charming Bright Room,38273,Garon,Manhattan,East Village,40.72705,-73.98456,Private room,100,2,23,2019-01-02,0.38,1,301
+14749,Sunny Spacious Room,39017,Shunichi,Brooklyn,Williamsburg,40.71533,-73.95595,Private room,75,1,7,2018-12-16,0.58,1,275
+15270,Cozy Private Room,40123,MaryEllen,Queens,Long Island City,40.74767,-73.94097,Private room,70,3,47,2017-04-21,0.39,1,0
+16098,Bright Room in Bushwick,42195,Liz,Brooklyn,Bushwick,40.70184,-73.93317,Private room,55,1,1,2016-02-14,0.02,2,152
+16218,Spacious Sunny Room,43267,Erin,Manhattan,Upper West Side,40.80178,-73.96723,Private room,95,2,270,2019-05-25,4.5,1,0
+16559,Charming Room Near Central Park,44521,Marisol,Manhattan,Upper West Side,40.79502,-73.96485,Private room,110,14,118,2018-10-05,1.97,1,188
+16616,Cozy Room in East Village,45678,Laurie,Manhattan,East Village,40.72705,-73.98456,Private room,85,4,65,2017-05-06,1.08,1,289
+17159,Bright Spacious Room,46789,Rebecca,Brooklyn,Park Slope,40.66827,-73.98492,Private room,80,2,23,2019-04-24,0.48,1,0

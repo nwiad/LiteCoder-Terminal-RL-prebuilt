@@ -1,0 +1,5 @@
+{
+  "message": "Short pin test",
+  "password_hint": "2-digit numeric PIN",
+  "password": "42"
+}

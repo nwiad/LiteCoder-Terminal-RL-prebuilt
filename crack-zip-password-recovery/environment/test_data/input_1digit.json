@@ -1,0 +1,5 @@
+{
+  "message": "Single digit secret",
+  "password_hint": "1-digit numeric PIN",
+  "password": "7"
+}

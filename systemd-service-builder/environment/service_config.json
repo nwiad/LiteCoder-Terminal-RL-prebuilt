@@ -1,0 +1,9 @@
+{
+  "service_name": "myapp",
+  "description": "My custom daemon application",
+  "source_file": "src/myapp.c",
+  "user": "www-data",
+  "restart_policy": "on-failure",
+  "after": "network.target",
+  "compile_flags": "-Wall -O2"
+}

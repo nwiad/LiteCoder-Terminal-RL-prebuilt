@@ -1,0 +1,6 @@
+{
+  "original_message": "user=bob&role=user",
+  "original_signature": "b3d70addbfbf48bca1b07c8d5f4db41b1e3e76d66b0c272e9e8b8f3f4a9f4e4e",
+  "secret_length": 16,
+  "append_data": "&role=admin"
+}

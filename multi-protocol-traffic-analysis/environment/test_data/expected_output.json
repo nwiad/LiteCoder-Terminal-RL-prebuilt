@@ -1,0 +1,41 @@
+{
+  "total_entries": 7,
+  "valid_fragments": 4,
+  "discarded_fragments": 2,
+  "protocols_seen": [
+    "DNS",
+    "HTTP",
+    "SSH"
+  ],
+  "reconstructed_message": "The network never forgets",
+  "fragments": [
+    {
+      "seq": 0,
+      "protocol": "HTTP",
+      "source_ip": "192.168.1.10",
+      "data": "The ",
+      "checksum": "000b625b"
+    },
+    {
+      "seq": 1,
+      "protocol": "DNS",
+      "source_ip": "192.168.1.12",
+      "data": "network ",
+      "checksum": "2bdbb465"
+    },
+    {
+      "seq": 2,
+      "protocol": "SSH",
+      "source_ip": "192.168.1.15",
+      "data": "never ",
+      "checksum": "f4c1fa83"
+    },
+    {
+      "seq": 3,
+      "protocol": "HTTP",
+      "source_ip": "192.168.1.10",
+      "data": "forgets",
+      "checksum": "6508f284"
+    }
+  ]
+}

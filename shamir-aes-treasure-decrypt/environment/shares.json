@@ -1,0 +1,27 @@
+{
+  "threshold": 3,
+  "total_shares": 5,
+  "prime_hex": "10000000000000000000000000000000000000000000000000000000000000129",
+  "shares": [
+    {
+      "index": 1,
+      "value_hex": "a64a2fec41544700ed9616c8b3dea4303b825aeb0e00afad5b75989ef68f7af5"
+    },
+    {
+      "index": 2,
+      "value_hex": "97c786025fbb894db00c6932fd2dcb6cf26c182ed3b915a4a0bb09b43a8abff"
+    },
+    {
+      "index": 3,
+      "value_hex": "bdf872ec039a3b143247d811746b32cae875197770ed1c3da7be775cceb56a29"
+    },
+    {
+      "index": 4,
+      "value_hex": "c3be1f8fda2fce7ef36b4b4381a7a66c876d62c899155057748dece397b5b321"
+    },
+    {
+      "index": 5,
+      "value_hex": "1acd7e4ba9bc72d51e6b20295788379bac0f9d7665b42da7b07a112f9ea986e7"
+    }
+  ]
+}

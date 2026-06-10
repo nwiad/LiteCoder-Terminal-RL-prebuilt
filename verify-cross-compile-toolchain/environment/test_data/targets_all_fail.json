@@ -1,0 +1,8 @@
+[
+  {
+    "name": "bad-compiler",
+    "compiler": "nonexistent-gcc",
+    "flags": "-O2",
+    "expected_machine": "X86-64"
+  }
+]

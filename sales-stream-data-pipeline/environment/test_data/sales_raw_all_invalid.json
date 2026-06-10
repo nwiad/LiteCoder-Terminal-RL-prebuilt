@@ -1,0 +1,9 @@
+[
+  {"tx_id": "T001", "store_id": "S001", "sku": "SKU-100", "qty": -5, "unit_price": 10.00, "ts": "2024-06-15T10:00:00"},
+  {"tx_id": "T002", "store_id": "S001", "sku": "SKU-100", "qty": 0, "unit_price": 10.00, "ts": "2024-06-15T10:01:00"},
+  {"tx_id": "T003", "store_id": "S001", "sku": "SKU-100", "qty": 5, "unit_price": -1.00, "ts": "2024-06-15T10:02:00"},
+  {"tx_id": null, "store_id": "S001", "sku": "SKU-100", "qty": 5, "unit_price": 10.00, "ts": "2024-06-15T10:03:00"},
+  {"tx_id": "T005", "store_id": "S001", "sku": "SKU-100", "qty": 5, "unit_price": 10.00, "ts": "bad-timestamp"},
+  {"store_id": "S001", "sku": "SKU-100", "qty": 5, "unit_price": 10.00, "ts": "2024-06-15T10:04:00"},
+  {"tx_id": "T007", "store_id": "S001", "qty": 5, "unit_price": 10.00, "ts": "2024-06-15T10:05:00"}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "aaa111bbb222",
+    "name": "svc-1",
+    "service": "backend",
+    "ip": "172.18.0.2",
+    "port": 9090,
+    "status": "stopped",
+    "health": "unhealthy",
+    "weight": 3
+  },
+  {
+    "id": "bbb222ccc333",
+    "name": "svc-2",
+    "service": "frontend",
+    "ip": "172.18.0.3",
+    "port": 8080,
+    "status": "paused",
+    "health": "healthy",
+    "weight": 5
+  },
+  {
+    "id": "ccc333ddd444",
+    "name": "svc-3",
+    "service": "backend",
+    "ip": "172.18.0.4",
+    "port": 9090,
+    "status": "running",
+    "health": "unhealthy",
+    "weight": 7
+  }
+]

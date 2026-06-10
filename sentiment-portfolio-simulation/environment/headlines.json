@@ -1,0 +1,377 @@
+[
+  {
+    "published": "2025-01-06T09:33:00-05:00",
+    "headline": "EV and tech stocks diverge on mixed earnings",
+    "tickers": [
+      "TSLA",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T09:39:00-05:00",
+    "headline": "Analysts downgrade Apple citing slowing growth",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-06T09:40:00-05:00",
+    "headline": "Nvidia announces next-generation GPU architecture",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T09:43:00-05:00",
+    "headline": "Tech giants rally on positive economic data",
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T10:05:00-05:00",
+    "headline": "Tesla stock tumbles on margin compression fears",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-06T10:07:00-05:00",
+    "headline": "Microsoft layoffs signal cost-cutting measures ahead",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-06T10:35:00-05:00",
+    "headline": "AI stocks surge on breakthrough research announcement",
+    "tickers": [
+      "MSFT",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T11:06:00-05:00",
+    "headline": "Microsoft stock drops on weak cloud guidance",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-06T11:13:00-05:00",
+    "headline": "Tesla expands Supercharger network across Europe",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-06T11:27:00-05:00",
+    "headline": "US jobs report exceeds expectations, markets mixed",
+    "tickers": []
+  },
+  {
+    "published": "2025-01-06T11:42:00-05:00",
+    "headline": "Microsoft layoffs signal cost-cutting measures ahead",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-06T11:51:00-05:00",
+    "headline": "Nvidia insider selling raises red flags for investors",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T11:54:00-05:00",
+    "headline": "AI stocks surge on breakthrough research announcement",
+    "tickers": [
+      "MSFT",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T12:07:00-05:00",
+    "headline": "Microsoft faces antitrust probe in EU market",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-06T12:15:00-05:00",
+    "headline": "Nvidia data center revenue hits all-time high",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T13:00:00-05:00",
+    "headline": "Nvidia partners with major cloud providers on AI infrastructure",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T13:07:00-05:00",
+    "headline": "Tesla faces increased competition from Chinese EV makers",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-06T13:22:00-05:00",
+    "headline": "EV and tech stocks diverge on mixed earnings",
+    "tickers": [
+      "TSLA",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T13:39:00-05:00",
+    "headline": "Apple reports record iPhone sales in holiday quarter",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-06T13:48:00-05:00",
+    "headline": "Tesla production delays at Berlin factory worry investors",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-06T13:52:00-05:00",
+    "headline": "Tesla deliveries beat Wall Street estimates",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:02:00-05:00",
+    "headline": "Microsoft faces antitrust probe in EU market",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:02:00-05:00",
+    "headline": "Nvidia stock pulls back on valuation concerns",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:19:00-05:00",
+    "headline": "Nvidia AI chip demand continues to outpace supply",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:19:00-05:00",
+    "headline": "Apple faces regulatory scrutiny over App Store policies",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:23:00-05:00",
+    "headline": "Nvidia stock pulls back on valuation concerns",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:24:00-05:00",
+    "headline": "Tesla expands Supercharger network across Europe",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-06T14:54:00-05:00",
+    "headline": "Apple faces regulatory scrutiny over App Store policies",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-06T15:48:00-05:00",
+    "headline": "Microsoft layoffs signal cost-cutting measures ahead",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-06T15:54:00-05:00",
+    "headline": "Apple expands services revenue with new subscription tiers",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T09:43:00-05:00",
+    "headline": "Nvidia stock pulls back on valuation concerns",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-07T09:53:00-05:00",
+    "headline": "Microsoft stock drops on weak cloud guidance",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-07T10:17:00-05:00",
+    "headline": "Microsoft faces antitrust probe in EU market",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-07T10:21:00-05:00",
+    "headline": "Tesla stock tumbles on margin compression fears",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-07T10:53:00-05:00",
+    "headline": "Microsoft faces antitrust probe in EU market",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-07T11:00:00-05:00",
+    "headline": "Tech giants rally on positive economic data",
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-07T11:07:00-05:00",
+    "headline": "Microsoft faces antitrust probe in EU market",
+    "tickers": [
+      "MSFT"
+    ]
+  },
+  {
+    "published": "2025-01-07T11:15:00-05:00",
+    "headline": "Nvidia faces export restrictions on advanced chips",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-07T11:40:00-05:00",
+    "headline": "Tech giants rally on positive economic data",
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-07T12:08:00-05:00",
+    "headline": "Apple expands services revenue with new subscription tiers",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T12:31:00-05:00",
+    "headline": "Apple stock rises on strong earnings beat",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T12:44:00-05:00",
+    "headline": "Apple loses patent case, shares dip",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T12:44:00-05:00",
+    "headline": "Nvidia partners with major cloud providers on AI infrastructure",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-07T13:14:00-05:00",
+    "headline": "Nvidia stock pulls back on valuation concerns",
+    "tickers": [
+      "NVDA"
+    ]
+  },
+  {
+    "published": "2025-01-07T13:15:00-05:00",
+    "headline": "Apple expands services revenue with new subscription tiers",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T13:23:00-05:00",
+    "headline": "Apple reports record iPhone sales in holiday quarter",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T13:31:00-05:00",
+    "headline": "Apple announces new AI features for upcoming products",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T13:40:00-05:00",
+    "headline": "Global trade tensions escalate, tech sector cautious",
+    "tickers": []
+  },
+  {
+    "published": "2025-01-07T13:49:00-05:00",
+    "headline": "Tesla production delays at Berlin factory worry investors",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-07T15:03:00-05:00",
+    "headline": "Tesla faces increased competition from Chinese EV makers",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "published": "2025-01-07T15:29:00-05:00",
+    "headline": "Apple expands services revenue with new subscription tiers",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "published": "2025-01-07T15:43:00-05:00",
+    "headline": "Global trade tensions escalate, tech sector cautious",
+    "tickers": []
+  },
+  {
+    "published": "2025-01-07T15:53:00-05:00",
+    "headline": "Tesla FSD technology receives regulatory approval in new markets",
+    "tickers": [
+      "TSLA"
+    ]
+  }
+]

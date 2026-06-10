@@ -1,0 +1,108 @@
+{
+  "subnet": "10.0.0.0/24",
+  "scan_timestamp": "2025-07-01T08:00:00Z",
+  "hosts": [
+    {
+      "ip": "10.0.0.1",
+      "mac": "11:22:33:44:55:01",
+      "hostname": "router.internal",
+      "status": "up",
+      "ports": [
+        {
+          "port": 23,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "telnet",
+          "version": ""
+        },
+        {
+          "port": 3389,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ms-wbt-server",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "ip": "10.0.0.2",
+      "mac": "11:22:33:44:55:02",
+      "hostname": "server.internal",
+      "status": "up",
+      "ports": [
+        {
+          "port": 21,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "ftp",
+          "version": "ProFTPD 1.3.5"
+        }
+      ]
+    },
+    {
+      "ip": "10.0.0.3",
+      "mac": "11:22:33:44:55:03",
+      "hostname": "idle.internal",
+      "status": "down",
+      "ports": []
+    },
+    {
+      "ip": "10.0.0.4",
+      "mac": "11:22:33:44:55:04",
+      "hostname": "clean.internal",
+      "status": "up",
+      "ports": [
+        {
+          "port": 443,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "https",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "ip": "10.0.0.5",
+      "mac": "11:22:33:44:55:05",
+      "hostname": "busy.internal",
+      "status": "up",
+      "ports": [
+        {
+          "port": 80,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "http",
+          "version": ""
+        },
+        {
+          "port": 443,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "https",
+          "version": ""
+        },
+        {
+          "port": 8080,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "http-alt",
+          "version": ""
+        },
+        {
+          "port": 8443,
+          "protocol": "tcp",
+          "state": "open",
+          "service": "https-alt",
+          "version": ""
+        },
+        {
+          "port": 9090,
+          "protocol": "tcp",
+          "state": "filtered",
+          "service": "zeus-admin",
+          "version": ""
+        }
+      ]
+    }
+  ]
+}

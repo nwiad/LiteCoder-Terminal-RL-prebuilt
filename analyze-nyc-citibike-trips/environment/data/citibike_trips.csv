@@ -1,0 +1,36 @@
+trip_id,start_time,end_time,start_station_id,start_station_name,start_borough,end_station_id,end_station_name,end_borough,user_type,bike_id
+T001,2024-07-15T08:32:00,2024-07-15T08:47:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,member,B001
+T002,2024-07-15T08:45:00,2024-07-15T09:10:00,S102,Union Sq,Manhattan,S301,Brooklyn Bridge,Brooklyn,member,B002
+T003,2024-07-15T09:00:00,2024-07-15T09:22:00,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,casual,B003
+T004,2024-07-15T09:15:00,2024-07-15T09:35:00,S401,Astoria Park,Queens,S402,LIC Waterfront,Queens,member,B004
+T005,2024-07-15T10:00:00,2024-07-15T10:08:00,S101,Central Park S,Manhattan,S102,Union Sq,Manhattan,member,B005
+T006,2024-07-15T10:30:00,2024-07-15T11:05:00,S301,DUMBO,Brooklyn,S201,Times Sq,Manhattan,casual,B006
+T007,2024-07-15T11:00:00,2024-07-15T11:12:00,S501,Yankee Stadium,Bronx,S502,Grand Concourse,Bronx,member,B007
+T008,2024-07-15T12:00:00,2024-07-15T12:45:00,S601,St George Terminal,Staten Island,S602,South Beach,Staten Island,casual,B008
+T009,2024-07-15T08:00:00,,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,member,B009
+T010,,2024-07-15T09:30:00,S102,Union Sq,Manhattan,S301,Brooklyn Bridge,Brooklyn,casual,B010
+T011,2024-07-15T14:00:00,2024-07-15T13:30:00,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,member,B011
+T012,2024-07-15T06:00:00,2024-07-16T08:00:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,casual,B012
+T013,2024-07-15T17:00:00,2024-07-15T17:25:00,S102,Union Sq,,S301,Brooklyn Bridge,Brooklyn,member,B013
+T014,2024-07-15T17:30:00,2024-07-15T17:55:00,S401,Astoria Park,Queens,S402,LIC Waterfront,,casual,B014
+T015,2024-07-15T18:00:00,2024-07-15T18:20:00,S701,Hoboken,New Jersey,S102,Union Sq,Manhattan,member,B015
+T016,2024-07-15T08:15:00,2024-07-15T08:40:00,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,member,B016
+T017,2024-07-15T17:10:00,2024-07-15T17:35:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,casual,B017
+T018,2024-07-15T17:45:00,2024-07-15T18:10:00,S301,DUMBO,Brooklyn,S401,Astoria Park,Queens,member,B018
+T019,2024-07-15T12:30:00,2024-07-15T13:00:00,S401,Astoria Park,Queens,S301,DUMBO,Brooklyn,casual,B019
+T020,2024-07-15T13:00:00,2024-07-15T13:15:00,S501,Yankee Stadium,Bronx,S101,Central Park S,Manhattan,member,B020
+T021,2024-07-15T07:00:00,2024-07-15T07:18:00,S102,Union Sq,Manhattan,S301,Brooklyn Bridge,Brooklyn,member,B021
+T022,2024-07-15T07:30:00,2024-07-15T07:52:00,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,casual,B022
+T023,2024-07-15T16:00:00,2024-07-15T16:30:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,member,B023
+T024,2024-07-15T16:15:00,2024-07-15T16:40:00,S401,Astoria Park,Queens,S402,LIC Waterfront,Queens,member,B024
+T025,2024-07-15T19:00:00,2024-07-15T19:45:00,S601,St George Terminal,Staten Island,S602,South Beach,Staten Island,member,B025
+T026,2024-07-15T20:00:00,2024-07-15T20:22:00,S301,DUMBO,Brooklyn,S201,Times Sq,Manhattan,casual,B026
+T027,2024-07-15T21:00:00,2024-07-15T21:15:00,S101,Central Park S,Manhattan,S102,Union Sq,Manhattan,member,B027
+T028,2024-07-15T22:00:00,2024-07-15T22:35:00,S501,Yankee Stadium,Bronx,S502,Grand Concourse,Bronx,casual,B028
+T029,2024-07-15T23:00:00,2024-07-15T23:20:00,S102,Union Sq,Manhattan,S301,Brooklyn Bridge,Brooklyn,member,B029
+T030,2024-07-15T23:30:00,2024-07-16T00:05:00,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,member,B030
+T031,2024-07-15T08:50:00,2024-07-15T09:05:00,S401,Astoria Park,Queens,S101,Central Park S,Manhattan,,B031
+T032,2024-07-15T15:00:00,2024-07-15T15:20:00,S102,Union Sq,Manhattan,S301,Brooklyn Bridge,Brooklyn,member,B032
+T033,INVALID_DATE,2024-07-15T10:00:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,member,B033
+T034,2024-07-15T10:00:00,NOT_A_DATE,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,casual,B034
+T035,2024-07-15T11:30:00,2024-07-15T11:55:00,,,,S201,Times Sq,Manhattan,member,B035

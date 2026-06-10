@@ -1,0 +1,8 @@
+{
+  "seed_urls": ["http://example.com", "http://test.com"],
+  "max_pages_per_domain": 50,
+  "rate_limit_delay": 1.0,
+  "max_concurrent_requests": 10,
+  "respect_robots_txt": true,
+  "user_agent": "CustomCrawler/1.0"
+}

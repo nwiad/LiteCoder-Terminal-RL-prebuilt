@@ -1,0 +1,9 @@
+{
+  "app_name": "backup_test",
+  "version": "1.0.0",
+  "settings": {
+    "max_retries": 3,
+    "timeout": 60,
+    "verbose": true
+  }
+}

@@ -1,0 +1,6 @@
+product_id,product_name,product_category,unit_price,margin
+P001,Widget A,Electronics,29.99,0.35
+P002,Gadget B,Electronics,49.99,0.40
+P003,Gizmo C,Home,15.00,0.25
+P004,,Home,10.00,0.20
+P005,Thingamajig E,Toys,5.99,0.15

@@ -1,0 +1,10 @@
+{"id": 1, "domain": "example.com", "query_type": "A", "answers": ["93.184.216.34"], "response_time_ms": 12.5, "status": "success", "timestamp": "2025-01-15T10:30:00Z"}
+{"id": 2, "domain": "google.com", "query_type": "A", "answers": ["142.250.80.46"], "response_time_ms": 8.3, "status": "success", "timestamp": "2025-01-15T10:30:05Z"}
+{"id": 3, "domain": "example.com", "query_type": "AAAA", "answers": ["2606:2800:220:1:248:1893:25c8:1946"], "response_time_ms": 15.1, "status": "success", "timestamp": "2025-01-15T10:30:10Z"}
+{"id": 4, "domain": "nonexistent.invalid", "query_type": "A", "answers": [], "response_time_ms": 5002.0, "status": "error", "error": "NXDOMAIN", "timestamp": "2025-01-15T10:30:15Z"}
+{"id": 5, "domain": "google.com", "query_type": "MX", "answers": ["10 smtp.google.com"], "response_time_ms": 20.7, "status": "success", "timestamp": "2025-01-15T10:30:20Z"}
+{"id": 6, "domain": "example.com", "query_type": "A", "answers": ["93.184.216.34"], "response_time_ms": 11.2, "status": "success", "timestamp": "2025-01-15T10:30:25Z"}
+{"id": 7, "domain": "github.com", "query_type": "A", "answers": ["140.82.121.3"], "response_time_ms": 9.8, "status": "success", "timestamp": "2025-01-15T10:30:30Z"}
+{"id": 8, "domain": "example.com", "query_type": "CNAME", "answers": ["www.example.com"], "response_time_ms": 14.0, "status": "success", "timestamp": "2025-01-15T10:30:35Z"}
+{"id": 9, "domain": "timeout.test", "query_type": "A", "answers": [], "response_time_ms": 5000.0, "status": "error", "error": "Timeout", "timestamp": "2025-01-15T10:30:40Z"}
+{"id": 10, "domain": "google.com", "query_type": "A", "answers": ["142.250.80.46"], "response_time_ms": 7.9, "status": "success", "timestamp": "2025-01-15T10:30:45Z"}

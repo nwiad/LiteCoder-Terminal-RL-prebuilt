@@ -1,0 +1,4 @@
+This is a sample document for backup testing.
+It contains multiple lines of text data.
+Line three of the sample file.
+Final line of sample1.

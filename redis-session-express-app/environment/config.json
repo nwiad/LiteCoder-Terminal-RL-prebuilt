@@ -1,0 +1,13 @@
+{
+  "port": 3000,
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "password": "your_redis_password"
+  },
+  "session": {
+    "secret": "session_secret_key",
+    "name": "sessionId",
+    "maxAge": 3600000
+  }
+}

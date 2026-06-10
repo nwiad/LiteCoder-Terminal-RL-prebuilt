@@ -1,0 +1,5 @@
+dataset_shape: (15, 9)
+test_accuracy: 0.6667
+baseline_accuracy: 0.6667
+mcnemar_pvalue: 1.0000
+top_features: price_change, volume_momentum, fg_trends_interaction

@@ -1,0 +1,164 @@
+{
+  "sales": [
+    {
+      "sale_id": "S001",
+      "sale_date": "2024-03-15T10:30:00Z",
+      "quantity": 2,
+      "unit_price": 29.99,
+      "discount": null,
+      "product": {
+        "product_id": "P001",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "brand": "TechCo"
+      },
+      "customer": {
+        "customer_id": "C001",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    {
+      "sale_id": "S002",
+      "sale_date": "2024-03-16T14:20:00Z",
+      "quantity": 1,
+      "unit_price": 549.99,
+      "discount": 50.00,
+      "product": {
+        "product_id": "P002",
+        "name": "Laptop Stand",
+        "category": "electronics",
+        "brand": ""
+      },
+      "customer": {
+        "customer_id": "C002",
+        "name": "  Bob Smith  ",
+        "email": "BOB@EXAMPLE.COM",
+        "city": "",
+        "country": "USA"
+      }
+    },
+    {
+      "sale_id": "S003",
+      "sale_date": "2024-03-17T09:15:00Z",
+      "quantity": 5,
+      "unit_price": 12.50,
+      "discount": 5.00,
+      "product": {
+        "product_id": "P003",
+        "name": "USB Cable",
+        "category": "accessories",
+        "brand": "CablePro"
+      },
+      "customer": {
+        "customer_id": "C001",
+        "name": "Alice Johnson",
+        "email": "Alice@Example.com",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    {
+      "sale_id": "S004",
+      "sale_date": "2024-03-18T16:45:00Z",
+      "quantity": 0,
+      "unit_price": 99.99,
+      "discount": 10.00,
+      "product": {
+        "product_id": "P001",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "brand": "TechCo"
+      },
+      "customer": {
+        "customer_id": "C003",
+        "name": "Charlie Davis",
+        "email": "charlie@example.com",
+        "city": "London",
+        "country": "UK"
+      }
+    },
+    {
+      "sale_id": "S005",
+      "sale_date": "2024-03-19T11:00:00Z",
+      "quantity": 3,
+      "unit_price": 45.00,
+      "discount": null,
+      "product": {
+        "product_id": "P004",
+        "name": "Keyboard",
+        "category": "ELECTRONICS",
+        "brand": "TechCo"
+      },
+      "customer": {
+        "customer_id": "C003",
+        "name": "Charlie Davis",
+        "email": "CHARLIE@EXAMPLE.COM",
+        "city": "London",
+        "country": "UK"
+      }
+    },
+    {
+      "sale_id": "S006",
+      "sale_date": "2024-03-20T08:30:00Z",
+      "quantity": -1,
+      "unit_price": 25.00,
+      "discount": 2.00,
+      "product": {
+        "product_id": "P003",
+        "name": "USB Cable",
+        "category": "Accessories",
+        "brand": "CablePro"
+      },
+      "customer": {
+        "customer_id": "C002",
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "city": "Chicago",
+        "country": "USA"
+      }
+    },
+    {
+      "sale_id": "S007",
+      "sale_date": "2024-03-21T13:10:00Z",
+      "quantity": 1,
+      "unit_price": 199.99,
+      "discount": 20.00,
+      "product": {
+        "product_id": "P005",
+        "name": "Monitor Arm",
+        "category": "furniture",
+        "brand": "DeskFit"
+      },
+      "customer": {
+        "customer_id": "C004",
+        "name": "Diana Lee ",
+        "email": "Diana.Lee@Example.COM",
+        "city": "Toronto",
+        "country": "Canada"
+      }
+    },
+    {
+      "sale_id": "S008",
+      "sale_date": "2024-03-22T17:55:00Z",
+      "quantity": 4,
+      "unit_price": 8.99,
+      "discount": null,
+      "product": {
+        "product_id": "P003",
+        "name": "USB Cable",
+        "category": "ACCESSORIES",
+        "brand": "CablePro"
+      },
+      "customer": {
+        "customer_id": "C001",
+        "name": " Alice Johnson",
+        "email": "alice@example.com",
+        "city": "New York",
+        "country": "USA"
+      }
+    }
+  ]
+}

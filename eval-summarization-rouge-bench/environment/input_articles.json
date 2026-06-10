@@ -1,0 +1,22 @@
+[
+  {
+    "id": "article_1",
+    "article": "Scientists at the European Space Agency announced on Tuesday that they have discovered a new exoplanet orbiting a star in the habitable zone approximately 40 light-years from Earth. The planet, designated ESA-2047b, is roughly 1.2 times the size of Earth and has conditions that could potentially support liquid water on its surface. Dr. Maria Chen, lead researcher on the project, said the discovery was made using the transit method with the agency's PLATO telescope. The team spent over two years analyzing the data before confirming the finding. The discovery adds to the growing catalog of potentially habitable worlds and has generated excitement in the scientific community about the possibility of finding signs of life beyond our solar system."
+  },
+  {
+    "id": "article_2",
+    "article": "The city of Portland, Oregon, approved a sweeping new public transportation plan on Wednesday that will invest over 3 billion dollars in expanding its light rail and bus network over the next decade. The plan includes the construction of three new light rail lines connecting underserved neighborhoods to the city center, as well as the addition of 50 new electric buses to the existing fleet. Mayor Lisa Thompson said the investment would reduce traffic congestion by an estimated 15 percent and cut carbon emissions from transportation by 20 percent by 2035. Critics of the plan argue that the cost is too high and that the city should focus on improving existing infrastructure rather than building new lines. The plan was approved by a vote of 7 to 2 on the city council."
+  },
+  {
+    "id": "article_3",
+    "article": "A major cybersecurity breach at GlobalTech Industries has exposed the personal data of approximately 2.3 million customers, the company confirmed on Friday. The breach, which occurred over a three-week period in January, compromised names, email addresses, and encrypted passwords stored in the company's customer database. GlobalTech's chief security officer, James Park, said the vulnerability was discovered during a routine security audit and has since been patched. The company is offering affected customers free credit monitoring services for one year and has notified relevant regulatory authorities. This is the third significant data breach reported in the technology sector this month, raising concerns about the adequacy of current cybersecurity standards across the industry."
+  },
+  {
+    "id": "article_4",
+    "article": "Researchers at Stanford University have developed a new type of battery that could significantly extend the range of electric vehicles. The solid-state lithium battery, described in a paper published in the journal Nature Energy, can store nearly twice the energy of conventional lithium-ion batteries while being lighter and safer. Professor David Kim, who led the research team, said the battery uses a ceramic electrolyte instead of the liquid electrolyte found in current batteries, which eliminates the risk of fire. The team has successfully tested prototypes in laboratory conditions and plans to begin pilot production within two years. Several major automakers have already expressed interest in licensing the technology for their next generation of electric vehicles."
+  },
+  {
+    "id": "article_5",
+    "article": "The World Health Organization released a report on Thursday warning that antibiotic resistance is accelerating faster than previously estimated and could cause 10 million deaths annually by 2050 if urgent action is not taken. The report, based on data from 120 countries, found that resistance to common antibiotics has increased by 30 percent over the past five years. WHO Director-General Dr. Tedros Adhanom Ghebreyesus called on governments to invest more in research and development of new antibiotics and to implement stricter regulations on the use of antibiotics in agriculture. The report also recommends that hospitals adopt better infection control practices and that patients complete their full course of prescribed antibiotics to help slow the spread of resistant bacteria."
+  }
+]

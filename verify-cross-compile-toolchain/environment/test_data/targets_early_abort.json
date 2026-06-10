@@ -1,0 +1,14 @@
+[
+  {
+    "name": "will-fail",
+    "compiler": "nonexistent-gcc",
+    "flags": "-O2",
+    "expected_machine": "X86-64"
+  },
+  {
+    "name": "should-skip",
+    "compiler": "gcc",
+    "flags": "-O2",
+    "expected_machine": "X86-64"
+  }
+]

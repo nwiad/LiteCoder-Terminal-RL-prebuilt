@@ -1,0 +1,17 @@
+VIGENERE CIPHER CHALLENGE
+=========================
+
+You have intercepted an encrypted message. Your mission is to decrypt it and recover the hidden flag.
+
+Hints:
+- The encryption algorithm is the classic Vigenere cipher.
+- The key is a common 6-letter English word closely related to the world of cryptography.
+- Only alphabetic characters have been shifted; spaces, punctuation, braces, and underscores are unchanged.
+- The flag format is FLAG{...} and appears somewhere in the plaintext.
+
+Tools that may help:
+- Frequency analysis
+- Kasiski examination
+- Index of coincidence
+
+Good luck!

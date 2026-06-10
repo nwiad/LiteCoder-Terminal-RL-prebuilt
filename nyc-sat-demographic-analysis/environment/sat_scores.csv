@@ -1,0 +1,255 @@
+DBN,School Name,Number of Test Takers,Critical Reading Mean,Mathematics Mean,Writing Mean
+01M292,Henry Street School for International Studies,29,355,404,363
+01M448,University Neighborhood High School,91,383,423,366
+01M450,East Side Community School,70,377,402,370
+01M458,Forsyth Satellite Academy,7,414,401,359
+01M509,Marta Valle High School,44,390,433,384
+01M515,Lower East Side Preparatory High School,112,332,557,316
+01M539,New Explorations into Science Technology and Math,159,522,574,525
+02M047,47 The American Sign Language and English Secondary School,16,395,400,387
+02M288,Food and Finance High School,62,409,393,392
+02M294,Essex Street Academy,53,394,384,378
+02M296,High School of Hospitality Management,58,374,390,372
+02M298,Pace High School,85,394,378,385
+02M300,Urban Assembly School of Design and Construction,68,381,389,381
+02M303,The Facing History School,54,383,380,378
+02M305,Urban Assembly Academy of Government and Law,57,381,374,370
+02M308,Lower Manhattan Arts Academy,40,404,392,401
+02M313,James Baldwin School,30,410,406,415
+02M316,Murray Hill Academy,51,395,384,380
+02M374,Gramercy Arts High School,41,423,405,413
+02M376,NYC iSchool,56,462,444,459
+02M392,Manhattan Business Academy,60,370,377,360
+02M394,Emma Lazarus High School,52,s,s,s
+02M399,The High School for Language and Diplomacy,42,378,381,370
+02M400,High School for Environmental Studies,177,428,422,424
+02M407,Institute for Collaborative Education,46,410,397,409
+02M408,Professional Performing Arts High School,48,443,422,443
+02M411,Baruch College Campus High School,105,487,510,488
+02M412,N.Y.C. Lab School for Collaborative Studies,147,458,454,457
+02M413,School of the Future High School,113,437,434,431
+02M414,N.Y.C. Museum School,42,431,407,427
+02M416,Eleanor Roosevelt High School,155,508,510,505
+02M418,Millennium High School,141,499,510,497
+02M419,Landmark High School,42,385,381,383
+02M420,High School for Health Professions and Human Services,79,395,395,389
+02M422,Quest to Learn,s,s,s,s
+02M425,High School of Economics and Finance,131,411,428,406
+02M427,Manhattan Academy of Technology,38,371,381,363
+02M437,Life Sciences Secondary School,55,413,394,404
+02M438,International High School at Union Square,42,s,s,s
+02M439,Manhattan Village Academy,60,434,413,432
+02M440,Vanguard High School,42,393,381,389
+02M442,Humanities Preparatory Academy,40,413,394,413
+02M449,Bard High School Early College,148,569,563,568
+02M459,Talent Unlimited High School,100,449,434,445
+02M460,The Urban Assembly School of Business for Young Women,42,381,370,374
+02M465,Jacqueline Kennedy Onassis High School,120,395,381,389
+02M466,Metropolitan Expeditionary Learning School,38,413,394,404
+02M475,Stuyvesant High School,832,679,735,682
+02M489,High School for Dual Language and Asian Studies,52,432,479,424
+02M490,Hudson High School of Learning Technologies,44,381,370,374
+02M505,The High School for Climate Justice,38,s,s,s
+02M519,Repertory Company High School for Theatre Arts,32,413,394,404
+02M520,Murry Bergtraum High School for Business Careers,259,355,370,347
+02M529,Jacqueline Kennedy Onassis High School,s,s,s,s
+02M542,Manhattan Bridges High School,72,s,s,s
+02M543,New York City Charter High School for Architecture Engineering and Construction Industries,28,381,370,374
+02M544,High School for Media and Communications,42,381,370,374
+02M545,High School for Health Careers and Sciences,52,395,395,389
+02M546,Manhattan Early College School for Advertising,38,381,370,374
+02M550,Liberty High School Academy for Newcomers,42,s,s,s
+02M551,LISA Academy,38,s,s,s
+02M560,City-As-School High School,80,413,394,404
+02M570,High School of Fashion Industries,175,381,370,374
+02M575,The Urban Assembly School of Emergency Management,38,381,370,374
+02M580,Richard R. Green High School of Teaching,42,381,370,374
+02M585,Bayard Rustin Educational Complex,38,381,370,374
+02M600,The Urban Assembly Gateway School for Technology,52,395,395,389
+10X056,High School for Contemporary Arts,38,381,370,374
+10X141,Riverdale / Kingsbridge Academy,100,413,394,404
+10X225,Theatre Arts Production Company School,38,381,370,374
+10X243,West Bronx Academy for the Future,42,381,370,374
+10X268,Kingsbridge International High School,42,s,s,s
+10X342,International School for Liberal Arts,38,s,s,s
+10X351,The Bronx School for Law Government and Justice,52,381,370,374
+10X353,Bronx High School for the Visual Arts,38,381,370,374
+10X386,DeWitt Clinton High School,259,355,370,347
+10X396,Bronx Lab School,38,381,370,374
+10X397,The Celia Cruz Bronx High School of Music,52,381,370,374
+10X434,Bronx School of Law and Finance,38,381,370,374
+10X437,Marble Hill School for International Studies,52,395,395,389
+10X440,Bronx International High School,42,s,s,s
+10X442,Validus Preparatory Academy,38,381,370,374
+10X445,Discovery High School,38,381,370,374
+10X447,Bronx Arena High School,38,s,s,s
+10X549,Crotona International High School,38,s,s,s
+13K336,Cobble Hill School of American Studies,52,432,479,424
+13K527,Urban Assembly Unison School,38,381,370,374
+13K553,Brooklyn International High School,42,s,s,s
+13K605,George Westinghouse Career and Technical Education High School,52,381,370,374
+14K071,Juan Morel Campos Secondary School,38,355,370,347
+14K454,The School for Legal Studies,52,381,370,374
+14K474,Progress High School,38,s,s,s
+14K477,Automotive High School,52,355,370,347
+14K478,The High School for Enterprise Business and Technology,52,381,370,374
+14K488,Brooklyn Academy of Global Finance,38,381,370,374
+14K491,East Williamsburg Scholars Academy,38,381,370,374
+14K561,Brooklyn Preparatory High School,38,381,370,374
+14K610,Williamsburg High School for Architecture and Design,52,395,395,389
+14K611,Lyons Community School,38,381,370,374
+14K614,Brooklyn Generation School,38,381,370,374
+14K685,EBC High School for Public Service - Bushwick,38,381,370,374
+15K423,Brooklyn School for Collaborative Studies,52,413,394,404
+15K429,Brooklyn Secondary School for Collaborative Studies,38,413,394,404
+15K443,Brooklyn Technical High School,1277,587,618,579
+15K448,Brooklyn School for Music and Theatre,38,413,394,404
+15K497,Summit Academy Charter School,38,381,370,374
+15K529,West Brooklyn Community High School,38,s,s,s
+15K656,Urban Assembly School for Law and Justice,52,395,395,389
+15K667,Sunset Park High School,52,s,s,s
+15K684,The Urban Assembly School for Criminal Justice,38,381,370,374
+16K393,Frederick Douglass Academy VII High School,38,355,370,347
+16K455,Boys and Girls High School,52,355,370,347
+16K498,Brooklyn High School for Law and Technology,38,381,370,374
+17K382,Olympus Academy,38,381,370,374
+17K408,Academy for Health Careers,52,381,370,374
+17K489,W.E.B. DuBois Academic High School,38,355,370,347
+17K524,International High School at Prospect Heights,42,s,s,s
+17K531,School for Human Rights,38,395,395,389
+17K537,High School for Public Service: Heroes of Tomorrow,52,381,370,374
+17K539,Brooklyn Community Arts and Media High School,38,381,370,374
+17K543,Brooklyn Academy of Science and the Environment,52,413,394,404
+17K546,Brooklyn High School of the Arts,38,381,370,374
+17K548,The High School for Global Citizenship,38,381,370,374
+17K590,Medgar Evers College Preparatory School,52,413,394,404
+19K409,East New York Family Academy,38,355,370,347
+19K431,Thomas Jefferson High School,52,355,370,347
+19K504,East New York High School of Transit Technology,38,355,370,347
+19K507,Performing Arts and Technology High School,38,381,370,374
+19K510,Multicultural High School,38,s,s,s
+19K583,Brooklyn Theatre Arts High School,38,381,370,374
+19K615,Cypress Hills Collegiate Preparatory School,52,381,370,374
+19K618,Academy of Innovative Technology,38,381,370,374
+19K639,Brooklyn Frontiers High School,38,s,s,s
+19K659,W.H. Maxwell Career and Technical Education High School,52,355,370,347
+19K660,Brownsville Academy High School,38,355,370,347
+19K662,Brooklyn Lab School,38,381,370,374
+19K672,Aspirations Diploma Plus High School,38,s,s,s
+19K683,Brooklyn Democracy Academy,38,s,s,s
+20K490,Fort Hamilton High School,259,413,428,406
+20K505,John Dewey High School,175,395,395,389
+20K609,Urban Assembly School for Collaborative Healthcare,52,381,370,374
+20K685,Bay Academy for the Arts and Sciences,38,381,370,374
+20K686,21st Century Academy for Media and Technology,38,381,370,374
+21K337,Rachel Carson High School for Coastal Studies,52,381,370,374
+21K344,Abraham Lincoln High School,259,395,413,389
+21K348,William E. Grady Career and Technical Education High School,175,381,370,374
+21K410,John J. Pershing IS 220,38,381,370,374
+21K525,Edward R. Murrow High School,259,449,434,445
+21K540,Midwood High School,259,449,434,445
+21K559,Life Academy High School for Film and Music,38,381,370,374
+21K572,Origins High School,38,381,370,374
+21K575,Brooklyn Studio Secondary School,38,381,370,374
+21K620,Millennium Brooklyn High School,52,449,434,445
+21K683,Brooklyn Preparatory High School,38,381,370,374
+22K280,James Madison High School,259,413,428,406
+22K405,South Shore High School,52,355,370,347
+22K425,Academy of Hospitality and Tourism,38,381,370,374
+22K495,Brooklyn College Academy,52,432,479,424
+22K510,South Brooklyn Community High School,38,s,s,s
+22K515,Kingsborough Early College School,38,413,394,404
+22K525,South Shore Academy,38,381,370,374
+22K530,Cultural Academy for the Arts and Sciences,38,381,370,374
+22K535,Leon M. Goldstein High School for the Sciences,175,449,434,445
+22K555,Millennium Brooklyn High School,52,449,434,445
+22K585,Brooklyn Generation School,38,381,370,374
+22K600,Brooklyn Lab School,38,381,370,374
+22K615,Kingsborough Early College School,38,413,394,404
+23K493,Brooklyn Preparatory High School,38,381,370,374
+23K514,Gotham Professional Arts Academy,38,381,370,374
+23K647,Brooklyn School for Social Justice,38,381,370,374
+23K697,Brooklyn Ascend Charter School,38,381,370,374
+24Q263,Robert F. Kennedy Community High School,38,s,s,s
+24Q267,High School for Construction Trades Engineering and Architecture,52,381,370,374
+24Q268,Newcomers High School,42,s,s,s
+24Q270,Aviation Career and Technical Education High School,175,413,428,406
+24Q296,Pan American International High School at Monroe,42,s,s,s
+24Q299,Queens Preparatory Academy,38,381,370,374
+24Q305,Academy of Finance and Enterprise,52,395,395,389
+24Q455,John Adams High School,175,355,370,347
+24Q520,Middle College High School at LaGuardia Community College,52,413,394,404
+24Q529,Queens High School for Information Research and Technology,38,381,370,374
+24Q530,Grover Cleveland High School,175,381,370,374
+24Q540,Hillcrest High School,259,381,395,374
+24Q550,Newtown High School,175,355,370,347
+24Q560,Richmond Hill High School,175,381,395,374
+24Q570,Jamaica Gateway to the Sciences,52,395,395,389
+24Q575,Thomas A. Edison Career and Technical Education High School,175,381,370,374
+24Q580,William Cullen Bryant High School,259,381,395,374
+24Q585,Maspeth High School,175,413,428,406
+24Q600,Long Island City High School,175,381,395,374
+24Q610,Forest Hills High School,259,449,462,445
+24Q650,Flushing High School,175,355,370,347
+24Q670,Bayside High School,259,449,462,445
+24Q680,Benjamin N. Cardozo High School,259,413,428,406
+24Q690,Francis Lewis High School,259,413,428,406
+24Q700,Martin Van Buren High School,175,381,395,374
+24Q710,Springfield Gardens High School,175,355,370,347
+24Q720,Cambria Heights Academy,38,381,370,374
+24Q730,Queens Gateway to Health Sciences Secondary School,52,449,462,445
+24Q744,Robert F. Wagner Jr. Secondary School for Arts and Technology,52,413,394,404
+25Q460,Flushing International High School,42,s,s,s
+25Q470,East-West School of International Studies,52,413,428,406
+25Q525,Townsend Harris High School,259,587,618,579
+25Q540,John Bowne High School,175,381,395,374
+25Q550,Queens High School for the Sciences at York College,100,587,618,579
+25Q560,Robert F. Kennedy Community High School,38,s,s,s
+26Q415,Cardozo Law Academy,38,413,428,406
+26Q430,Francis Lewis High School,259,413,428,406
+27Q260,Frederick Douglass Academy VI High School,38,355,370,347
+27Q262,Rockaway Park High School for Environmental Sustainability,38,381,370,374
+27Q302,Channel View School for Research,52,381,370,374
+27Q309,Far Rockaway High School,175,355,370,347
+27Q314,Beach Channel High School,175,381,370,374
+27Q323,Scholars Academy,52,449,462,445
+27Q334,Academy of Medical Technology,38,381,370,374
+27Q400,August Martin High School,175,355,370,347
+27Q480,John F. Kennedy Jr. High School,175,381,370,374
+27Q502,Voyages Preparatory,38,s,s,s
+28Q310,Hillcrest High School,259,381,395,374
+28Q325,Jamaica High School,175,355,370,347
+28Q328,Queens Collegiate,38,381,370,374
+28Q338,Queens High School for Information Research and Technology,38,381,370,374
+28Q350,High School for Community Leadership,38,381,370,374
+28Q440,Hillcrest High School,259,381,395,374
+28Q455,Thomas A. Edison Career and Technical Education High School,175,381,370,374
+28Q505,Queens Preparatory Academy,38,381,370,374
+28Q620,Jamaica Gateway to the Sciences,52,395,395,389
+28Q680,Excelsior Preparatory High School,38,381,370,374
+28Q690,Preparatory Academy for Writers,38,381,370,374
+29Q248,Springfield Gardens High School,175,355,370,347
+29Q265,Cambria Heights Academy,38,381,370,374
+29Q283,Preparatory Academy for Writers,38,381,370,374
+29Q492,Queens Satellite High School for Opportunity,38,s,s,s
+29Q494,Springfield Gardens High School,175,355,370,347
+29Q496,Cambria Heights Academy,38,381,370,374
+29Q498,Preparatory Academy for Writers,38,381,370,374
+30Q445,William Cullen Bryant High School,259,381,395,374
+30Q450,Long Island City High School,175,381,395,374
+30Q460,Newcomers High School,42,s,s,s
+30Q501,Frank Sinatra School of the Arts High School,52,449,462,445
+30Q502,Information Technology High School,52,413,394,404
+30Q555,Academy for Careers in Television and Film,52,395,395,389
+30Q575,Academy of American Studies,52,449,462,445
+30Q580,Baccalaureate School for Global Education,52,522,574,525
+31R047,CSI High School for International Studies,52,449,434,445
+31R063,Staten Island Technical High School,259,587,618,579
+31R080,The Michael J. Petrides School,52,449,434,445
+31R440,New Dorp High School,259,413,394,404
+31R445,Port Richmond High School,175,381,370,374
+31R450,Curtis High School,175,413,394,404
+31R455,Tottenville High School,259,449,434,445
+31R460,Susan E. Wagner High School,259,413,394,404
+31R470,Ralph R. McKee Career and Technical Education High School,175,355,370,347
+31R600,Staten Island School of Civic Leadership,52,413,394,404

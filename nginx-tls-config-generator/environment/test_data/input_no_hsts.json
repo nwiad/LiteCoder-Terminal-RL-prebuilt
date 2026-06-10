@@ -1,0 +1,10 @@
+{
+  "domain": "nohsts.dev",
+  "additional_domains": ["www.nohsts.dev"],
+  "webroot": "/var/www/nohsts",
+  "email": "dev@nohsts.dev",
+  "nginx_conf_dir": "/etc/nginx",
+  "cert_dir": "/etc/letsencrypt/live/nohsts.dev",
+  "enable_ocsp_stapling": true,
+  "hsts_max_age": 0
+}

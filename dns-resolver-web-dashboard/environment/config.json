@@ -1,0 +1,7 @@
+{
+  "upstream_dns": "8.8.8.8",
+  "dns_port": 53,
+  "web_port": 5353,
+  "log_file": "/app/dns_log.json",
+  "log_level": "INFO"
+}

@@ -1,0 +1,17 @@
+[
+  {"tx_id": "T001", "store_id": "S001", "sku": "SKU-100", "qty": 3, "unit_price": 25.50, "ts": "2024-06-15T10:03:22"},
+  {"tx_id": "T002", "store_id": "S002", "sku": "SKU-200", "qty": -1, "unit_price": 10.00, "ts": "2024-06-15T10:04:00"},
+  {"tx_id": "T003", "store_id": "S001", "sku": "SKU-300", "qty": 500, "unit_price": 12.00, "ts": "2024-06-15T10:07:45"},
+  {"tx_id": "T004", "store_id": "S003", "sku": "SKU-100", "qty": 2, "unit_price": 25.50, "ts": "2024-06-15T10:08:10"},
+  {"tx_id": "T005", "store_id": "S002", "sku": "SKU-400", "qty": 10, "unit_price": 5.75, "ts": "2024-06-15T10:11:30"},
+  {"tx_id": "T006", "store_id": "S001", "sku": "SKU-100", "qty": 0, "unit_price": 25.50, "ts": "2024-06-15T10:12:00"},
+  {"tx_id": "T007", "store_id": "S002", "sku": "SKU-200", "qty": 7, "unit_price": 10.00, "ts": "2024-06-15T10:06:00"},
+  {"tx_id": "T008", "store_id": "S004", "sku": "SKU-500", "qty": 1, "unit_price": 99.99, "ts": "2024-06-15T10:15:01"},
+  {"tx_id": "T009", "store_id": "S001", "sku": "SKU-100", "qty": 5, "unit_price": -10.00, "ts": "2024-06-15T10:16:00"},
+  {"tx_id": "T010", "store_id": "S002", "sku": "SKU-300", "qty": 200, "unit_price": 30.00, "ts": "2024-06-15T10:05:00"},
+  {"tx_id": "T011", "store_id": "S001", "sku": "SKU-100", "qty": 4, "unit_price": 25.50, "ts": "2024-06-15T10:03:50"},
+  {"tx_id": null, "store_id": "S001", "sku": "SKU-100", "qty": 1, "unit_price": 25.50, "ts": "2024-06-15T10:20:00"},
+  {"tx_id": "T013", "store_id": "S001", "sku": "SKU-100", "qty": 2, "unit_price": 25.50, "ts": "not-a-date"},
+  {"tx_id": "T014", "store_id": "S001", "sku": "SKU-200", "qty": 15, "unit_price": 10.00, "ts": "2024-06-15T10:22:30"},
+  {"store_id": "S002", "sku": "SKU-100", "qty": 3, "unit_price": 25.50, "ts": "2024-06-15T10:25:00"}
+]

@@ -1,0 +1,4 @@
+[
+  {"domain": "app.local", "ip": "192.168.1.10"},
+  {"domain": "api.local", "ip": "192.168.1.20"}
+]

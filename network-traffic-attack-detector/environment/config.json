@@ -1,0 +1,7 @@
+{
+  "num_records": 10000,
+  "attack_ratio": 0.15,
+  "attack_types": ["dos", "port_scan", "data_exfiltration"],
+  "random_seed": 42,
+  "duration_seconds": 3600
+}

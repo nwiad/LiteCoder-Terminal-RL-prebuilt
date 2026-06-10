@@ -1,0 +1,27 @@
+[
+  {
+    "id": "article_001",
+    "title": "Neural Network Approaches to Climate Modeling",
+    "text": "Climate modeling has traditionally relied on physics-based simulations that require enormous computational resources. Recent advances in deep learning have opened new avenues for accelerating climate predictions. In this study, we explore the application of convolutional neural networks to downscale global climate model outputs to regional resolutions. Our approach leverages transfer learning from pretrained image recognition models, adapting them to process gridded climate data. The methodology involves three key stages. First, we preprocess ERA5 reanalysis data spanning 1979 to 2020, extracting temperature, precipitation, and wind speed variables at 0.25-degree resolution. Second, we train a modified ResNet architecture to learn the mapping between coarse-resolution GCM outputs and high-resolution observations. Third, we evaluate the model against held-out test years using root mean square error and spatial correlation metrics. Our results demonstrate that the neural network approach achieves comparable accuracy to traditional statistical downscaling methods while reducing computation time by a factor of fifty. The model captures seasonal patterns and extreme events with particular fidelity in mid-latitude regions. However, performance degrades in tropical areas where convective processes dominate, suggesting that additional physical constraints may be needed. We also investigate the interpretability of the learned features using gradient-weighted class activation mapping. The analysis reveals that the network focuses on large-scale circulation patterns and orographic features, consistent with known physical mechanisms of regional climate variability. These findings suggest that hybrid approaches combining neural networks with physical process models may offer the most promising path forward for next-generation climate projections. Future work will extend this framework to include ocean-atmosphere coupling and longer prediction horizons."
+  },
+  {
+    "id": "article_002",
+    "title": "Quantum Error Correction in Superconducting Qubits",
+    "text": "Quantum computing promises exponential speedups for certain computational problems, but realizing this potential requires overcoming the challenge of quantum decoherence. Superconducting qubits, while among the most mature quantum computing platforms, suffer from error rates that preclude direct execution of useful quantum algorithms. Quantum error correction provides a theoretical framework for protecting quantum information, but its practical implementation demands significant overhead in terms of physical qubits and gate operations. In this paper, we present experimental results from a surface code implementation on a 72-qubit superconducting processor. We demonstrate that logical error rates decrease exponentially with code distance, achieving a logical error rate of 0.003 per round of error correction at code distance 5. This represents a threefold improvement over previous results and crosses the threshold required for fault-tolerant quantum computation. Our implementation uses a novel decoding algorithm based on minimum-weight perfect matching with correlated error models. We characterize the dominant error mechanisms, identifying crosstalk between neighboring qubits and frequency collisions as the primary sources of correlated errors. A detailed noise model incorporating these effects improves decoder performance by 40 percent compared to independent error assumptions. We further demonstrate real-time error decoding with a latency of 1.1 microseconds per round, enabled by a custom FPGA-based decoder. This latency is well below the qubit coherence time, satisfying a critical requirement for scalable error correction. The results establish a clear path toward fault-tolerant quantum computing with superconducting qubits, though significant engineering challenges remain in scaling to the thousands of physical qubits needed for practical applications."
+  },
+  {
+    "id": "article_003",
+    "title": "Short Study on Enzyme Kinetics",
+    "text": "We measured the catalytic rate of enzyme X under varying substrate concentrations and found Michaelis-Menten kinetics with Km of 2.5 mM."
+  },
+  {
+    "id": "article_004",
+    "title": "Empty Article Placeholder",
+    "text": ""
+  },
+  {
+    "id": "article_005",
+    "title": "Whitespace Only Test",
+    "text": "   \n\n   \n   "
+  }
+]

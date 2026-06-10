@@ -1,0 +1,20 @@
+{"business_id": "b1", "name": "The Golden Spoon", "city": "Las Vegas", "state": "NV", "stars": 4.5, "review_count": 328, "categories": "Restaurants, Italian, Fine Dining"}
+{"business_id": "b2", "name": "Quick Bites Cafe", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 89, "categories": "Cafes, Breakfast & Brunch"}
+{"business_id": "b3", "name": "Sunset Grill", "city": "Las Vegas", "state": "NV", "stars": 4.8, "review_count": 512, "categories": "Restaurants, American, Steakhouses"}
+{"business_id": "b4", "name": "Tech Repair Pro", "city": "Phoenix", "state": "AZ", "stars": 4.9, "review_count": 203, "categories": "Electronics Repair, IT Services"}
+{"business_id": "b5", "name": "Bella Pasta", "city": "Las Vegas", "state": "NV", "stars": 4.7, "review_count": 445, "categories": "Restaurants, Italian"}
+{"business_id": "b6", "name": "Downtown Diner", "city": "Phoenix", "state": "AZ", "stars": 4.2, "review_count": 156, "categories": "Diners, American, Breakfast & Brunch"}
+{"business_id": "b7", "name": "Zen Spa & Wellness", "city": "Las Vegas", "state": "NV", "stars": 5.0, "review_count": 287, "categories": "Spas, Health & Wellness, Massage"}
+{"business_id": "b8", "name": "Book Haven", "city": "Phoenix", "state": "AZ", "stars": 4.6, "review_count": 134, "categories": "Bookstores, Coffee & Tea"}
+{"business_id": "b9", "name": "Mario's Pizzeria", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 298, "categories": "Restaurants, Pizza, Italian"}
+{"business_id": "b10", "name": "The Burger Joint", "city": "Las Vegas", "state": "NV", "stars": 4.0, "review_count": 421, "categories": "Burgers, Fast Food, American"}
+{"business_id": "b11", "name": "Luxury Auto Detailing", "city": "Phoenix", "state": "AZ", "stars": 4.9, "review_count": 176, "categories": "Auto Detailing, Car Wash"}
+{"business_id": "b12", "name": "Sunrise Yoga Studio", "city": "Tucson", "state": "AZ", "stars": 4.8, "review_count": 223, "categories": "Yoga, Fitness, Health & Wellness"}
+{"business_id": "b13", "name": "The Coffee Bean", "city": "Las Vegas", "state": "NV", "stars": 4.3, "review_count": 567, "categories": "Coffee & Tea, Cafes"}
+{"business_id": "b14", "name": "No Category Place", "city": "Phoenix", "state": "AZ", "stars": 4.7, "review_count": 99, "categories": null}
+{"business_id": "b15", "name": "Sushi Paradise", "city": "Tucson", "state": "AZ", "stars": 4.9, "review_count": 389, "categories": "Restaurants, Sushi, Japanese"}
+{"business_id": "b16", "name": "Prime Steakhouse", "city": "Las Vegas", "state": "NV", "stars": 4.6, "review_count": 634, "categories": "Steakhouses, Fine Dining, Restaurants"}
+{"business_id": "b17", "name": "Empty Categories", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 45, "categories": ""}
+{"business_id": "b18", "name": "Fitness First Gym", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 312, "categories": "Gyms, Fitness, Health & Wellness"}
+{"business_id": "b19", "name": "Thai Orchid", "city": "Las Vegas", "state": "NV", "stars": 4.7, "review_count": 401, "categories": "Restaurants, Thai, Asian Fusion"}
+{"business_id": "b20", "name": "Pet Grooming Plus", "city": "Phoenix", "state": "AZ", "stars": 4.8, "review_count": 267, "categories": "Pet Groomers, Pet Services"}

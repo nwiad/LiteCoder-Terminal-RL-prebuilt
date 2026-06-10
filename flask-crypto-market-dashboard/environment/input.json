@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-01-15T09:58:00Z",
+    "symbol": "BTCUSDT",
+    "price": "42900.00",
+    "price_24h_ago": "42500.00",
+    "volume_24h": "18200.500"
+  },
+  {
+    "timestamp": "2025-01-15T09:59:00Z",
+    "symbol": "BTCUSDT",
+    "price": "43100.25",
+    "price_24h_ago": "42700.50",
+    "volume_24h": "18400.750"
+  },
+  {
+    "timestamp": "2025-01-15T10:00:00Z",
+    "symbol": "BTCUSDT",
+    "price": "43250.50",
+    "price_24h_ago": "42800.00",
+    "volume_24h": "18523.456"
+  },
+  {
+    "timestamp": "2025-01-15T10:00:30Z",
+    "symbol": "BTCUSDT",
+    "price": "43300.75",
+    "price_24h_ago": "42850.10",
+    "volume_24h": "18600.123"
+  }
+]

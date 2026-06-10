@@ -1,0 +1,3 @@
+This is a sample file in project_b.
+It should sync back to project_a.
+Verifies bidirectional sync works correctly.

@@ -1,0 +1,6 @@
+customer_id,customer_email,customer_segment
+C001,alice@example.com,Enterprise
+C002,bob@example.com,SMB
+C003,not-an-email,Enterprise
+C004,diana@example.com,Consumer
+C005,eve@example.com,

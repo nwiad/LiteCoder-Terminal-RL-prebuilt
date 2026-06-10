@@ -1,0 +1,8 @@
+{
+  "images": [
+    {"id": 0, "source": "cifar10_test", "index": 0},
+    {"id": 1, "source": "cifar10_test", "index": 100},
+    {"id": 2, "source": "cifar10_test", "index": 500},
+    {"id": 3, "source": "cifar10_test", "index": 1000}
+  ]
+}

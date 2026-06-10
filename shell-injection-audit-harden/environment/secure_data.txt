@@ -1,0 +1,4 @@
+This is a legitimate file inside /srv/secure/.
+It contains non-sensitive information that unprivileged users are allowed to read.
+Document ID: SEC-2025-0042
+Status: PUBLIC

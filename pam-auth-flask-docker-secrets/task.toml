@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/pam-auth-flask-docker-secrets"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "hard"
+category = "security"
+tags = [ "flask", "docker", "pam", "fail2ban", "tls",]
+expert_time_estimate_min = 45.0
+junior_time_estimate_min = 90.0
+
+[verifier]
+timeout_sec = 360.0
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--pam-auth-flask-docker-secrets:opencode-1.15.4-01ec1cf62535"
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

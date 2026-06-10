@@ -1,0 +1,7 @@
+trip_id,start_time,end_time,start_station_id,start_station_name,start_borough,end_station_id,end_station_name,end_borough,user_type,bike_id
+T001,2024-08-01T09:00:00,2024-08-01T09:15:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,member,B001
+T002,2024-08-01T10:00:00,2024-08-01T10:30:00,S301,DUMBO,Brooklyn,S302,Williamsburg,Brooklyn,casual,B002
+T003,2024-08-01T10:00:00,2024-08-01T09:50:00,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,member,B003
+T004,2024-08-01T11:00:00,2024-08-01T11:20:00,S401,Astoria Park,Queens,S402,LIC Waterfront,Queens,member,B004
+T005,2024-08-01T12:00:00,,S101,Central Park S,Manhattan,S201,Times Sq,Manhattan,casual,B005
+T006,2024-08-01T13:00:00,2024-08-01T13:10:00,S701,Hoboken,New Jersey,S102,Union Sq,Manhattan,member,B006

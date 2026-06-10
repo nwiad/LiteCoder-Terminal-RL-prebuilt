@@ -1,0 +1,5 @@
+{
+  "message": "Zero padded password test",
+  "password_hint": "4-digit numeric PIN",
+  "password": "0042"
+}

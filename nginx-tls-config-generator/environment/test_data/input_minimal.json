@@ -1,0 +1,10 @@
+{
+  "domain": "minimal.org",
+  "additional_domains": [],
+  "webroot": "/var/www/minimal",
+  "email": "info@minimal.org",
+  "nginx_conf_dir": "/etc/nginx",
+  "cert_dir": "/etc/letsencrypt/live/minimal.org",
+  "enable_ocsp_stapling": false,
+  "hsts_max_age": 0
+}

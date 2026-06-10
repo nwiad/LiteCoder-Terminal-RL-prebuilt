@@ -1,0 +1,5 @@
+root:!:19700:0:99999:7:::
+daemon:*:19700:0:99999:7:::
+testuser:$6$rounds=5000$saltsalt$qGhP0PULMRPBxFjxGz3hRqMOgBfBHMOyTPGxhMJvzz5vUKl3CmLfwNqPh0XVtAFnOYBnqHZq.sMbfGrNmxFx/:19700:0:99999:7:::
+admin:$6$rounds=5000$pepperpepper$Wd8z0gXRMFhJRpNOsLkVv1AOxn3BRfNFMBWiGrHHkWQxZmFcGzLSmaYTkF8aNGJFBxfCDL9YbGHPiRm4M5Dqv0:19700:0:99999:7:::
+nobody:*:19700:0:99999:7:::

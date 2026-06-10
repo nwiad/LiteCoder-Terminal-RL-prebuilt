@@ -1,0 +1,32 @@
+fips,county,state,population
+01001,Autauga,Alabama,55869
+01003,Baldwin,Alabama,223234
+01005,Barbour,Alabama,24686
+04013,Maricopa,Arizona,4485414
+06037,Los Angeles,California,10039107
+06073,San Diego,California,3338330
+06075,San Francisco,California,881549
+08031,Denver,Colorado,727211
+09001,Fairfield,Connecticut,943332
+12086,Miami-Dade,Florida,2716940
+12095,Orange,Florida,1393452
+13121,Fulton,Georgia,1063937
+17031,Cook,Illinois,5150233
+22071,Orleans,Louisiana,390144
+25017,Middlesex,Massachusetts,1611699
+26163,Wayne,Michigan,1749343
+27053,Hennepin,Minnesota,1265843
+29510,St. Louis city,Missouri,300576
+34013,Essex,New Jersey,798975
+36061,New York,New York,1628706
+36047,Kings,New York,2559903
+36081,Queens,New York,2253858
+39035,Cuyahoga,Ohio,1235072
+42101,Philadelphia,Pennsylvania,1584064
+48113,Dallas,Texas,2635516
+48201,Harris,Texas,4713325
+48029,Bexar,Texas,2003554
+51059,Fairfax,Virginia,1150309
+53033,King,Washington,2252782
+55079,Milwaukee,Wisconsin,945726
+02020,Anchorage,Alaska,288000

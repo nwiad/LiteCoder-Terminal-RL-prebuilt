@@ -1,0 +1,60 @@
+{
+  "dns": {
+    "resolver": "127.0.0.1",
+    "zone": ".tst",
+    "records": [
+      {"hostname": "site1.tst", "ip": "127.0.0.1"},
+      {"hostname": "site2.tst", "ip": "127.0.0.1"},
+      {"hostname": "site3.tst", "ip": "127.0.0.1"}
+    ]
+  },
+  "nginx": {
+    "sites": [
+      {
+        "domain": "site1.tst",
+        "proxy_port": 8081,
+        "ssl_cert_path": "/etc/ssl/certs/site1.crt",
+        "ssl_key_path": "/etc/ssl/private/site1.key",
+        "force_https": true
+      },
+      {
+        "domain": "site2.tst",
+        "proxy_port": 8082,
+        "ssl_cert_path": "/etc/ssl/certs/site2.crt",
+        "ssl_key_path": "/etc/ssl/private/site2.key",
+        "force_https": true
+      },
+      {
+        "domain": "site3.tst",
+        "proxy_port": 8083,
+        "ssl_cert_path": "/etc/ssl/certs/site3.crt",
+        "ssl_key_path": "/etc/ssl/private/site3.key",
+        "force_https": true
+      }
+    ]
+  },
+  "wordpress": {
+    "containers": [
+      {
+        "name": "wordpress-site1",
+        "port": 8081,
+        "bind_ip": "127.0.0.1"
+      },
+      {
+        "name": "wordpress-site2",
+        "port": 8082,
+        "bind_ip": "127.0.0.1"
+      },
+      {
+        "name": "wordpress-site3",
+        "port": 8083,
+        "bind_ip": "127.0.0.1"
+      }
+    ]
+  },
+  "ssl": {
+    "provider": "letsencrypt",
+    "auto_renew": true,
+    "renewal_frequency": "twice_daily"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "edge_001",
+    "title": "Empty Text",
+    "text": ""
+  },
+  {
+    "id": "edge_002",
+    "title": "Whitespace Only",
+    "text": "    \n\n\t\t   \n  "
+  },
+  {
+    "id": "edge_003",
+    "title": "Excessive Whitespace in Text",
+    "text": "This   article    has     excessive    whitespace.    Multiple    spaces    between    words    and\n\n\nmultiple   newlines   between   paragraphs.   The   cleaning   step   should   normalize   all   of   this."
+  }
+]

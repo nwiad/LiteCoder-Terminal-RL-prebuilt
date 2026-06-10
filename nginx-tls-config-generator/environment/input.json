@@ -1,0 +1,10 @@
+{
+  "domain": "example.com",
+  "additional_domains": ["www.example.com"],
+  "webroot": "/var/www/html",
+  "email": "admin@example.com",
+  "nginx_conf_dir": "/etc/nginx",
+  "cert_dir": "/etc/letsencrypt/live/example.com",
+  "enable_ocsp_stapling": true,
+  "hsts_max_age": 31536000
+}

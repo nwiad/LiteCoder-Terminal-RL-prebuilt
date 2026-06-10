@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/ml-vs-dl-census-benchmark"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "hard"
+category = "machine-learning"
+tags = [ "python", "pytorch", "scikit-learn", "classification", "data-science",]
+expert_time_estimate_min = 45.0
+junior_time_estimate_min = 90.0
+
+[verifier]
+timeout_sec = 600.0
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--ml-vs-dl-census-benchmark:opencode-1.15.4-970cdf9be300"
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 20480
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

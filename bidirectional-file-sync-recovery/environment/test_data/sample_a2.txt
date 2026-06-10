@@ -1,0 +1,2 @@
+Second file in project_a directory.
+Used to verify multi-file sync behavior.

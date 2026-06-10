@@ -1,0 +1,9 @@
+{
+  "service_name": "webapp",
+  "description": "Web application backend service",
+  "source_file": "src/myapp.c",
+  "user": "nobody",
+  "restart_policy": "always",
+  "after": "network.target syslog.target",
+  "compile_flags": "-Wall -Wextra -O2 -DNDEBUG"
+}

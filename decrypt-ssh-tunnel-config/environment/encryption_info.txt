@@ -1,0 +1,6 @@
+Encryption Method: AES-256-CBC
+Key Derivation: PBKDF2
+Iterations: 100000
+Digest: SHA-256
+Tool: OpenSSL
+Note: Decrypt using openssl enc -d with the above parameters and the reconstructed passphrase.

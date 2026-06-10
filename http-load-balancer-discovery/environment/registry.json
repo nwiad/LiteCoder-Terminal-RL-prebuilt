@@ -1,0 +1,7 @@
+{
+  "services": [
+    {"id": "backend-1", "host": "127.0.0.1", "port": 5001},
+    {"id": "backend-2", "host": "127.0.0.1", "port": 5002},
+    {"id": "backend-3", "host": "127.0.0.1", "port": 5003}
+  ]
+}

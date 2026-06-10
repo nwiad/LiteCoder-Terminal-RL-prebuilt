@@ -1,0 +1,8 @@
+{
+  "expected_output": "a3f1b9c7d4e60218f5a7b3c9d1e4f60789abcdef0123456789abcdef01234567",
+  "output_file": "/app/output.txt",
+  "archive_password": "ProjectOrion2024!",
+  "disguised_archive": "/app/sysbackup/kern_module.cache",
+  "archive_type": "zip",
+  "validation_regex": "^[0-9a-f]{64}$"
+}

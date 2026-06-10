@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/nodejs-cluster-load-balancer"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "medium"
+category = "software-engineering"
+tags = [ "nodejs", "cluster", "load-balancer", "http", "networking",]
+expert_time_estimate_min = 30.0
+junior_time_estimate_min = 60.0
+
+[verifier]
+timeout_sec = 600.0
+
+[agent]
+timeout_sec = 2700.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--nodejs-cluster-load-balancer:opencode-1.15.4-020dcdae5e8a"
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

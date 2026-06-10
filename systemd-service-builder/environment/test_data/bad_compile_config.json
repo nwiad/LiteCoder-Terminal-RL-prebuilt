@@ -1,0 +1,5 @@
+{
+  "service_name": "badcompile",
+  "description": "Service with broken source",
+  "source_file": "src/bad_source.c"
+}

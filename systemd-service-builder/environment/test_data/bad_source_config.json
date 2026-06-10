@@ -1,0 +1,5 @@
+{
+  "service_name": "ghost",
+  "description": "Service with missing source",
+  "source_file": "src/nonexistent.c"
+}

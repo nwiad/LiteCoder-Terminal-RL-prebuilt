@@ -1,0 +1,20 @@
+[
+  {
+    "name": "x86-64-native",
+    "compiler": "gcc",
+    "flags": "-march=x86-64 -O2",
+    "expected_machine": "X86-64"
+  },
+  {
+    "name": "x86-32-native",
+    "compiler": "gcc",
+    "flags": "-m32 -O2",
+    "expected_machine": "386"
+  },
+  {
+    "name": "missing-compiler",
+    "compiler": "nonexistent-gcc",
+    "flags": "-O2",
+    "expected_machine": "X86-64"
+  }
+]

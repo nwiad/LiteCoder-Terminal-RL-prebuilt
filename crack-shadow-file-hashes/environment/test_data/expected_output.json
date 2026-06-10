@@ -1,0 +1,26 @@
+{
+  "cracked_passwords": [
+    {
+      "username": "admin",
+      "hash_type": "SHA-512",
+      "cleartext_password": "password123"
+    },
+    {
+      "username": "dbadmin",
+      "hash_type": "SHA-512",
+      "cleartext_password": "dragon"
+    },
+    {
+      "username": "developer",
+      "hash_type": "SHA-512",
+      "cleartext_password": "sunshine"
+    },
+    {
+      "username": "webuser",
+      "hash_type": "SHA-512",
+      "cleartext_password": "letmein"
+    }
+  ],
+  "locked_accounts": ["backup", "bin", "daemon", "root", "sshd", "sys"],
+  "no_password_accounts": ["guest", "nobody"]
+}

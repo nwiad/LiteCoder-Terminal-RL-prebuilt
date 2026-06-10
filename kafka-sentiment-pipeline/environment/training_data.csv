@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,positive
+This is amazing,positive
+Best thing ever,positive
+Absolutely fantastic,positive
+Great quality,positive
+Highly recommend,positive
+Excellent service,positive
+Very satisfied,positive
+Outstanding performance,positive
+Perfect solution,positive
+This is terrible,negative
+Worst experience,negative
+Very disappointed,negative
+Completely useless,negative
+Waste of money,negative
+Poor quality,negative
+Not recommended,negative
+Horrible service,negative
+Total disaster,negative
+Extremely frustrating,negative
+It's okay,neutral
+Nothing special,neutral
+Average product,neutral
+Meets expectations,neutral
+Acceptable quality,neutral
+Fair enough,neutral
+Standard service,neutral
+Decent but not great,neutral
+Mediocre experience,neutral
+Could be better,neutral

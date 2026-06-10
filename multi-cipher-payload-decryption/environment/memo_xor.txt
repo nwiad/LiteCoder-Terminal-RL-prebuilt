@@ -1,0 +1,1 @@
+XOR_KEY_HEX=5e7a3c1d9f0b2e4d6c8a1f3e5d7b9a0c2e4f6a8d0b1c3e5a7f9d1b3c5e7a9f0d

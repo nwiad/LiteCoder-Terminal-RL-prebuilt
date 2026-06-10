@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/network-scan-report-generator"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "medium"
+category = "data-processing"
+tags = [ "python", "json", "html", "network-analysis", "security",]
+expert_time_estimate_min = 25.0
+junior_time_estimate_min = 55.0
+
+[verifier]
+timeout_sec = 360.0
+
+[agent]
+timeout_sec = 2700.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--network-scan-report-generator:opencode-1.15.4-945d227a80a8"
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

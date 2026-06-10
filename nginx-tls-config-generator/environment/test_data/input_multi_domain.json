@@ -1,0 +1,10 @@
+{
+  "domain": "mysite.io",
+  "additional_domains": ["www.mysite.io", "api.mysite.io", "cdn.mysite.io"],
+  "webroot": "/srv/www/mysite",
+  "email": "ops@mysite.io",
+  "nginx_conf_dir": "/etc/nginx",
+  "cert_dir": "/etc/letsencrypt/live/mysite.io",
+  "enable_ocsp_stapling": true,
+  "hsts_max_age": 63072000
+}

@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "original_name": "file1.txt",
+      "encrypted_name": "file1.enc",
+      "original_size": 1493,
+      "sha256_original": "c013359d8226185bf54cb4f011ee30d49307872b003b8e3231c96edde6e0fc72"
+    },
+    {
+      "original_name": "file2.json",
+      "encrypted_name": "file2.enc",
+      "original_size": 941,
+      "sha256_original": "db4590ec10c24d43e86655a8efca924e2076c61885e11cce34c742fd6a1300f9"
+    },
+    {
+      "original_name": "file3.csv",
+      "encrypted_name": "file3.enc",
+      "original_size": 1007,
+      "sha256_original": "d757b9bd396a5b839d7b09ae218b7774919182df422001d91c17452184194ccc"
+    }
+  ]
+}

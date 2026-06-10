@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/build-wasi-hello-wasm"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "medium"
+category = "software-engineering"
+tags = [ "webassembly", "wasi", "rust", "compilation", "build-tools",]
+expert_time_estimate_min = 35.0
+junior_time_estimate_min = 70.0
+
+[verifier]
+timeout_sec = 600.0
+
+[agent]
+timeout_sec = 2700.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--build-wasi-hello-wasm:opencode-1.15.4-946871aa780a"
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

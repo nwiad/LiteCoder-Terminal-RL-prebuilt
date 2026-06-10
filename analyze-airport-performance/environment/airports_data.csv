@@ -1,0 +1,65 @@
+airport_code,airport_name,country,year,passengers,aircraft_movements,avg_delay_minutes
+ATL,Hartsfield-Jackson Atlanta International Airport,USA,2019,110531300,879560,12.5
+ATL,Hartsfield-Jackson Atlanta International Airport,USA,2020,42918685,548016,8.3
+ATL,Hartsfield-Jackson Atlanta International Airport,USA,2021,75704760,707661,10.2
+ATL,Hartsfield-Jackson Atlanta International Airport,USA,2022,93699630,724145,14.7
+DXB,Dubai International Airport,UAE,2019,86396757,409493,18.2
+DXB,Dubai International Airport,UAE,2020,25906977,213000,9.5
+DXB,Dubai International Airport,UAE,2021,29115000,241000,11.8
+DXB,Dubai International Airport,UAE,2022,66069981,357000,16.3
+LAX,Los Angeles International Airport,USA,2019,88068013,700362,15.8
+LAX,Los Angeles International Airport,USA,2020,28777000,379000,7.2
+LAX,Los Angeles International Airport,USA,2021,48007362,522000,9.6
+LAX,Los Angeles International Airport,USA,2022,65998000,602000,13.4
+ORD,O'Hare International Airport,USA,2019,84649115,903747,19.3
+ORD,O'Hare International Airport,USA,2020,34104000,538000,11.2
+ORD,O'Hare International Airport,USA,2021,54448000,659000,14.5
+ORD,O'Hare International Airport,USA,2022,68340000,725000,21.7
+LHR,London Heathrow Airport,UK,2019,80888305,475861,22.4
+LHR,London Heathrow Airport,UK,2020,22108068,211000,8.9
+LHR,London Heathrow Airport,UK,2021,19429000,181000,10.3
+LHR,London Heathrow Airport,UK,2022,61599196,393000,18.6
+HND,Tokyo Haneda Airport,Japan,2019,87131973,485416,6.2
+HND,Tokyo Haneda Airport,Japan,2020,30833000,285000,4.1
+HND,Tokyo Haneda Airport,Japan,2021,24508000,245000,3.8
+HND,Tokyo Haneda Airport,Japan,2022,56387000,378000,5.5
+CDG,Charles de Gaulle Airport,France,2019,76150007,514059,16.7
+CDG,Charles de Gaulle Airport,France,2020,22254000,230000,7.8
+CDG,Charles de Gaulle Airport,France,2021,26213000,267000,9.4
+CDG,Charles de Gaulle Airport,France,2022,57474033,402000,14.2
+DFW,Dallas/Fort Worth International Airport,USA,2019,75066956,726994,13.9
+DFW,Dallas/Fort Worth International Airport,USA,2020,39364990,522000,8.1
+DFW,Dallas/Fort Worth International Airport,USA,2021,62465756,629000,10.7
+DFW,Dallas/Fort Worth International Airport,USA,2022,73362946,700000,15.3
+JFK,John F. Kennedy International Airport,USA,2019,62551073,446459,20.8
+JFK,John F. Kennedy International Airport,USA,2020,17108000,285000,9.7
+JFK,John F. Kennedy International Airport,USA,2021,31022000,358000,12.4
+JFK,John F. Kennedy International Airport,USA,2022,55175000,410000,18.9
+AMS,Amsterdam Airport Schiphol,Netherlands,2019,71707144,499446,14.3
+AMS,Amsterdam Airport Schiphol,Netherlands,2020,20872000,187000,6.5
+AMS,Amsterdam Airport Schiphol,Netherlands,2021,25469000,232000,8.2
+AMS,Amsterdam Airport Schiphol,Netherlands,2022,52472188,405000,12.8
+SIN,Singapore Changi Airport,Singapore,2019,68283000,382000,5.7
+SIN,Singapore Changi Airport,Singapore,2020,11800000,145000,3.2
+SIN,Singapore Changi Airport,Singapore,2021,7900000,98000,2.9
+SIN,Singapore Changi Airport,Singapore,2022,32626000,245000,4.8
+ICN,Incheon International Airport,South Korea,2019,71247000,382155,7.4
+ICN,Incheon International Airport,South Korea,2020,12988000,178000,4.6
+ICN,Incheon International Airport,South Korea,2021,12248000,165000,4.2
+ICN,Incheon International Airport,South Korea,2022,28184000,245000,6.1
+FRA,Frankfurt Airport,Germany,2019,70556072,513912,17.2
+FRA,Frankfurt Airport,Germany,2020,18767000,210000,8.4
+FRA,Frankfurt Airport,Germany,2021,24811000,257000,10.1
+FRA,Frankfurt Airport,Germany,2022,48918000,385000,15.6
+DEL,Indira Gandhi International Airport,India,2019,69900000,412000,
+DEL,Indira Gandhi International Airport,India,2020,34090000,245000,11.3
+DEL,Indira Gandhi International Airport,India,2021,28520000,198000,9.8
+DEL,Indira Gandhi International Airport,India,2022,59490000,378000,13.5
+CAN,Guangzhou Baiyun International Airport,China,2019,73387000,490000,8.9
+CAN,Guangzhou Baiyun International Airport,China,2020,43767000,378000,6.2
+CAN,Guangzhou Baiyun International Airport,China,2021,40260000,356000,5.8
+CAN,Guangzhou Baiyun International Airport,China,2022,31080000,298000,
+PEK,Beijing Capital International Airport,China,2019,100013642,594329,11.6
+PEK,Beijing Capital International Airport,China,2020,34513827,312000,7.3
+PEK,Beijing Capital International Airport,China,2021,43930000,345000,8.1
+PEK,Beijing Capital International Airport,China,2022,31540000,287000,9.4

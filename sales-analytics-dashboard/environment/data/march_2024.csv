@@ -1,0 +1,14 @@
+order_id,date,product_name,category,quantity,unit_price,customer_id
+ORD-201,2024-03-01,Mechanical Keyboard,Electronics,2,89.99,CUST-301
+ORD-202,2024-03-04,Wireless Mouse,Electronics,4,29.99,CUST-101
+ORD-203,2024-03-06,Monitor Stand,Home & Office,2,79.99,CUST-302
+ORD-204,2024-03-09,Notebook A5,Office Supplies,12,3.50,CUST-103
+ORD-205,2024-03-11,USB-C Hub,Electronics,3,49.99,CUST-303
+ORD-206,2024-03-14,Desk Lamp,Home & Office,2,45.00,CUST-204
+ORD-207,2024-03-16,Pen Set,Office Supplies,4,12.99,CUST-304
+ORD-208,2024-03-19,Standing Desk Mat,Home & Office,1,39.99,CUST-305
+ORD-209,2024-03-22,Wireless Mouse,Electronics,1,29.99,CUST-206
+ORD-210,2024-03-25,Mechanical Keyboard,Electronics,1,89.99,CUST-105
+ORD-211,2024-03-28,USB-C Hub,Electronics,2,49.99,CUST-306
+ORD-212,2024-03-30,Notebook A5,Office Supplies,6,3.50,CUST-307
+ORD-101,2024-03-30,Wireless Mouse,Electronics,1,29.99,CUST-308

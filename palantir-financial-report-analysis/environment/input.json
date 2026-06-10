@@ -1,0 +1,95 @@
+{
+  "company": "Palantir Technologies Inc.",
+  "filing_type": "10-K",
+  "fiscal_year": 2020,
+  "currency": "USD",
+  "unit": "thousands",
+  "income_statement": {
+    "2019": {
+      "total_revenue": 742547,
+      "cost_of_revenue": 340126,
+      "gross_profit": 402421,
+      "research_and_development": 305169,
+      "sales_and_marketing": 450412,
+      "general_and_administrative": 232590,
+      "total_operating_expenses": 1328297,
+      "operating_income": -585750,
+      "interest_income": 6845,
+      "interest_expense": 2314,
+      "other_income_expense": -1253,
+      "income_before_taxes": -582472,
+      "income_tax_provision": 7568,
+      "net_income": -590040
+    },
+    "2020": {
+      "total_revenue": 1092673,
+      "cost_of_revenue": 426217,
+      "gross_profit": 666456,
+      "research_and_development": 560654,
+      "sales_and_marketing": 509531,
+      "general_and_administrative": 616478,
+      "total_operating_expenses": 2112880,
+      "operating_income": -1020207,
+      "interest_income": 1541,
+      "interest_expense": 15498,
+      "other_income_expense": -3782,
+      "income_before_taxes": -1037946,
+      "income_tax_provision": 22066,
+      "net_income": -1166391
+    }
+  },
+  "balance_sheet": {
+    "2019": {
+      "cash_and_cash_equivalents": 534484,
+      "accounts_receivable": 261432,
+      "total_current_assets": 913567,
+      "total_assets": 1522451,
+      "accounts_payable": 24813,
+      "accrued_liabilities": 148976,
+      "deferred_revenue": 85432,
+      "total_current_liabilities": 349221,
+      "long_term_debt": 198450,
+      "total_liabilities": 873214,
+      "total_stockholders_equity": 649237,
+      "total_liabilities_and_equity": 1522451
+    },
+    "2020": {
+      "cash_and_cash_equivalents": 2011300,
+      "accounts_receivable": 292089,
+      "total_current_assets": 2464812,
+      "total_assets": 3163346,
+      "accounts_payable": 18413,
+      "accrued_liabilities": 201345,
+      "deferred_revenue": 107892,
+      "total_current_liabilities": 452650,
+      "long_term_debt": 198450,
+      "total_liabilities": 1107543,
+      "total_stockholders_equity": 2055803,
+      "total_liabilities_and_equity": 3163346
+    }
+  },
+  "cash_flow_statement": {
+    "2019": {
+      "net_income": -590040,
+      "depreciation_and_amortization": 21345,
+      "stock_based_compensation": 241812,
+      "changes_in_working_capital": -35678,
+      "net_cash_from_operations": -165234,
+      "capital_expenditures": -28976,
+      "net_cash_from_investing": -42318,
+      "net_cash_from_financing": 312456,
+      "net_change_in_cash": 104904
+    },
+    "2020": {
+      "net_income": -1166391,
+      "depreciation_and_amortization": 33456,
+      "stock_based_compensation": 1092716,
+      "changes_in_working_capital": -48923,
+      "net_cash_from_operations": -116845,
+      "capital_expenditures": -32197,
+      "net_cash_from_investing": -58432,
+      "net_cash_from_financing": 1651093,
+      "net_change_in_cash": 1476816
+    }
+  }
+}

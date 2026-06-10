@@ -1,0 +1,6 @@
+prod_id,product_name,qty_in_stock,warehouse
+101,Wireless Mouse,150,Warehouse A
+102,USB Keyboard,,Warehouse A
+103,Desk Lamp,80,Warehouse B
+106,Stapler,200,Warehouse C
+103,Desk Lamp,80,Warehouse B

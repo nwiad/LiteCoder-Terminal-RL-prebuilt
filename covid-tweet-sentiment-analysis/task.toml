@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/covid-tweet-sentiment-analysis"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "medium"
+category = "data-processing"
+tags = [ "python", "nlp", "sentiment-analysis", "pandas", "data-pipeline",]
+expert_time_estimate_min = 25.0
+junior_time_estimate_min = 55.0
+
+[verifier]
+timeout_sec = 480.0
+
+[agent]
+timeout_sec = 2700.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--covid-tweet-sentiment-analysis:opencode-1.15.4-819a9320b2fc"
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]

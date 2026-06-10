@@ -1,0 +1,38 @@
+schema_version = "1.1"
+
+[task]
+name = "LiteCoder/sales-performance-dashboard"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "generated"
+author_email = "generated@harbor.ai"
+difficulty = "medium"
+category = "data-processing"
+tags = [ "python", "pandas", "data-visualization", "dash", "matplotlib",]
+expert_time_estimate_min = 30.0
+junior_time_estimate_min = 60.0
+
+[verifier]
+timeout_sec = 600.0
+
+[agent]
+timeout_sec = 2700.0
+
+[environment]
+docker_image = "hub.byted.org/dwn_open_docker/litecoder-terminal--sales-performance-dashboard:opencode-1.15.4-2398cc6b5630"
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+gpus = 0
+allow_internet = true
+mcp_servers = []
+
+[verifier.env]
+
+[environment.env]
+
+[solution.env]
